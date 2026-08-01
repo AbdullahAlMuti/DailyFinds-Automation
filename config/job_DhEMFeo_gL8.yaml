@@ -1,0 +1,18 @@
+youtube_url: "https://www.youtube.com/watch?v=DhEMFeo_gL8"
+video_url: "https://www.youtube.com/watch?v=DhEMFeo_gL8"
+
+publishing:
+  mode: "draft"
+  dry_run: false
+  duplicate_policy: "stop"
+
+wordpress:
+  category: "Gadgets"
+  tags: ["DailyFindz", "AI Tools", "Productivity"]
+  status: "draft"
+
+content:
+  minimum_words: 3000
+  maximum_words: 4500
+  brand_tone: "professional, natural, knowledgeable and practical"
+  require_pros_cons: true

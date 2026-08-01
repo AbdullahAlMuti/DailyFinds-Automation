@@ -1,0 +1,37 @@
+article_path: "outputs/example/article.md"
+
+output:
+  directory: "outputs/example/humanization"
+  preserve_original: true
+
+humanizer:
+  mode: "rewrite"
+  voice: "professional"
+  purpose: "marketing"
+  score_before: true
+  score_after: true
+  maximum_iterations: 3
+  aggressive: false
+  ignore_code: true
+  ignore_quotes: true
+
+preservation:
+  facts: true
+  citations: true
+  quotations: true
+  links: true
+  headings: true
+  keywords: true
+  wordpress_markup: true
+  tables: true
+  code_blocks: true
+  schema: true
+  image_references: true
+
+quality:
+  fact_check_before_rewrite: true
+  verify_protected_elements: true
+  stop_on_fact_change: true
+  stop_on_broken_link: true
+  stop_on_invalid_markup: true
+  require_human_review: true

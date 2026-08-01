@@ -1,0 +1,20 @@
+default_wordpress:
+  base_url: "https://dailyfindz.com"
+  status: "draft"
+  request_timeout: 30
+  verify_ssl: true
+  author_id: 1
+
+categories:
+  "Home & Kitchen": 3
+  "Electronics": 4
+  "Beauty": 5
+  "Gadgets": 6
+
+logging:
+  level: "INFO"
+  redact_secrets: true
+
+paths:
+  output_directory: "outputs"
+  templates_directory: "templates"

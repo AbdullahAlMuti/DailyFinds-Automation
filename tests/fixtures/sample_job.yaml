@@ -1,0 +1,23 @@
+youtube_url: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+
+content:
+  target_language: "English"
+  minimum_words: 100
+  maximum_words: 500
+
+transcription:
+  preferred_language: "en"
+  accept_creator_captions: true
+  accept_auto_captions: true
+
+images:
+  featured_image: true
+  supporting_images: 1
+
+wordpress:
+  status: "draft"
+  category: "Home & Kitchen"
+  tags: ["Test"]
+
+publishing:
+  duplicate_policy: "stop"
