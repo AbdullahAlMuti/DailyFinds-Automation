@@ -1,0 +1,46 @@
+youtube_url: "https://www.youtube.com/watch?v=Rh-gRPDaTz8"
+
+content:
+  target_language: "English"
+  audience: "Beginners interested in practical home and tech solutions"
+  target_market: "US"
+  tone: "Honest, practical, friendly expert"
+  minimum_words: 1800
+  maximum_words: 2400
+  include_faq: true
+  include_key_takeaways: true
+  include_table_of_contents: true
+  include_video_embed: true
+
+transcription:
+  preferred_language: "en"
+  accept_creator_captions: true
+  accept_auto_captions: true
+  permit_audio_download: false
+  permit_local_transcription: false
+  whisper_model: "small"
+  timestamps: true
+
+images:
+  featured_image: true
+  supporting_images: 2
+  featured_ratio: "16:9"
+  supporting_ratio: "16:9"
+  style: "Editorial, professional, realistic"
+  include_text_inside_images: false
+  avoid_logos: true
+  avoid_trademarks: true
+  avoid_celebrity_likeness: true
+
+wordpress:
+  status: "draft"
+  category: "Home & Kitchen"
+  tags: ["Home Organization", "DailyFindz"]
+  author_id: null
+  comments: "closed"
+  seo_plugin: "none"
+
+publishing:
+  duplicate_policy: "stop"
+  require_quality_pass: true
+  require_human_review_for_sensitive_topics: true

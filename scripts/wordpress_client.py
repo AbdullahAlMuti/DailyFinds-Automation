@@ -182,12 +182,20 @@ class WordPressClient:
     def search_duplicate_post(self, slug: str, title: str) -> Optional[Dict[str, Any]]:
         """Searches existing WordPress posts by exact slug or normalized title."""
         # 1. Search by slug
-        posts = self._request("GET", "posts", params={"slug": slug, "status": "any"})
+        try:
+            posts = self._request("GET", "posts", params={"slug": slug, "status": "any"})
+        except WordPressAPIError:
+            posts = self._request("GET", "posts", params={"slug": slug})
+
         if posts and isinstance(posts, list) and len(posts) > 0:
             return posts[0]
 
         # 2. Search by title
-        posts_title = self._request("GET", "posts", params={"search": title, "status": "any"})
+        try:
+            posts_title = self._request("GET", "posts", params={"search": title, "status": "any"})
+        except WordPressAPIError:
+            posts_title = self._request("GET", "posts", params={"search": title})
+
         if posts_title and isinstance(posts_title, list):
             for p in posts_title:
                 if p.get("title", {}).get("rendered", "").strip().lower() == title.strip().lower():
@@ -264,6 +272,7 @@ class WordPressClient:
         category_id: int,
         tag_ids: List[int],
         featured_media_id: Optional[int] = None,
+        author_id: Optional[int] = None,
         requested_status: str = "draft",
         allow_publish_flag: bool = False
     ) -> Dict[str, Any]:
@@ -289,6 +298,8 @@ class WordPressClient:
             "tags": tag_ids,
             "comment_status": "closed",
         }
+        if author_id:
+            payload["author"] = author_id
 
         if featured_media_id:
             payload["featured_media"] = featured_media_id
