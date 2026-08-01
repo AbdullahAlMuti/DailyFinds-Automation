@@ -1,0 +1,16 @@
+{
+  "tier": "Tier 3 - Automatic Captions",
+  "language": "en",
+  "is_machine_generated": true,
+  "caption_format": "vtt",
+  "method": "yt_dlp_auto",
+  "character_count": 40350,
+  "estimated_word_count": 7341,
+  "detected_segments": {
+    "intros": [
+      "So, in this video, I'm going to tell you exactly video, I'm going to tell you exactly video, I'm going to tell you exactly what this new opportunity is and how to what this new opportunity is and how to what this new opportunity is and how to get started."
+    ],
+    "sponsorships": [],
+    "outros": []
+  }
+}

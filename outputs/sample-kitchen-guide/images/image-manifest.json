@@ -1,0 +1,13 @@
+[
+  {
+    "file_path": "outputs/sample-kitchen-guide/images/featured.jpg",
+    "placement": "featured",
+    "prompt": "Editorial photograph of clean, modern organized kitchen cabinets with wooden cutting boards and labeled glass storage jars, warm natural morning light, highly realistic home photography. No text, no words, no logos, no trademarks.",
+    "alt_text": "Clean and well-organized modern kitchen cabinets with wooden cutting boards and clear glass jars",
+    "caption": "A simple cabinet organization system maximizes small kitchen storage.",
+    "suggested_filename": "small-kitchen-organizers-featured.jpg",
+    "width": 1200,
+    "height": 675,
+    "is_ai_generated": true
+  }
+]

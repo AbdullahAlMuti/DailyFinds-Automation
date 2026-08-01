@@ -1,0 +1,27 @@
+youtube_url: "https://www.youtube.com/watch?v=sample12345"
+
+content:
+  target_language: "English"
+  audience: "Homeowners looking for efficient kitchen organization"
+  target_market: "US"
+  tone: "Honest, practical, friendly expert"
+  minimum_words: 500
+  maximum_words: 2400
+  include_faq: true
+  include_key_takeaways: true
+  include_table_of_contents: true
+
+transcription:
+  preferred_language: "en"
+
+images:
+  featured_image: true
+  supporting_images: 0
+
+wordpress:
+  status: "draft"
+  category: "Home & Kitchen"
+  tags: ["Kitchen Storage", "Organization", "DailyFindz Guide"]
+
+publishing:
+  duplicate_policy: "stop"

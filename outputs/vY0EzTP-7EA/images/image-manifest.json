@@ -1,0 +1,46 @@
+[
+  {
+    "file_path": "outputs/vY0EzTP-7EA/images/featured.jpg",
+    "placement": "featured",
+    "prompt": "Editorial photograph of a clean modern desk setup with a laptop displaying growth data analytics, clean notebook, warm natural morning light through a window, professional minimalist workspace. No text inside image, no words, no brand logos, no trademarks.",
+    "alt_text": "Professional modern workspace setup with laptop showing business growth analytics",
+    "caption": "Monetizing Claude AI effectively requires focusing on measurable client ROI rather than generic automations.",
+    "suggested_filename": "how-to-make-money-with-claude-ai-featured.jpg",
+    "width": 1200,
+    "height": 675,
+    "is_ai_generated": true
+  },
+  {
+    "file_path": "outputs/vY0EzTP-7EA/images/inline1.jpg",
+    "placement": "inline",
+    "prompt": "Editorial photograph of a modern office meeting table with open laptop showing business workflow diagrams, clean glass notebook, warm natural lighting, professional minimalist aesthetic. No text inside image, no words, no brand logos, no trademarks.",
+    "alt_text": "Business meeting desk with laptop displaying automated workflow strategy diagrams",
+    "caption": "Comparing Freelance Claude Consulting vs In-House AI Lead Career Pathways.",
+    "suggested_filename": "how-to-make-money-with-claude-ai-inline-1.jpg",
+    "width": 1200,
+    "height": 675,
+    "is_ai_generated": true
+  },
+  {
+    "file_path": "outputs/vY0EzTP-7EA/images/inline2.jpg",
+    "placement": "inline",
+    "prompt": "Editorial photograph of a clean, modern creative home office setup with dual monitors showing productive workflow dashboards, desk lamp, plant, warm ambient lighting. No text inside image, no words, no brand logos, no trademarks.",
+    "alt_text": "Clean home office setup with dual screens running automated AI task workflows",
+    "caption": "Building custom Claude prompts and process documentation for predictable task execution.",
+    "suggested_filename": "how-to-make-money-with-claude-ai-inline-2.jpg",
+    "width": 1200,
+    "height": 675,
+    "is_ai_generated": true
+  },
+  {
+    "file_path": "outputs/vY0EzTP-7EA/images/inline3.jpg",
+    "placement": "inline",
+    "prompt": "Editorial photograph of a modern glass office conference room with a digital presentation screen showing business growth metrics, sleek minimalist desk, warm daylight. No text inside image, no words, no brand logos, no trademarks.",
+    "alt_text": "Modern enterprise conference room displaying corporate digital transformation charts",
+    "caption": "Scaling AI consulting through monthly enterprise retainer contracts.",
+    "suggested_filename": "how-to-make-money-with-claude-ai-inline-3.jpg",
+    "width": 1200,
+    "height": 675,
+    "is_ai_generated": true
+  }
+]

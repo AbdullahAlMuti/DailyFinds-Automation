@@ -1,0 +1,13 @@
+{
+  "tier": "Tier 1 - Mock Dry Run",
+  "is_machine_generated": false,
+  "character_count": 98,
+  "estimated_word_count": 12,
+  "detected_segments": {
+    "intros": [
+      "Today we are demonstrating kitchen organization techniques."
+    ],
+    "sponsorships": [],
+    "outros": []
+  }
+}

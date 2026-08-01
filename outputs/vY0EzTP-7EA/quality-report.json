@@ -1,0 +1,25 @@
+{
+  "passed": true,
+  "blocking_failures": [],
+  "warnings": [
+    "Meta description length (241 chars) is outside recommended range (120-160 chars)."
+  ],
+  "checks_performed": [
+    "transcript_presence",
+    "article_files",
+    "article_title_h1",
+    "placeholder_text",
+    "word_count",
+    "raw_speech_marker_check",
+    "pros_cons_evaluation_check",
+    "unsafe_html",
+    "featured_image",
+    "schema_json_presence",
+    "publication_safety",
+    "sensitive_topic_check"
+  ],
+  "word_count": 3087,
+  "image_count": 4,
+  "quality_score": "100/100",
+  "ai_pattern_score": "8/100 (Low Risk)"
+}

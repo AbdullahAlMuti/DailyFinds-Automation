@@ -1,0 +1,1122 @@
+# Timestamped Transcript
+
+- **[00:00:00.240]**: Kind: captions Language: en I know for a fact that you're tired of
+- **[00:00:02.389]**: I know for a fact that you're tired of
+- **[00:00:02.399]**: I know for a fact that you're tired of searching the internet for the best ways
+- **[00:00:04.309]**: searching the internet for the best ways
+- **[00:00:04.319]**: searching the internet for the best ways to make money online. Every day,
+- **[00:00:06.710]**: to make money online. Every day,
+- **[00:00:06.720]**: to make money online. Every day, thousands of internet gurus tell you to
+- **[00:00:08.870]**: thousands of internet gurus tell you to
+- **[00:00:08.880]**: thousands of internet gurus tell you to try affiliate marketing or drop
+- **[00:00:10.629]**: try affiliate marketing or drop
+- **[00:00:10.639]**: try affiliate marketing or drop shipping, and they're all full of
+- **[00:00:13.030]**: shipping, and they're all full of
+- **[00:00:13.040]**: shipping, and they're all full of Those things don't work in 2026,
+- **[00:00:15.669]**: Those things don't work in 2026,
+- **[00:00:15.679]**: Those things don't work in 2026, especially not in the new era of AI. In
+- **[00:00:18.230]**: especially not in the new era of AI. In
+- **[00:00:18.240]**: especially not in the new era of AI. In my AI venture studio, Martell Ventures,
+- **[00:00:20.390]**: my AI venture studio, Martell Ventures,
+- **[00:00:20.400]**: my AI venture studio, Martell Ventures, I've created dozens of companies that
+- **[00:00:22.230]**: I've created dozens of companies that
+- **[00:00:22.240]**: I've created dozens of companies that now generate millions, and I can tell
+- **[00:00:23.990]**: now generate millions, and I can tell
+- **[00:00:24.000]**: now generate millions, and I can tell you there's only a few real ways to make
+- **[00:00:26.470]**: you there's only a few real ways to make
+- **[00:00:26.480]**: you there's only a few real ways to make money online. To make it simple, we're
+- **[00:00:28.710]**: money online. To make it simple, we're
+- **[00:00:28.720]**: money online. To make it simple, we're breaking everything into four buckets.
+- **[00:00:31.509]**: breaking everything into four buckets.
+- **[00:00:31.519]**: breaking everything into four buckets. Trash, the stuff you shoulding run away
+- **[00:00:33.590]**: Trash, the stuff you shoulding run away
+- **[00:00:33.600]**: Trash, the stuff you shoulding run away from. Easy, businesses you can launch in
+- **[00:00:36.549]**: from. Easy, businesses you can launch in
+- **[00:00:36.559]**: from. Easy, businesses you can launch in under three months, earning 5 to 10K a
+- **[00:00:38.630]**: under three months, earning 5 to 10K a
+- **[00:00:38.640]**: under three months, earning 5 to 10K a month. Medium, skills that can be
+- **[00:00:41.110]**: month. Medium, skills that can be
+- **[00:00:41.120]**: month. Medium, skills that can be profitable within a year, making 10 to
+- **[00:00:43.430]**: profitable within a year, making 10 to
+- **[00:00:43.440]**: profitable within a year, making 10 to 50K a month. And hard, long-term plays
+- **[00:00:46.869]**: 50K a month. And hard, long-term plays
+- **[00:00:46.879]**: 50K a month. And hard, long-term plays that may take more time, but can make
+- **[00:00:48.709]**: that may take more time, but can make
+- **[00:00:48.719]**: that may take more time, but can make you millions if done right. I'll tell
+- **[00:00:50.790]**: you millions if done right. I'll tell
+- **[00:00:50.800]**: you millions if done right. I'll tell you the income potential, difficulty,
+- **[00:00:53.670]**: you the income potential, difficulty,
+- **[00:00:53.680]**: you the income potential, difficulty, how long it'll take to make money, and
+- **[00:00:56.630]**: how long it'll take to make money, and
+- **[00:00:56.640]**: how long it'll take to make money, and who is best for each bucket. So, without
+- **[00:00:59.830]**: who is best for each bucket. So, without
+- **[00:00:59.840]**: who is best for each bucket. So, without further explanation, let's get into the
+- **[00:01:01.910]**: further explanation, let's get into the
+- **[00:01:01.920]**: further explanation, let's get into the real ways to make money in 2026. [music]
+- **[00:01:04.469]**: real ways to make money in 2026. [music]
+- **[00:01:04.479]**: real ways to make money in 2026. [music] Starting with bucket number one, the
+- **[00:01:06.710]**: Starting with bucket number one, the
+- **[00:01:06.720]**: Starting with bucket number one, the trash bucket. The income potential for
+- **[00:01:09.109]**: trash bucket. The income potential for
+- **[00:01:09.119]**: trash bucket. The income potential for this bucket is zero or even worse, could
+- **[00:01:11.670]**: this bucket is zero or even worse, could
+- **[00:01:11.680]**: this bucket is zero or even worse, could be negative. Difficulty, I mean, it
+- **[00:01:13.910]**: be negative. Difficulty, I mean, it
+- **[00:01:13.920]**: be negative. Difficulty, I mean, it looks easy, but it gives you nothing
+- **[00:01:16.070]**: looks easy, but it gives you nothing
+- **[00:01:16.080]**: looks easy, but it gives you nothing back. time frame wastes months [music]
+- **[00:01:18.950]**: back. time frame wastes months [music]
+- **[00:01:18.960]**: back. time frame wastes months [music] before you realize it was dead on
+- **[00:01:20.789]**: before you realize it was dead on
+- **[00:01:20.799]**: before you realize it was dead on arrival. Who is it best for? No one. NFT
+- **[00:01:24.469]**: arrival. Who is it best for? No one. NFT
+- **[00:01:24.479]**: arrival. Who is it best for? No one. NFT flipping. The hype is freaking done.
+- **[00:01:26.710]**: flipping. The hype is freaking done.
+- **[00:01:26.720]**: flipping. The hype is freaking done. Look at all the projects that launched.
+- **[00:01:28.870]**: Look at all the projects that launched.
+- **[00:01:28.880]**: Look at all the projects that launched. Nobody made money. The ones that thought
+- **[00:01:30.550]**: Nobody made money. The ones that thought
+- **[00:01:30.560]**: Nobody made money. The ones that thought they made money have lost money. And if
+- **[00:01:32.630]**: they made money have lost money. And if
+- **[00:01:32.640]**: they made money have lost money. And if you're going to start there and you
+- **[00:01:33.990]**: you're going to start there and you
+- **[00:01:34.000]**: you're going to start there and you haven't made money ever online, that's a
+- **[00:01:36.310]**: haven't made money ever online, that's a
+- **[00:01:36.320]**: haven't made money ever online, that's a losing recipe. Next, crypto trading
+- **[00:01:40.149]**: losing recipe. Next, crypto trading
+- **[00:01:40.159]**: losing recipe. Next, crypto trading moves really fast. Most people don't
+- **[00:01:42.550]**: moves really fast. Most people don't
+- **[00:01:42.560]**: moves really fast. Most people don't have the patience and it's [music]
+- **[00:01:44.230]**: have the patience and it's [music]
+- **[00:01:44.240]**: have the patience and it's [music] without any crazy skill. Unless you're
+- **[00:01:46.310]**: without any crazy skill. Unless you're
+- **[00:01:46.320]**: without any crazy skill. Unless you're the person that tries to frontr run the
+- **[00:01:48.149]**: the person that tries to frontr run the
+- **[00:01:48.159]**: the person that tries to frontr run the whole freaking trade, most people lose
+- **[00:01:49.990]**: whole freaking trade, most people lose
+- **[00:01:50.000]**: whole freaking trade, most people lose money every freaking day. Next,
+- **[00:01:52.630]**: money every freaking day. Next,
+- **[00:01:52.640]**: money every freaking day. Next, multi-level marketing. If the way you
+- **[00:01:55.190]**: multi-level marketing. If the way you
+- **[00:01:55.200]**: multi-level marketing. If the way you make money is getting paid to recruit
+- **[00:01:57.350]**: make money is getting paid to recruit
+- **[00:01:57.360]**: make money is getting paid to recruit people to join your thing and you don't
+- **[00:01:59.830]**: people to join your thing and you don't
+- **[00:01:59.840]**: people to join your thing and you don't shape the business and you don't
+- **[00:02:01.670]**: shape the business and you don't
+- **[00:02:01.680]**: shape the business and you don't actually sell anything and you actually
+- **[00:02:03.429]**: actually sell anything and you actually
+- **[00:02:03.439]**: actually sell anything and you actually spend more money to buy product to try
+- **[00:02:05.190]**: spend more money to buy product to try
+- **[00:02:05.200]**: spend more money to buy product to try to get up the leaderboard, that's not a
+- **[00:02:06.950]**: to get up the leaderboard, that's not a
+- **[00:02:06.960]**: to get up the leaderboard, that's not a business you want to be in. Most of
+- **[00:02:08.309]**: business you want to be in. Most of
+- **[00:02:08.319]**: business you want to be in. Most of these are scams. Next, basic caption or
+- **[00:02:11.110]**: these are scams. Next, basic caption or
+- **[00:02:11.120]**: these are scams. Next, basic caption or subtitles. [music] Now, AI does it
+- **[00:02:13.350]**: subtitles. [music] Now, AI does it
+- **[00:02:13.360]**: subtitles. [music] Now, AI does it faster, cheaper, and way better. After
+- **[00:02:16.550]**: faster, cheaper, and way better. After
+- **[00:02:16.560]**: faster, cheaper, and way better. After that, we have low-level data entry. This
+- **[00:02:19.830]**: that, we have low-level data entry. This
+- **[00:02:19.840]**: that, we have low-level data entry. This is wild to watch that people still think
+- **[00:02:21.990]**: is wild to watch that people still think
+- **[00:02:22.000]**: is wild to watch that people still think they're going to make money on this
+- **[00:02:23.270]**: they're going to make money on this
+- **[00:02:23.280]**: they're going to make money on this because AI tools have replaced this work
+- **[00:02:25.510]**: because AI tools have replaced this work
+- **[00:02:25.520]**: because AI tools have replaced this work completely. Fiverr Microtask, my
+- **[00:02:28.550]**: completely. Fiverr Microtask, my
+- **[00:02:28.560]**: completely. Fiverr Microtask, my favorite website on the internet 5 years
+- **[00:02:30.790]**: favorite website on the internet 5 years
+- **[00:02:30.800]**: favorite website on the internet 5 years ago. Trying to make money this way. It's
+- **[00:02:33.270]**: ago. Trying to make money this way. It's
+- **[00:02:33.280]**: ago. Trying to make money this way. It's not the worst on the list, but it has
+- **[00:02:35.030]**: not the worst on the list, but it has
+- **[00:02:35.040]**: not the worst on the list, but it has zero long-term growth. Next, we got
+- **[00:02:37.350]**: zero long-term growth. Next, we got
+- **[00:02:37.360]**: zero long-term growth. Next, we got print ondemand. Here's the thing, it's
+- **[00:02:40.790]**: print ondemand. Here's the thing, it's
+- **[00:02:40.800]**: print ondemand. Here's the thing, it's really crowded and everyone sells the
+- **[00:02:43.350]**: really crowded and everyone sells the
+- **[00:02:43.360]**: really crowded and everyone sells the same stuff. And last but not least, my
+- **[00:02:46.550]**: same stuff. And last but not least, my
+- **[00:02:46.560]**: same stuff. And last but not least, my favorite, day trading. Here's the deal.
+- **[00:02:48.630]**: favorite, day trading. Here's the deal.
+- **[00:02:48.640]**: favorite, day trading. Here's the deal. If you're not completely into it,
+- **[00:02:50.790]**: If you're not completely into it,
+- **[00:02:50.800]**: If you're not completely into it, obsessed on it, and just want to just
+- **[00:02:52.949]**: obsessed on it, and just want to just
+- **[00:02:52.959]**: obsessed on it, and just want to just live the day trading life, it is way
+- **[00:02:55.030]**: live the day trading life, it is way
+- **[00:02:55.040]**: live the day trading life, it is way easier to lose money than to make any.
+- **[00:02:58.070]**: easier to lose money than to make any.
+- **[00:02:58.080]**: easier to lose money than to make any. Basically, all these are like trying to
+- **[00:03:00.550]**: Basically, all these are like trying to
+- **[00:03:00.560]**: Basically, all these are like trying to race across the ocean in a car. [music]
+- **[00:03:02.869]**: race across the ocean in a car. [music]
+- **[00:03:02.879]**: race across the ocean in a car. [music] You keep drowning because you need a
+- **[00:03:04.790]**: You keep drowning because you need a
+- **[00:03:04.800]**: You keep drowning because you need a different vehicle. So, to make sure your
+- **[00:03:07.350]**: different vehicle. So, to make sure your
+- **[00:03:07.360]**: different vehicle. So, to make sure your idea isn't in this bucket, I need you to
+- **[00:03:09.910]**: idea isn't in this bucket, I need you to
+- **[00:03:09.920]**: idea isn't in this bucket, I need you to run your idea through the trash filter.
+- **[00:03:12.790]**: run your idea through the trash filter.
+- **[00:03:12.800]**: run your idea through the trash filter. Three simple questions. One, is AI
+- **[00:03:16.309]**: Three simple questions. One, is AI
+- **[00:03:16.319]**: Three simple questions. One, is AI already replacing this? Two, is the
+- **[00:03:19.589]**: already replacing this? Two, is the
+- **[00:03:19.599]**: already replacing this? Two, is the industry shrinking or going obsolete?
+- **[00:03:22.710]**: industry shrinking or going obsolete?
+- **[00:03:22.720]**: industry shrinking or going obsolete? Three, is it easier to lose money than
+- **[00:03:25.190]**: Three, is it easier to lose money than
+- **[00:03:25.200]**: Three, is it easier to lose money than to make money? If you answer yes to any,
+- **[00:03:29.030]**: to make money? If you answer yes to any,
+- **[00:03:29.040]**: to make money? If you answer yes to any, move on immediately. Now, let's talk
+- **[00:03:32.309]**: move on immediately. Now, let's talk
+- **[00:03:32.319]**: move on immediately. Now, let's talk about the first bucket that actually
+- **[00:03:34.229]**: about the first bucket that actually
+- **[00:03:34.239]**: about the first bucket that actually pays real money. Bucket number two, easy
+- **[00:03:37.030]**: pays real money. Bucket number two, easy
+- **[00:03:37.040]**: pays real money. Bucket number two, easy bucket. The income potential, 5 to 10k a
+- **[00:03:40.390]**: bucket. The income potential, 5 to 10k a
+- **[00:03:40.400]**: bucket. The income potential, 5 to 10k a month, no problem. The difficulty, low,
+- **[00:03:43.670]**: month, no problem. The difficulty, low,
+- **[00:03:43.680]**: month, no problem. The difficulty, low, simple skills, fast turnaround. Time
+- **[00:03:46.550]**: simple skills, fast turnaround. Time
+- **[00:03:46.560]**: simple skills, fast turnaround. Time frame, 30 to 60 days to actually get
+- **[00:03:49.190]**: frame, 30 to 60 days to actually get
+- **[00:03:49.200]**: frame, 30 to 60 days to actually get paid. And it's best for beginners trying
+- **[00:03:51.990]**: paid. And it's best for beginners trying
+- **[00:03:52.000]**: paid. And it's best for beginners trying to gain some momentum and build some
+- **[00:03:53.910]**: to gain some momentum and build some
+- **[00:03:53.920]**: to gain some momentum and build some skills. You don't need a degree for
+- **[00:03:55.670]**: skills. You don't need a degree for
+- **[00:03:55.680]**: skills. You don't need a degree for these. These just need basic execution
+- **[00:03:58.470]**: these. These just need basic execution
+- **[00:03:58.480]**: these. These just need basic execution and learning how to talk to customers.
+- **[00:04:00.390]**: and learning how to talk to customers.
+- **[00:04:00.400]**: and learning how to talk to customers. Just get your first dollar online. Build
+- **[00:04:02.390]**: Just get your first dollar online. Build
+- **[00:04:02.400]**: Just get your first dollar online. Build some confidence and learn how clients
+- **[00:04:04.309]**: some confidence and learn how clients
+- **[00:04:04.319]**: some confidence and learn how clients work. Here are some examples. The first
+- **[00:04:06.070]**: work. Here are some examples. The first
+- **[00:04:06.080]**: work. Here are some examples. The first one, basic short form editing. If you
+- **[00:04:09.030]**: one, basic short form editing. If you
+- **[00:04:09.040]**: one, basic short form editing. If you haven't seen all the people that have
+- **[00:04:10.470]**: haven't seen all the people that have
+- **[00:04:10.480]**: haven't seen all the people that have like these clipping accounts and people
+- **[00:04:11.990]**: like these clipping accounts and people
+- **[00:04:12.000]**: like these clipping accounts and people like edit these short form videos all
+- **[00:04:13.990]**: like edit these short form videos all
+- **[00:04:14.000]**: like edit these short form videos all over social media, I mean, the demand is
+- **[00:04:16.097]**: over social media, I mean, the demand is
+- **[00:04:16.107]**: over social media, I mean, the demand is [music] huge. Every person now seems to
+- **[00:04:18.229]**: [music] huge. Every person now seems to
+- **[00:04:18.239]**: [music] huge. Every person now seems to be a content creator and AI makes it
+- **[00:04:20.710]**: be a content creator and AI makes it
+- **[00:04:20.720]**: be a content creator and AI makes it incredibly easy. So, it's easy to get
+- **[00:04:22.790]**: incredibly easy. So, it's easy to get
+- **[00:04:22.800]**: incredibly easy. So, it's easy to get paid fast. Love this one. [music] Next,
+- **[00:04:25.110]**: paid fast. Love this one. [music] Next,
+- **[00:04:25.120]**: paid fast. Love this one. [music] Next, we got social media copywriting. Every
+- **[00:04:27.830]**: we got social media copywriting. Every
+- **[00:04:27.840]**: we got social media copywriting. Every business in the world needs to learn how
+- **[00:04:29.830]**: business in the world needs to learn how
+- **[00:04:29.840]**: business in the world needs to learn how to use words to get customers to buy and
+- **[00:04:32.230]**: to use words to get customers to buy and
+- **[00:04:32.240]**: to use words to get customers to buy and they need somebody to help them. And the
+- **[00:04:34.310]**: they need somebody to help them. And the
+- **[00:04:34.320]**: they need somebody to help them. And the tools are getting so good. Just get the
+- **[00:04:36.629]**: tools are getting so good. Just get the
+- **[00:04:36.639]**: tools are getting so good. Just get the client, do the work, get paid. Next,
+- **[00:04:39.189]**: client, do the work, get paid. Next,
+- **[00:04:39.199]**: client, do the work, get paid. Next, we've got the AI chatbot setup for small
+- **[00:04:42.070]**: we've got the AI chatbot setup for small
+- **[00:04:42.080]**: we've got the AI chatbot setup for small businesses. I love this one because
+- **[00:04:44.070]**: businesses. I love this one because
+- **[00:04:44.080]**: businesses. I love this one because every small business needs more time
+- **[00:04:46.310]**: every small business needs more time
+- **[00:04:46.320]**: every small business needs more time back. And if you can be the person that
+- **[00:04:48.070]**: back. And if you can be the person that
+- **[00:04:48.080]**: back. And if you can be the person that comes in and help them set this up, they
+- **[00:04:50.390]**: comes in and help them set this up, they
+- **[00:04:50.400]**: comes in and help them set this up, they will pay you money because it's easy for
+- **[00:04:52.710]**: will pay you money because it's easy for
+- **[00:04:52.720]**: will pay you money because it's easy for them to redeploy their time to make more
+- **[00:04:54.710]**: them to redeploy their time to make more
+- **[00:04:54.720]**: them to redeploy their time to make more money than what they paid you. use this
+- **[00:04:56.629]**: money than what they paid you. use this
+- **[00:04:56.639]**: money than what they paid you. use this one. Next, we've got the AI
+- **[00:04:58.629]**: one. Next, we've got the AI
+- **[00:04:58.639]**: one. Next, we've got the AI receptionist. Along those same lines,
+- **[00:05:00.870]**: receptionist. Along those same lines,
+- **[00:05:00.880]**: receptionist. Along those same lines, it's crazy today when you can use tools
+- **[00:05:02.790]**: it's crazy today when you can use tools
+- **[00:05:02.800]**: it's crazy today when you can use tools like your.com that you can get paid to
+- **[00:05:05.510]**: like your.com that you can get paid to
+- **[00:05:05.520]**: like your.com that you can get paid to set up for small businesses to take all
+- **[00:05:07.590]**: set up for small businesses to take all
+- **[00:05:07.600]**: set up for small businesses to take all the inbound calls to qualify, [music]
+- **[00:05:09.830]**: the inbound calls to qualify, [music]
+- **[00:05:09.840]**: the inbound calls to qualify, [music] sell, fill up schedules, answer
+- **[00:05:11.830]**: sell, fill up schedules, answer
+- **[00:05:11.840]**: sell, fill up schedules, answer questions, and it'll do it without being
+- **[00:05:14.710]**: questions, and it'll do it without being
+- **[00:05:14.720]**: questions, and it'll do it without being upset, complain, take time off, or call
+- **[00:05:17.430]**: upset, complain, take time off, or call
+- **[00:05:17.440]**: upset, complain, take time off, or call in sick. Helping businesses do this is a
+- **[00:05:20.469]**: in sick. Helping businesses do this is a
+- **[00:05:20.479]**: in sick. Helping businesses do this is a great way to make money. Next, we've got
+- **[00:05:22.710]**: great way to make money. Next, we've got
+- **[00:05:22.720]**: great way to make money. Next, we've got UGC content. Brands want to pay for real
+- **[00:05:26.870]**: UGC content. Brands want to pay for real
+- **[00:05:26.880]**: UGC content. Brands want to pay for real people showing their products, not
+- **[00:05:28.710]**: people showing their products, not
+- **[00:05:28.720]**: people showing their products, not professional models. Helping a brand
+- **[00:05:30.790]**: professional models. Helping a brand
+- **[00:05:30.800]**: professional models. Helping a brand connect with a creator and you're the
+- **[00:05:32.790]**: connect with a creator and you're the
+- **[00:05:32.800]**: connect with a creator and you're the middleman and you get a piece of this.
+- **[00:05:34.390]**: middleman and you get a piece of this.
+- **[00:05:34.400]**: middleman and you get a piece of this. My buddy in Dubai, this is his whole
+- **[00:05:36.390]**: My buddy in Dubai, this is his whole
+- **[00:05:36.400]**: My buddy in Dubai, this is his whole business and they're already doing 100K
+- **[00:05:37.973]**: business and they're already doing 100K
+- **[00:05:37.983]**: business and they're already doing 100K [music] a month. So, you can make 5 to
+- **[00:05:39.909]**: [music] a month. So, you can make 5 to
+- **[00:05:39.919]**: [music] a month. So, you can make 5 to 10 starting with this one. And last, the
+- **[00:05:42.550]**: 10 starting with this one. And last, the
+- **[00:05:42.560]**: 10 starting with this one. And last, the virtual or executive assistant. It's one
+- **[00:05:44.469]**: virtual or executive assistant. It's one
+- **[00:05:44.479]**: virtual or executive assistant. It's one of my fave categories cuz I wrote a book
+- **[00:05:45.990]**: of my fave categories cuz I wrote a book
+- **[00:05:46.000]**: of my fave categories cuz I wrote a book called Buy Back Your Time. See, rich
+- **[00:05:47.749]**: called Buy Back Your Time. See, rich
+- **[00:05:47.759]**: called Buy Back Your Time. See, rich people hate wasting time and they'll pay
+- **[00:05:49.990]**: people hate wasting time and they'll pay
+- **[00:05:50.000]**: people hate wasting time and they'll pay you to get it back. The best part is you
+- **[00:05:52.469]**: you to get it back. The best part is you
+- **[00:05:52.479]**: you to get it back. The best part is you get paid to hang out with smart people
+- **[00:05:54.629]**: get paid to hang out with smart people
+- **[00:05:54.639]**: get paid to hang out with smart people that can teach you about life to help
+- **[00:05:56.629]**: that can teach you about life to help
+- **[00:05:56.639]**: that can teach you about life to help them get done. Nob brainer. A great
+- **[00:05:59.110]**: them get done. Nob brainer. A great
+- **[00:05:59.120]**: them get done. Nob brainer. A great example of this bucket is my buddy Mark.
+- **[00:06:01.430]**: example of this bucket is my buddy Mark.
+- **[00:06:01.440]**: example of this bucket is my buddy Mark. No background, no experience. He decides
+- **[00:06:03.590]**: No background, no experience. He decides
+- **[00:06:03.600]**: No background, no experience. He decides to start approaching companies to help
+- **[00:06:05.189]**: to start approaching companies to help
+- **[00:06:05.199]**: to start approaching companies to help them take long form content that they
+- **[00:06:06.870]**: them take long form content that they
+- **[00:06:06.880]**: them take long form content that they were creating using AI to break it down
+- **[00:06:09.430]**: were creating using AI to break it down
+- **[00:06:09.440]**: were creating using AI to break it down into short form clips. And that simple
+- **[00:06:12.309]**: into short form clips. And that simple
+- **[00:06:12.319]**: into short form clips. And that simple process of using AI tools, making it
+- **[00:06:15.029]**: process of using AI tools, making it
+- **[00:06:15.039]**: process of using AI tools, making it repeatable, and turning around really
+- **[00:06:16.629]**: repeatable, and turning around really
+- **[00:06:16.639]**: repeatable, and turning around really quick has scaled now. Whereas a
+- **[00:06:18.230]**: quick has scaled now. Whereas a
+- **[00:06:18.240]**: quick has scaled now. Whereas a freelancer, he earns $30,000 a month
+- **[00:06:20.629]**: freelancer, he earns $30,000 a month
+- **[00:06:20.639]**: freelancer, he earns $30,000 a month with only seven clients. This bucket is
+- **[00:06:22.870]**: with only seven clients. This bucket is
+- **[00:06:22.880]**: with only seven clients. This bucket is about learning how to master a high
+- **[00:06:24.629]**: about learning how to master a high
+- **[00:06:24.639]**: about learning how to master a high income skill. Because if you already
+- **[00:06:26.870]**: income skill. Because if you already
+- **[00:06:26.880]**: income skill. Because if you already knew how to make millions, you'd be
+- **[00:06:28.390]**: knew how to make millions, you'd be
+- **[00:06:28.400]**: knew how to make millions, you'd be making millions. Which means you're
+- **[00:06:30.150]**: making millions. Which means you're
+- **[00:06:30.160]**: making millions. Which means you're going to have to invest in yourself to
+- **[00:06:31.909]**: going to have to invest in yourself to
+- **[00:06:31.919]**: going to have to invest in yourself to develop the skills to add value to the
+- **[00:06:33.909]**: develop the skills to add value to the
+- **[00:06:33.919]**: develop the skills to add value to the world. If you want to try any of these
+- **[00:06:35.590]**: world. If you want to try any of these
+- **[00:06:35.600]**: world. If you want to try any of these ideas, follow these specific [music]
+- **[00:06:37.830]**: ideas, follow these specific [music]
+- **[00:06:37.840]**: ideas, follow these specific [music] steps. First, create your outcomebased
+- **[00:06:40.710]**: steps. First, create your outcomebased
+- **[00:06:40.720]**: steps. First, create your outcomebased offer. Don't sell your time. Map to a
+- **[00:06:43.510]**: offer. Don't sell your time. Map to a
+- **[00:06:43.520]**: offer. Don't sell your time. Map to a pain the customer already has. help them
+- **[00:06:45.670]**: pain the customer already has. help them
+- **[00:06:45.680]**: pain the customer already has. help them make money or save time around an area
+- **[00:06:48.150]**: make money or save time around an area
+- **[00:06:48.160]**: make money or save time around an area that they're really in pain around
+- **[00:06:49.990]**: that they're really in pain around
+- **[00:06:50.000]**: that they're really in pain around because pain is a perfect way to figure
+- **[00:06:52.070]**: because pain is a perfect way to figure
+- **[00:06:52.080]**: because pain is a perfect way to figure out what they're willing to pay for.
+- **[00:06:53.749]**: out what they're willing to pay for.
+- **[00:06:53.759]**: out what they're willing to pay for. Make a promise that's specific around a
+- **[00:06:56.309]**: Make a promise that's specific around a
+- **[00:06:56.319]**: Make a promise that's specific around a result in a very specific time frame.
+- **[00:06:59.029]**: result in a very specific time frame.
+- **[00:06:59.039]**: result in a very specific time frame. That's how you create a compelling offer
+- **[00:07:00.790]**: That's how you create a compelling offer
+- **[00:07:00.800]**: That's how you create a compelling offer and then just remove all the risks. Just
+- **[00:07:02.710]**: and then just remove all the risks. Just
+- **[00:07:02.720]**: and then just remove all the risks. Just tell them what the guarantee is and then
+- **[00:07:04.390]**: tell them what the guarantee is and then
+- **[00:07:04.400]**: tell them what the guarantee is and then say, "Because it's just you, [music] you
+- **[00:07:06.070]**: say, "Because it's just you, [music] you
+- **[00:07:06.080]**: say, "Because it's just you, [music] you can only take so many clients, so I'm
+- **[00:07:07.830]**: can only take so many clients, so I'm
+- **[00:07:07.840]**: can only take so many clients, so I'm only looking for three or five clients."
+- **[00:07:09.350]**: only looking for three or five clients."
+- **[00:07:09.360]**: only looking for three or five clients." That creates urgency and it'll get them
+- **[00:07:10.790]**: That creates urgency and it'll get them
+- **[00:07:10.800]**: That creates urgency and it'll get them to buy right away. And for what it's
+- **[00:07:12.309]**: to buy right away. And for what it's
+- **[00:07:12.319]**: to buy right away. And for what it's worth, if you [music] want to make this
+- **[00:07:13.749]**: worth, if you [music] want to make this
+- **[00:07:13.759]**: worth, if you [music] want to make this super easy, I can send you my exact
+- **[00:07:16.230]**: super easy, I can send you my exact
+- **[00:07:16.240]**: super easy, I can send you my exact offer template. So, all you have to do
+- **[00:07:18.150]**: offer template. So, all you have to do
+- **[00:07:18.160]**: offer template. So, all you have to do is copy and paste it. It'll save you
+- **[00:07:20.629]**: is copy and paste it. It'll save you
+- **[00:07:20.639]**: is copy and paste it. It'll save you hours of tweaking and adjusting and
+- **[00:07:22.309]**: hours of tweaking and adjusting and
+- **[00:07:22.319]**: hours of tweaking and adjusting and testing. Just DM me the [music] words
+- **[00:07:23.830]**: testing. Just DM me the [music] words
+- **[00:07:23.840]**: testing. Just DM me the [music] words YouTube offer on Instagram or click the
+- **[00:07:26.469]**: YouTube offer on Instagram or click the
+- **[00:07:26.479]**: YouTube offer on Instagram or click the link in the description below and I'll
+- **[00:07:27.909]**: link in the description below and I'll
+- **[00:07:27.919]**: link in the description below and I'll send it over. So, once you have your
+- **[00:07:29.830]**: send it over. So, once you have your
+- **[00:07:29.840]**: send it over. So, once you have your offer, just do one daily outreach.
+- **[00:07:32.230]**: offer, just do one daily outreach.
+- **[00:07:32.240]**: offer, just do one daily outreach. That's a non-negotiable. If you want to
+- **[00:07:33.670]**: That's a non-negotiable. If you want to
+- **[00:07:33.680]**: That's a non-negotiable. If you want to make money online, set it and forget it.
+- **[00:07:35.589]**: make money online, set it and forget it.
+- **[00:07:35.599]**: make money online, set it and forget it. It's just a habit. So, reach out to one
+- **[00:07:37.430]**: It's just a habit. So, reach out to one
+- **[00:07:37.440]**: It's just a habit. So, reach out to one potential client every day until you get
+- **[00:07:40.390]**: potential client every day until you get
+- **[00:07:40.400]**: potential client every day until you get customers. But you just have to have a
+- **[00:07:41.830]**: customers. But you just have to have a
+- **[00:07:41.840]**: customers. But you just have to have a clear offer. That's what this bucket
+- **[00:07:43.189]**: clear offer. That's what this bucket
+- **[00:07:43.199]**: clear offer. That's what this bucket will teach you. That skill of crafting
+- **[00:07:45.029]**: will teach you. That skill of crafting
+- **[00:07:45.039]**: will teach you. That skill of crafting an offer, getting somebody to understand
+- **[00:07:46.710]**: an offer, getting somebody to understand
+- **[00:07:46.720]**: an offer, getting somebody to understand it, and paying you. [music] This will
+- **[00:07:48.390]**: it, and paying you. [music] This will
+- **[00:07:48.400]**: it, and paying you. [music] This will get you the best chance to be successful
+- **[00:07:50.469]**: get you the best chance to be successful
+- **[00:07:50.479]**: get you the best chance to be successful in this bucket. That being said, if you
+- **[00:07:52.629]**: in this bucket. That being said, if you
+- **[00:07:52.639]**: in this bucket. That being said, if you already have experience [music] or you
+- **[00:07:54.150]**: already have experience [music] or you
+- **[00:07:54.160]**: already have experience [music] or you want income that's more consistent, the
+- **[00:07:56.309]**: want income that's more consistent, the
+- **[00:07:56.319]**: want income that's more consistent, the medium bucket might actually be better
+- **[00:07:58.230]**: medium bucket might actually be better
+- **[00:07:58.240]**: medium bucket might actually be better choice.
+- **[00:07:59.990]**: choice.
+- **[00:08:00.000]**: choice. Bucket number three, the medium bucket.
+- **[00:08:02.720]**: Bucket number three, the medium bucket. Essentially, the income potential is 10
+- **[00:08:04.469]**: Essentially, the income potential is 10
+- **[00:08:04.479]**: Essentially, the income potential is 10 to 50K per month minimum. Difficulty
+- **[00:08:07.110]**: to 50K per month minimum. Difficulty
+- **[00:08:07.120]**: to 50K per month minimum. Difficulty level, it's medium, but multi-kill work
+- **[00:08:09.749]**: level, it's medium, but multi-kill work
+- **[00:08:09.759]**: level, it's medium, but multi-kill work tied to real business outcomes makes you
+- **[00:08:11.830]**: tied to real business outcomes makes you
+- **[00:08:11.840]**: tied to real business outcomes makes you money. You're not just doing task
+- **[00:08:13.589]**: money. You're not just doing task
+- **[00:08:13.599]**: money. You're not just doing task anymore. You're solving revenue and
+- **[00:08:15.510]**: anymore. You're solving revenue and
+- **[00:08:15.520]**: anymore. You're solving revenue and growth problems for businesses. And the
+- **[00:08:17.510]**: growth problems for businesses. And the
+- **[00:08:17.520]**: growth problems for businesses. And the time frame to make real money could be 3
+- **[00:08:19.909]**: time frame to make real money could be 3
+- **[00:08:19.919]**: time frame to make real money could be 3 months, maybe worst case 12 months, but
+- **[00:08:22.550]**: months, maybe worst case 12 months, but
+- **[00:08:22.560]**: months, maybe worst case 12 months, but you're setting up your future. And it's
+- **[00:08:24.390]**: you're setting up your future. And it's
+- **[00:08:24.400]**: you're setting up your future. And it's best for people that have some skill but
+- **[00:08:26.550]**: best for people that have some skill but
+- **[00:08:26.560]**: best for people that have some skill but want more stability and scale. When I
+- **[00:08:29.110]**: want more stability and scale. When I
+- **[00:08:29.120]**: want more stability and scale. When I look at Sam on my media team, Sam didn't
+- **[00:08:31.670]**: look at Sam on my media team, Sam didn't
+- **[00:08:31.680]**: look at Sam on my media team, Sam didn't ask for a step-by-step instruction to be
+- **[00:08:33.829]**: ask for a step-by-step instruction to be
+- **[00:08:33.839]**: ask for a step-by-step instruction to be successful. He just framed the outcome.
+- **[00:08:36.230]**: successful. He just framed the outcome.
+- **[00:08:36.240]**: successful. He just framed the outcome. He took ownership and he delivered.
+- **[00:08:38.389]**: He took ownership and he delivered.
+- **[00:08:38.399]**: He took ownership and he delivered. Because of that, he got opportunities to
+- **[00:08:40.709]**: Because of that, he got opportunities to
+- **[00:08:40.719]**: Because of that, he got opportunities to step up. That's why you've probably seen
+- **[00:08:42.230]**: step up. That's why you've probably seen
+- **[00:08:42.240]**: step up. That's why you've probably seen the video of me giving him his dream
+- **[00:08:44.230]**: the video of me giving him his dream
+- **[00:08:44.240]**: the video of me giving him his dream car, a Porsche GT4. It wasn't because he
+- **[00:08:46.550]**: car, a Porsche GT4. It wasn't because he
+- **[00:08:46.560]**: car, a Porsche GT4. It wasn't because he was doing little tiny tasks. [music]
+- **[00:08:47.990]**: was doing little tiny tasks. [music]
+- **[00:08:48.000]**: was doing little tiny tasks. [music] It's because he actually delivered the
+- **[00:08:49.750]**: It's because he actually delivered the
+- **[00:08:49.760]**: It's because he actually delivered the outcome. And for me, that became vastly
+- **[00:08:52.550]**: outcome. And for me, that became vastly
+- **[00:08:52.560]**: outcome. And for me, that became vastly more valuable. And that's what's
+- **[00:08:54.070]**: more valuable. And that's what's
+- **[00:08:54.080]**: more valuable. And that's what's different about this bucket. You're no
+- **[00:08:55.430]**: different about this bucket. You're no
+- **[00:08:55.440]**: different about this bucket. You're no longer just doing the skill. You're
+- **[00:08:57.110]**: longer just doing the skill. You're
+- **[00:08:57.120]**: longer just doing the skill. You're actually tying your pay to an outcome.
+- **[00:08:59.750]**: actually tying your pay to an outcome.
+- **[00:08:59.760]**: actually tying your pay to an outcome. The only way for your clients to make
+- **[00:09:01.350]**: The only way for your clients to make
+- **[00:09:01.360]**: The only way for your clients to make more money is for them to focus on
+- **[00:09:02.790]**: more money is for them to focus on
+- **[00:09:02.800]**: more money is for them to focus on solving bigger problems which mean you
+- **[00:09:04.550]**: solving bigger problems which mean you
+- **[00:09:04.560]**: solving bigger problems which mean you come in and take the smaller [music]
+- **[00:09:05.670]**: come in and take the smaller [music]
+- **[00:09:05.680]**: come in and take the smaller [music] problems off their plate. So what are
+- **[00:09:07.430]**: problems off their plate. So what are
+- **[00:09:07.440]**: problems off their plate. So what are some examples in this category? The
+- **[00:09:09.269]**: some examples in this category? The
+- **[00:09:09.279]**: some examples in this category? The first one automation agencies. This
+- **[00:09:11.509]**: first one automation agencies. This
+- **[00:09:11.519]**: first one automation agencies. This one's the new hotness. Why? The demand
+- **[00:09:13.910]**: one's the new hotness. Why? The demand
+- **[00:09:13.920]**: one's the new hotness. Why? The demand for this alone makes it a fantastic
+- **[00:09:16.310]**: for this alone makes it a fantastic
+- **[00:09:16.320]**: for this alone makes it a fantastic opportunity and it makes you bulletproof
+- **[00:09:18.790]**: opportunity and it makes you bulletproof
+- **[00:09:18.800]**: opportunity and it makes you bulletproof for the future. businesses are literally
+- **[00:09:21.430]**: for the future. businesses are literally
+- **[00:09:21.440]**: for the future. businesses are literally drowning in opportunity to automate and
+- **[00:09:23.910]**: drowning in opportunity to automate and
+- **[00:09:23.920]**: drowning in opportunity to automate and it makes them money quickly and it saves
+- **[00:09:25.829]**: it makes them money quickly and it saves
+- **[00:09:25.839]**: it makes them money quickly and it saves them time at scale and it's going to
+- **[00:09:27.670]**: them time at scale and it's going to
+- **[00:09:27.680]**: them time at scale and it's going to futureproof [music] you for other
+- **[00:09:29.110]**: futureproof [music] you for other
+- **[00:09:29.120]**: futureproof [music] you for other companies. Next, we got LinkedIn growth
+- **[00:09:31.750]**: companies. Next, we got LinkedIn growth
+- **[00:09:31.760]**: companies. Next, we got LinkedIn growth systems powered by AI. Every CEO or
+- **[00:09:34.790]**: systems powered by AI. Every CEO or
+- **[00:09:34.800]**: systems powered by AI. Every CEO or leader out there, they need more reach.
+- **[00:09:36.710]**: leader out there, they need more reach.
+- **[00:09:36.720]**: leader out there, they need more reach. They need people to know who they are.
+- **[00:09:38.150]**: They need people to know who they are.
+- **[00:09:38.160]**: They need people to know who they are. They need people to know, like, and
+- **[00:09:39.430]**: They need people to know, like, and
+- **[00:09:39.440]**: They need people to know, like, and trust them. And if you're the kind of
+- **[00:09:40.710]**: trust them. And if you're the kind of
+- **[00:09:40.720]**: trust them. And if you're the kind of person to come in and own that outcome
+- **[00:09:42.710]**: person to come in and own that outcome
+- **[00:09:42.720]**: person to come in and own that outcome of getting that attention, that
+- **[00:09:44.389]**: of getting that attention, that
+- **[00:09:44.399]**: of getting that attention, that audience, that trust, [music] they will
+- **[00:09:46.070]**: audience, that trust, [music] they will
+- **[00:09:46.080]**: audience, that trust, [music] they will pay you to help them grow. Next, we've
+- **[00:09:47.990]**: pay you to help them grow. Next, we've
+- **[00:09:48.000]**: pay you to help them grow. Next, we've got micro SASS, near and dear to my
+- **[00:09:49.910]**: got micro SASS, near and dear to my
+- **[00:09:49.920]**: got micro SASS, near and dear to my heart, and really AI tools for small
+- **[00:09:52.070]**: heart, and really AI tools for small
+- **[00:09:52.080]**: heart, and really AI tools for small businesses. These are like really small,
+- **[00:09:54.630]**: businesses. These are like really small,
+- **[00:09:54.640]**: businesses. These are like really small, tiny tools that help save people time.
+- **[00:09:56.870]**: tiny tools that help save people time.
+- **[00:09:56.880]**: tiny tools that help save people time. So, you can have like a plugin, an
+- **[00:09:58.949]**: So, you can have like a plugin, an
+- **[00:09:58.959]**: So, you can have like a plugin, an extension, an app for a marketplace,
+- **[00:10:01.286]**: extension, an app for a marketplace,
+- **[00:10:01.296]**: extension, an app for a marketplace, [music] but the cool part is you charge
+- **[00:10:02.710]**: [music] but the cool part is you charge
+- **[00:10:02.720]**: [music] but the cool part is you charge monthly for simple, clear value, and
+- **[00:10:05.030]**: monthly for simple, clear value, and
+- **[00:10:05.040]**: monthly for simple, clear value, and that's how you stack revenue. Next,
+- **[00:10:07.509]**: that's how you stack revenue. Next,
+- **[00:10:07.519]**: that's how you stack revenue. Next, we've got an AI content agency. This one
+- **[00:10:10.389]**: we've got an AI content agency. This one
+- **[00:10:10.399]**: we've got an AI content agency. This one is super fun, especially if you love
+- **[00:10:12.389]**: is super fun, especially if you love
+- **[00:10:12.399]**: is super fun, especially if you love content. I mean, brands are always
+- **[00:10:14.310]**: content. I mean, brands are always
+- **[00:10:14.320]**: content. I mean, brands are always looking for more content that's aligned
+- **[00:10:16.310]**: looking for more content that's aligned
+- **[00:10:16.320]**: looking for more content that's aligned to help them create associations [music]
+- **[00:10:18.630]**: to help them create associations [music]
+- **[00:10:18.640]**: to help them create associations [music] to help their business. So, you use AI
+- **[00:10:20.870]**: to help their business. So, you use AI
+- **[00:10:20.880]**: to help their business. So, you use AI to produce high volumes without
+- **[00:10:22.949]**: to produce high volumes without
+- **[00:10:22.959]**: to produce high volumes without shooting. It's crazy. So, look into like
+- **[00:10:25.509]**: shooting. It's crazy. So, look into like
+- **[00:10:25.519]**: shooting. It's crazy. So, look into like Hey Genen, 11 Labs, and other tools like
+- **[00:10:27.670]**: Hey Genen, 11 Labs, and other tools like
+- **[00:10:27.680]**: Hey Genen, 11 Labs, and other tools like that that'll make this job easy. And for
+- **[00:10:29.509]**: that that'll make this job easy. And for
+- **[00:10:29.519]**: that that'll make this job easy. And for these last two options, just take a
+- **[00:10:31.190]**: these last two options, just take a
+- **[00:10:31.200]**: these last two options, just take a screenshot for all the AI tools that I
+- **[00:10:33.030]**: screenshot for all the AI tools that I
+- **[00:10:33.040]**: screenshot for all the AI tools that I put up on screen so that you can make
+- **[00:10:34.470]**: put up on screen so that you can make
+- **[00:10:34.480]**: put up on screen so that you can make this option way easier. And last, we
+- **[00:10:36.389]**: this option way easier. And last, we
+- **[00:10:36.399]**: this option way easier. And last, we have highquality motion graphic [music]
+- **[00:10:38.310]**: have highquality motion graphic [music]
+- **[00:10:38.320]**: have highquality motion graphic [music] designers. The more AI can do all kind
+- **[00:10:41.110]**: designers. The more AI can do all kind
+- **[00:10:41.120]**: designers. The more AI can do all kind of lowquality stuff and like people are
+- **[00:10:43.030]**: of lowquality stuff and like people are
+- **[00:10:43.040]**: of lowquality stuff and like people are shooting more and more content. What's
+- **[00:10:44.790]**: shooting more and more content. What's
+- **[00:10:44.800]**: shooting more and more content. What's missing is somebody to understand how to
+- **[00:10:46.630]**: missing is somebody to understand how to
+- **[00:10:46.640]**: missing is somebody to understand how to do motion graphics. This is the
+- **[00:10:48.470]**: do motion graphics. This is the
+- **[00:10:48.480]**: do motion graphics. This is the separator. This is where you make
+- **[00:10:50.069]**: separator. This is where you make
+- **[00:10:50.079]**: separator. This is where you make content [music] look pro. So you want to
+- **[00:10:51.509]**: content [music] look pro. So you want to
+- **[00:10:51.519]**: content [music] look pro. So you want to learn After Effects plus all the AI
+- **[00:10:53.430]**: learn After Effects plus all the AI
+- **[00:10:53.440]**: learn After Effects plus all the AI tools that help you make and deliver
+- **[00:10:55.269]**: tools that help you make and deliver
+- **[00:10:55.279]**: tools that help you make and deliver premium assets fast. And for these last
+- **[00:10:57.670]**: premium assets fast. And for these last
+- **[00:10:57.680]**: premium assets fast. And for these last two options, take a screenshot of all
+- **[00:10:59.590]**: two options, take a screenshot of all
+- **[00:10:59.600]**: two options, take a screenshot of all these AI tools that will make it so much
+- **[00:11:01.430]**: these AI tools that will make it so much
+- **[00:11:01.440]**: these AI tools that will make it so much easier for you. If you fall in love with
+- **[00:11:03.509]**: easier for you. If you fall in love with
+- **[00:11:03.519]**: easier for you. If you fall in love with this bucket, here are two pro tips that
+- **[00:11:05.670]**: this bucket, here are two pro tips that
+- **[00:11:05.680]**: this bucket, here are two pro tips that you need. One, build three to five
+- **[00:11:08.550]**: you need. One, build three to five
+- **[00:11:08.560]**: you need. One, build three to five measurable case studies that you can
+- **[00:11:10.790]**: measurable case studies that you can
+- **[00:11:10.800]**: measurable case studies that you can tell to other people. That way, it'll
+- **[00:11:12.550]**: tell to other people. That way, it'll
+- **[00:11:12.560]**: tell to other people. That way, it'll allow you to sell to more clients fast.
+- **[00:11:14.069]**: allow you to sell to more clients fast.
+- **[00:11:14.079]**: allow you to sell to more clients fast. So, if you're just starting off, maybe
+- **[00:11:15.509]**: So, if you're just starting off, maybe
+- **[00:11:15.519]**: So, if you're just starting off, maybe you find people that represent your
+- **[00:11:17.350]**: you find people that represent your
+- **[00:11:17.360]**: you find people that represent your ideal customer profile and offer to
+- **[00:11:19.509]**: ideal customer profile and offer to
+- **[00:11:19.519]**: ideal customer profile and offer to either do it at a discount or free. I
+- **[00:11:21.350]**: either do it at a discount or free. I
+- **[00:11:21.360]**: either do it at a discount or free. I don't love free, but let's say discount.
+- **[00:11:22.949]**: don't love free, but let's say discount.
+- **[00:11:22.959]**: don't love free, but let's say discount. And in return for that discount, they
+- **[00:11:24.790]**: And in return for that discount, they
+- **[00:11:24.800]**: And in return for that discount, they agree to let you use their project as a
+- **[00:11:27.269]**: agree to let you use their project as a
+- **[00:11:27.279]**: agree to let you use their project as a case study to talk to other customers
+- **[00:11:28.870]**: case study to talk to other customers
+- **[00:11:28.880]**: case study to talk to other customers about. Two, sell outcomebased monthly
+- **[00:11:31.910]**: about. Two, sell outcomebased monthly
+- **[00:11:31.920]**: about. Two, sell outcomebased monthly retainers instead of one-off projects. I
+- **[00:11:34.550]**: retainers instead of one-off projects. I
+- **[00:11:34.560]**: retainers instead of one-off projects. I still see people in today's age that are
+- **[00:11:36.870]**: still see people in today's age that are
+- **[00:11:36.880]**: still see people in today's age that are selling their time for [music] money.
+- **[00:11:38.870]**: selling their time for [music] money.
+- **[00:11:38.880]**: selling their time for [music] money. You have to disconnect from that. Don't
+- **[00:11:40.630]**: You have to disconnect from that. Don't
+- **[00:11:40.640]**: You have to disconnect from that. Don't get stuck in it. Don't start there.
+- **[00:11:42.150]**: get stuck in it. Don't start there.
+- **[00:11:42.160]**: get stuck in it. Don't start there. Don't get in the trap. When you can sell
+- **[00:11:44.150]**: Don't get in the trap. When you can sell
+- **[00:11:44.160]**: Don't get in the trap. When you can sell outcomes, especially like monthly
+- **[00:11:45.990]**: outcomes, especially like monthly
+- **[00:11:46.000]**: outcomes, especially like monthly retainers for a specific outcome, that
+- **[00:11:47.910]**: retainers for a specific outcome, that
+- **[00:11:47.920]**: retainers for a specific outcome, that creates predictability and reoccurring
+- **[00:11:49.990]**: creates predictability and reoccurring
+- **[00:11:50.000]**: creates predictability and reoccurring revenue in your business. And that is
+- **[00:11:51.670]**: revenue in your business. And that is
+- **[00:11:51.680]**: revenue in your business. And that is the most beautiful place to get. And
+- **[00:11:53.670]**: the most beautiful place to get. And
+- **[00:11:53.680]**: the most beautiful place to get. And that is how you make real money online.
+- **[00:11:56.150]**: that is how you make real money online.
+- **[00:11:56.160]**: that is how you make real money online. But if you want to build something way
+- **[00:11:58.150]**: But if you want to build something way
+- **[00:11:58.160]**: But if you want to build something way bigger than yourself, something that
+- **[00:11:59.829]**: bigger than yourself, something that
+- **[00:11:59.839]**: bigger than yourself, something that could actually [music] change your
+- **[00:12:01.030]**: could actually [music] change your
+- **[00:12:01.040]**: could actually [music] change your entire life, the hard bucket is where
+- **[00:12:03.190]**: entire life, the hard bucket is where
+- **[00:12:03.200]**: entire life, the hard bucket is where it's at. Bucket number four, the hard
+- **[00:12:05.750]**: it's at. Bucket number four, the hard
+- **[00:12:05.760]**: it's at. Bucket number four, the hard bucket. The income potential here could
+- **[00:12:08.310]**: bucket. The income potential here could
+- **[00:12:08.320]**: bucket. The income potential here could be like a million plus a month.
+- **[00:12:10.150]**: be like a million plus a month.
+- **[00:12:10.160]**: be like a million plus a month. Honestly, millions. The difficulty level
+- **[00:12:12.310]**: Honestly, millions. The difficulty level
+- **[00:12:12.320]**: Honestly, millions. The difficulty level though is high cuz it's going to require
+- **[00:12:14.310]**: though is high cuz it's going to require
+- **[00:12:14.320]**: though is high cuz it's going to require systems, leadership, and honestly
+- **[00:12:16.389]**: systems, leadership, and honestly
+- **[00:12:16.399]**: systems, leadership, and honestly long-term thinking. It's hard to get
+- **[00:12:18.470]**: long-term thinking. It's hard to get
+- **[00:12:18.480]**: long-term thinking. It's hard to get into and it may need some capital or
+- **[00:12:21.269]**: into and it may need some capital or
+- **[00:12:21.279]**: into and it may need some capital or expertise, but you will see a massive
+- **[00:12:23.269]**: expertise, but you will see a massive
+- **[00:12:23.279]**: expertise, but you will see a massive return. And the time frame to get to
+- **[00:12:25.269]**: return. And the time frame to get to
+- **[00:12:25.279]**: return. And the time frame to get to this level, if you start from zero,
+- **[00:12:27.269]**: this level, if you start from zero,
+- **[00:12:27.279]**: this level, if you start from zero, could take two to 10 years or more,
+- **[00:12:29.430]**: could take two to 10 years or more,
+- **[00:12:29.440]**: could take two to 10 years or more, depending on your level of effort. It's
+- **[00:12:31.430]**: depending on your level of effort. It's
+- **[00:12:31.440]**: depending on your level of effort. It's best for people who want to build
+- **[00:12:33.269]**: best for people who want to build
+- **[00:12:33.279]**: best for people who want to build something bigger than themselves.
+- **[00:12:34.870]**: something bigger than themselves.
+- **[00:12:34.880]**: something bigger than themselves. Essentially, an asset or even better, an
+- **[00:12:36.949]**: Essentially, an asset or even better, an
+- **[00:12:36.959]**: Essentially, an asset or even better, an empire. [music] And the reason why is
+- **[00:12:38.790]**: empire. [music] And the reason why is
+- **[00:12:38.800]**: empire. [music] And the reason why is because you're building something that
+- **[00:12:40.470]**: because you're building something that
+- **[00:12:40.480]**: because you're building something that someone else might actually buy. The
+- **[00:12:42.870]**: someone else might actually buy. The
+- **[00:12:42.880]**: someone else might actually buy. The people in this bucket are my kind of
+- **[00:12:44.790]**: people in this bucket are my kind of
+- **[00:12:44.800]**: people in this bucket are my kind of people. So, let's run through some
+- **[00:12:46.230]**: people. So, let's run through some
+- **[00:12:46.240]**: people. So, let's run through some examples. The first, [music] investing
+- **[00:12:48.310]**: examples. The first, [music] investing
+- **[00:12:48.320]**: examples. The first, [music] investing in AI first founders. This is my world.
+- **[00:12:51.190]**: in AI first founders. This is my world.
+- **[00:12:51.200]**: in AI first founders. This is my world. See, back in the day, I've been doing AI
+- **[00:12:53.350]**: See, back in the day, I've been doing AI
+- **[00:12:53.360]**: See, back in the day, I've been doing AI investing for over seven years.
+- **[00:12:55.190]**: investing for over seven years.
+- **[00:12:55.200]**: investing for over seven years. Companies like Flex Pay or Intercom,
+- **[00:12:57.590]**: Companies like Flex Pay or Intercom,
+- **[00:12:57.600]**: Companies like Flex Pay or Intercom, etc. These are all companies I was
+- **[00:12:59.030]**: etc. These are all companies I was
+- **[00:12:59.040]**: etc. These are all companies I was involved in in the early days. And
+- **[00:13:00.550]**: involved in in the early days. And
+- **[00:13:00.560]**: involved in in the early days. And what's cool about it is that if you have
+- **[00:13:02.310]**: what's cool about it is that if you have
+- **[00:13:02.320]**: what's cool about it is that if you have the capital and you invest in them, when
+- **[00:13:04.310]**: the capital and you invest in them, when
+- **[00:13:04.320]**: the capital and you invest in them, when they win, you win. When you get equity
+- **[00:13:06.790]**: they win, you win. When you get equity
+- **[00:13:06.800]**: they win, you win. When you get equity without running the company yourself,
+- **[00:13:08.470]**: without running the company yourself,
+- **[00:13:08.480]**: without running the company yourself, you get a lot of time back. So, this is
+- **[00:13:09.990]**: you get a lot of time back. So, this is
+- **[00:13:10.000]**: you get a lot of time back. So, this is a great way to create leverage and
+- **[00:13:11.509]**: a great way to create leverage and
+- **[00:13:11.519]**: a great way to create leverage and create an empire. I've personally
+- **[00:13:13.590]**: create an empire. I've personally
+- **[00:13:13.600]**: create an empire. I've personally invested in over a 100 companies using
+- **[00:13:15.750]**: invested in over a 100 companies using
+- **[00:13:15.760]**: invested in over a 100 companies using this method. And starting from 2026,
+- **[00:13:18.069]**: this method. And starting from 2026,
+- **[00:13:18.079]**: this method. And starting from 2026, this is going to get way bigger. A lot
+- **[00:13:19.990]**: this is going to get way bigger. A lot
+- **[00:13:20.000]**: this is going to get way bigger. A lot of people are going to be able to do
+- **[00:13:21.030]**: of people are going to be able to do
+- **[00:13:21.040]**: of people are going to be able to do this one. Next, we got software AI
+- **[00:13:23.509]**: this one. Next, we got software AI
+- **[00:13:23.519]**: this one. Next, we got software AI products. Essentially, this is my world.
+- **[00:13:25.509]**: products. Essentially, this is my world.
+- **[00:13:25.519]**: products. Essentially, this is my world. This is what I build at Martell
+- **[00:13:26.629]**: This is what I build at Martell
+- **[00:13:26.639]**: This is what I build at Martell Ventures. We have built or partnered
+- **[00:13:28.790]**: Ventures. We have built or partnered
+- **[00:13:28.800]**: Ventures. We have built or partnered with people that have launched a new AI
+- **[00:13:30.629]**: with people that have launched a new AI
+- **[00:13:30.639]**: with people that have launched a new AI company every month for the last year
+- **[00:13:32.150]**: company every month for the last year
+- **[00:13:32.160]**: company every month for the last year and a little bit. And I'm telling you,
+- **[00:13:33.750]**: and a little bit. And I'm telling you,
+- **[00:13:33.760]**: and a little bit. And I'm telling you, this one has made me more money than
+- **[00:13:35.509]**: this one has made me more money than
+- **[00:13:35.519]**: this one has made me more money than anything I've ever done my whole life.
+- **[00:13:37.509]**: anything I've ever done my whole life.
+- **[00:13:37.519]**: anything I've ever done my whole life. The key to make it work is you got to
+- **[00:13:39.509]**: The key to make it work is you got to
+- **[00:13:39.519]**: The key to make it work is you got to build tools that solve real problems in
+- **[00:13:41.590]**: build tools that solve real problems in
+- **[00:13:41.600]**: build tools that solve real problems in a way that's unique. Most of the
+- **[00:13:43.829]**: a way that's unique. Most of the
+- **[00:13:43.839]**: a way that's unique. Most of the applications that I'm working on,
+- **[00:13:45.430]**: applications that I'm working on,
+- **[00:13:45.440]**: applications that I'm working on, honestly, the AI [music] isn't powerful
+- **[00:13:47.509]**: honestly, the AI [music] isn't powerful
+- **[00:13:47.519]**: honestly, the AI [music] isn't powerful enough yet for it to work. Not only is
+- **[00:13:50.069]**: enough yet for it to work. Not only is
+- **[00:13:50.079]**: enough yet for it to work. Not only is it a great way to generate reoccurring
+- **[00:13:51.990]**: it a great way to generate reoccurring
+- **[00:13:52.000]**: it a great way to generate reoccurring revenue because it's software, but you
+- **[00:13:53.829]**: revenue because it's software, but you
+- **[00:13:53.839]**: revenue because it's software, but you build some value where people will pay
+- **[00:13:55.910]**: build some value where people will pay
+- **[00:13:55.920]**: build some value where people will pay you 10 [music] to 50 times more than
+- **[00:13:58.069]**: you 10 [music] to 50 times more than
+- **[00:13:58.079]**: you 10 [music] to 50 times more than your topline revenue for the business.
+- **[00:14:00.310]**: your topline revenue for the business.
+- **[00:14:00.320]**: your topline revenue for the business. Next is buying small businesses and
+- **[00:14:02.470]**: Next is buying small businesses and
+- **[00:14:02.480]**: Next is buying small businesses and using AI to automate 30 to 50% of it.
+- **[00:14:05.670]**: using AI to automate 30 to 50% of it.
+- **[00:14:05.680]**: using AI to automate 30 to 50% of it. It's so crazy how there's like these
+- **[00:14:07.509]**: It's so crazy how there's like these
+- **[00:14:07.519]**: It's so crazy how there's like these really simple businesses that are still
+- **[00:14:09.350]**: really simple businesses that are still
+- **[00:14:09.360]**: really simple businesses that are still stuck in the 80s. My friend Jason bought
+- **[00:14:11.590]**: stuck in the 80s. My friend Jason bought
+- **[00:14:11.600]**: stuck in the 80s. My friend Jason bought a campground a couple years ago and all
+- **[00:14:13.350]**: a campground a couple years ago and all
+- **[00:14:13.360]**: a campground a couple years ago and all he did was put in AI powered booking
+- **[00:14:15.829]**: he did was put in AI powered booking
+- **[00:14:15.839]**: he did was put in AI powered booking software, management software,
+- **[00:14:17.110]**: software, management software,
+- **[00:14:17.120]**: software, management software, maintenance software, and the thing
+- **[00:14:18.710]**: maintenance software, and the thing
+- **[00:14:18.720]**: maintenance software, and the thing prints cash today, but buying a boring
+- **[00:14:21.430]**: prints cash today, but buying a boring
+- **[00:14:21.440]**: prints cash today, but buying a boring business that somebody else is done with
+- **[00:14:23.509]**: business that somebody else is done with
+- **[00:14:23.519]**: business that somebody else is done with using AI is a great way to create real
+- **[00:14:25.829]**: using AI is a great way to create real
+- **[00:14:25.839]**: using AI is a great way to create real wealth. Next, we've got personal brand
+- **[00:14:28.069]**: wealth. Next, we've got personal brand
+- **[00:14:28.079]**: wealth. Next, we've got personal brand or content machine for deal flow. I
+- **[00:14:30.310]**: or content machine for deal flow. I
+- **[00:14:30.320]**: or content machine for deal flow. I break it into content and commerce.
+- **[00:14:32.949]**: break it into content and commerce.
+- **[00:14:32.959]**: break it into content and commerce. You've seen this with Mr. Beast and
+- **[00:14:34.629]**: You've seen this with Mr. Beast and
+- **[00:14:34.639]**: You've seen this with Mr. Beast and Feastables. You've seen this with Logan
+- **[00:14:36.150]**: Feastables. You've seen this with Logan
+- **[00:14:36.160]**: Feastables. You've seen this with Logan Paul and Prime. You've seen [music] this
+- **[00:14:37.509]**: Paul and Prime. You've seen [music] this
+- **[00:14:37.519]**: Paul and Prime. You've seen [music] this with all these content creators. But if
+- **[00:14:39.670]**: with all these content creators. But if
+- **[00:14:39.680]**: with all these content creators. But if you can build a personal brand, build
+- **[00:14:41.590]**: you can build a personal brand, build
+- **[00:14:41.600]**: you can build a personal brand, build distribution, then you have a way to
+- **[00:14:43.750]**: distribution, then you have a way to
+- **[00:14:43.760]**: distribution, then you have a way to introduce customers to a product that
+- **[00:14:46.310]**: introduce customers to a product that
+- **[00:14:46.320]**: introduce customers to a product that creates equity, that creates enterprise
+- **[00:14:48.310]**: creates equity, that creates enterprise
+- **[00:14:48.320]**: creates equity, that creates enterprise value, and this is in the hard bucket
+- **[00:14:50.150]**: value, and this is in the hard bucket
+- **[00:14:50.160]**: value, and this is in the hard bucket because most people are willing to stick
+- **[00:14:51.670]**: because most people are willing to stick
+- **[00:14:51.680]**: because most people are willing to stick with it. It takes time. It takes
+- **[00:14:53.590]**: with it. It takes time. It takes
+- **[00:14:53.600]**: with it. It takes time. It takes commitment. It takes dedication. You got
+- **[00:14:55.509]**: commitment. It takes dedication. You got
+- **[00:14:55.519]**: commitment. It takes dedication. You got to be consistent. Most people would
+- **[00:14:57.269]**: to be consistent. Most people would
+- **[00:14:57.279]**: to be consistent. Most people would rather take the easy way. That's why
+- **[00:14:58.710]**: rather take the easy way. That's why
+- **[00:14:58.720]**: rather take the easy way. That's why it's in the hard bucket. Next, we've got
+- **[00:15:00.790]**: it's in the hard bucket. Next, we've got
+- **[00:15:00.800]**: it's in the hard bucket. Next, we've got subscription communities powered by AI
+- **[00:15:03.430]**: subscription communities powered by AI
+- **[00:15:03.440]**: subscription communities powered by AI curation. I've seen so many of these
+- **[00:15:05.430]**: curation. I've seen so many of these
+- **[00:15:05.440]**: curation. I've seen so many of these online communities now where essentially
+- **[00:15:07.350]**: online communities now where essentially
+- **[00:15:07.360]**: online communities now where essentially people pay every month to be part of a
+- **[00:15:09.509]**: people pay every month to be part of a
+- **[00:15:09.519]**: people pay every month to be part of a group so that they have access to
+- **[00:15:11.189]**: group so that they have access to
+- **[00:15:11.199]**: group so that they have access to knowledge and experience and the AI is
+- **[00:15:13.750]**: knowledge and experience and the AI is
+- **[00:15:13.760]**: knowledge and experience and the AI is designed to answer their questions to
+- **[00:15:15.750]**: designed to answer their questions to
+- **[00:15:15.760]**: designed to answer their questions to support them. It's faster, it's easier,
+- **[00:15:17.750]**: support them. It's faster, it's easier,
+- **[00:15:17.760]**: support them. It's faster, it's easier, and you can build a business from it.
+- **[00:15:19.910]**: and you can build a business from it.
+- **[00:15:19.920]**: and you can build a business from it. And last, licensing AI playbooks. This
+- **[00:15:23.189]**: And last, licensing AI playbooks. This
+- **[00:15:23.199]**: And last, licensing AI playbooks. This is where most companies don't realize
+- **[00:15:25.110]**: is where most companies don't realize
+- **[00:15:25.120]**: is where most companies don't realize their system prompts is their new IP,
+- **[00:15:27.750]**: their system prompts is their new IP,
+- **[00:15:27.760]**: their system prompts is their new IP, their intellectual property. So, if you
+- **[00:15:29.430]**: their intellectual property. So, if you
+- **[00:15:29.440]**: their intellectual property. So, if you have a business that has created these
+- **[00:15:31.030]**: have a business that has created these
+- **[00:15:31.040]**: have a business that has created these playbooks that are AI powered, you can
+- **[00:15:33.189]**: playbooks that are AI powered, you can
+- **[00:15:33.199]**: playbooks that are AI powered, you can copy paste those and sell them to other
+- **[00:15:34.949]**: copy paste those and sell them to other
+- **[00:15:34.959]**: copy paste those and sell them to other businesses by making them passive
+- **[00:15:37.030]**: businesses by making them passive
+- **[00:15:37.040]**: businesses by making them passive income. Like, just go look at all the
+- **[00:15:38.710]**: income. Like, just go look at all the
+- **[00:15:38.720]**: income. Like, just go look at all the custom GPTs you can buy. A lot of people
+- **[00:15:41.030]**: custom GPTs you can buy. A lot of people
+- **[00:15:41.040]**: custom GPTs you can buy. A lot of people are like creating innovation inside
+- **[00:15:42.949]**: are like creating innovation inside
+- **[00:15:42.959]**: are like creating innovation inside their own business and licing it to
+- **[00:15:44.629]**: their own business and licing it to
+- **[00:15:44.639]**: their own business and licing it to other companies [music] and making a ton
+- **[00:15:46.230]**: other companies [music] and making a ton
+- **[00:15:46.240]**: other companies [music] and making a ton of money. This is a really cool one that
+- **[00:15:47.829]**: of money. This is a really cool one that
+- **[00:15:47.839]**: of money. This is a really cool one that I think a lot of people are sleeping on.
+- **[00:15:49.430]**: I think a lot of people are sleeping on.
+- **[00:15:49.440]**: I think a lot of people are sleeping on. The hard bucket is near and dear to my
+- **[00:15:51.030]**: The hard bucket is near and dear to my
+- **[00:15:51.040]**: The hard bucket is near and dear to my heart because it's a reflection of my
+- **[00:15:52.710]**: heart because it's a reflection of my
+- **[00:15:52.720]**: heart because it's a reflection of my life. I mean, a lot of people see me
+- **[00:15:54.310]**: life. I mean, a lot of people see me
+- **[00:15:54.320]**: life. I mean, a lot of people see me today and they see all the success and
+- **[00:15:55.910]**: today and they see all the success and
+- **[00:15:55.920]**: today and they see all the success and the accolades, but they don't know where
+- **[00:15:57.430]**: the accolades, but they don't know where
+- **[00:15:57.440]**: the accolades, but they don't know where I started. I started as a software
+- **[00:15:59.509]**: I started. I started as a software
+- **[00:15:59.519]**: I started. I started as a software programmer at 17 writing code and it
+- **[00:16:02.150]**: programmer at 17 writing code and it
+- **[00:16:02.160]**: programmer at 17 writing code and it took me almost seven years to finally
+- **[00:16:04.629]**: took me almost seven years to finally
+- **[00:16:04.639]**: took me almost seven years to finally find any software any traction what I
+- **[00:16:07.269]**: find any software any traction what I
+- **[00:16:07.279]**: find any software any traction what I was doing and eventually at 28 I sold my
+- **[00:16:09.990]**: was doing and eventually at 28 I sold my
+- **[00:16:10.000]**: was doing and eventually at 28 I sold my company and I became a multi-millionaire
+- **[00:16:11.990]**: company and I became a multi-millionaire
+- **[00:16:12.000]**: company and I became a multi-millionaire and it's the thing that ultimately made
+- **[00:16:13.749]**: and it's the thing that ultimately made
+- **[00:16:13.759]**: and it's the thing that ultimately made me financially successful but better
+- **[00:16:15.910]**: me financially successful but better
+- **[00:16:15.920]**: me financially successful but better than anything it created the confidence
+- **[00:16:17.829]**: than anything it created the confidence
+- **[00:16:17.839]**: than anything it created the confidence in my abilities that I could then apply
+- **[00:16:19.509]**: in my abilities that I could then apply
+- **[00:16:19.519]**: in my abilities that I could then apply to my other companies. So don't forget
+- **[00:16:21.990]**: to my other companies. So don't forget
+- **[00:16:22.000]**: to my other companies. So don't forget you don't get the hockey stick without
+- **[00:16:23.749]**: you don't get the hockey stick without
+- **[00:16:23.759]**: you don't get the hockey stick without the flat first year. So, you have to
+- **[00:16:25.829]**: the flat first year. So, you have to
+- **[00:16:25.839]**: the flat first year. So, you have to learn how to invest and reinvest and
+- **[00:16:28.470]**: learn how to invest and reinvest and
+- **[00:16:28.480]**: learn how to invest and reinvest and recommmit if you ever want to be
+- **[00:16:30.230]**: recommmit if you ever want to be
+- **[00:16:30.240]**: recommmit if you ever want to be successful. Here's [snorts] how you do
+- **[00:16:31.910]**: successful. Here's [snorts] how you do
+- **[00:16:31.920]**: successful. Here's [snorts] how you do this for yourself step by step. One, tie
+- **[00:16:35.829]**: this for yourself step by step. One, tie
+- **[00:16:35.839]**: this for yourself step by step. One, tie your strongest skill to a fast growing
+- **[00:16:38.230]**: your strongest skill to a fast growing
+- **[00:16:38.240]**: your strongest skill to a fast growing industry. If you don't know what that
+- **[00:16:39.990]**: industry. If you don't know what that
+- **[00:16:40.000]**: industry. If you don't know what that is, ask AI. It'll tell you. Second is
+- **[00:16:43.110]**: is, ask AI. It'll tell you. Second is
+- **[00:16:43.120]**: is, ask AI. It'll tell you. Second is systematize your service. Don't sell
+- **[00:16:45.350]**: systematize your service. Don't sell
+- **[00:16:45.360]**: systematize your service. Don't sell your time. Sell an outcome so that you
+- **[00:16:48.150]**: your time. Sell an outcome so that you
+- **[00:16:48.160]**: your time. Sell an outcome so that you can build the system around delivering
+- **[00:16:50.150]**: can build the system around delivering
+- **[00:16:50.160]**: can build the system around delivering that outcome and create automation so
+- **[00:16:52.870]**: that outcome and create automation so
+- **[00:16:52.880]**: that outcome and create automation so it's systematized. Third is build a
+- **[00:16:55.030]**: it's systematized. Third is build a
+- **[00:16:55.040]**: it's systematized. Third is build a small team slowly. Surround yourself
+- **[00:16:57.269]**: small team slowly. Surround yourself
+- **[00:16:57.279]**: small team slowly. Surround yourself with killers. I believe the first 12
+- **[00:16:59.350]**: with killers. I believe the first 12
+- **[00:16:59.360]**: with killers. I believe the first 12 people that come into your business will
+- **[00:17:00.870]**: people that come into your business will
+- **[00:17:00.880]**: people that come into your business will dictate your success. You want to be
+- **[00:17:02.790]**: dictate your success. You want to be
+- **[00:17:02.800]**: dictate your success. You want to be slow on making sure they're the right
+- **[00:17:04.470]**: slow on making sure they're the right
+- **[00:17:04.480]**: slow on making sure they're the right fit for what you're trying to do. And
+- **[00:17:05.990]**: fit for what you're trying to do. And
+- **[00:17:06.000]**: fit for what you're trying to do. And for what it's worth, avoid adding
+- **[00:17:07.909]**: for what it's worth, avoid adding
+- **[00:17:07.919]**: for what it's worth, avoid adding headcount where AI could do the job for
+- **[00:17:10.230]**: headcount where AI could do the job for
+- **[00:17:10.240]**: headcount where AI could do the job for you. Number four, layer AI into your
+- **[00:17:13.270]**: you. Number four, layer AI into your
+- **[00:17:13.280]**: you. Number four, layer AI into your operations to increase your margins. Get
+- **[00:17:15.510]**: operations to increase your margins. Get
+- **[00:17:15.520]**: operations to increase your margins. Get rid of the cost. Get AI to build that
+- **[00:17:17.990]**: rid of the cost. Get AI to build that
+- **[00:17:18.000]**: rid of the cost. Get AI to build that automation. And last, use content to
+- **[00:17:20.470]**: automation. And last, use content to
+- **[00:17:20.480]**: automation. And last, use content to create inbound deal flow. If I would
+- **[00:17:22.710]**: create inbound deal flow. If I would
+- **[00:17:22.720]**: create inbound deal flow. If I would have known when I started creating
+- **[00:17:23.990]**: have known when I started creating
+- **[00:17:24.000]**: have known when I started creating content that not only would bring
+- **[00:17:25.750]**: content that not only would bring
+- **[00:17:25.760]**: content that not only would bring opportunities to me, but it would bring
+- **[00:17:27.270]**: opportunities to me, but it would bring
+- **[00:17:27.280]**: opportunities to me, but it would bring talent, it would bring friendships, it
+- **[00:17:29.510]**: talent, it would bring friendships, it
+- **[00:17:29.520]**: talent, it would bring friendships, it would bring invites to things that you
+- **[00:17:31.350]**: would bring invites to things that you
+- **[00:17:31.360]**: would bring invites to things that you couldn't even pay for, I would have
+- **[00:17:33.029]**: couldn't even pay for, I would have
+- **[00:17:33.039]**: couldn't even pay for, I would have started a long time ago. So, no matter
+- **[00:17:35.029]**: started a long time ago. So, no matter
+- **[00:17:35.039]**: started a long time ago. So, no matter what you decide to do in this bucket,
+- **[00:17:36.950]**: what you decide to do in this bucket,
+- **[00:17:36.960]**: what you decide to do in this bucket, just make sure you create content around
+- **[00:17:38.390]**: just make sure you create content around
+- **[00:17:38.400]**: just make sure you create content around it. None of this matters. If you fall
+- **[00:17:40.310]**: it. None of this matters. If you fall
+- **[00:17:40.320]**: it. None of this matters. If you fall into the trap that destroys more
+- **[00:17:41.990]**: into the trap that destroys more
+- **[00:17:42.000]**: into the trap that destroys more businesses than anything else, the shiny
+- **[00:17:44.549]**: businesses than anything else, the shiny
+- **[00:17:44.559]**: businesses than anything else, the shiny object syndrome. Most people fail not
+- **[00:17:47.590]**: object syndrome. Most people fail not
+- **[00:17:47.600]**: object syndrome. Most people fail not because they were in the wrong bucket,
+- **[00:17:49.510]**: because they were in the wrong bucket,
+- **[00:17:49.520]**: because they were in the wrong bucket, but because they switch buckets every
+- **[00:17:51.750]**: but because they switch buckets every
+- **[00:17:51.760]**: but because they switch buckets every few weeks. I got a friend, he's the same
+- **[00:17:53.990]**: few weeks. I got a friend, he's the same
+- **[00:17:54.000]**: few weeks. I got a friend, he's the same age as me. I've watched him go from like
+- **[00:17:55.909]**: age as me. I've watched him go from like
+- **[00:17:55.919]**: age as me. I've watched him go from like one idea to the other idea to the next
+- **[00:17:57.909]**: one idea to the other idea to the next
+- **[00:17:57.919]**: one idea to the other idea to the next idea to another idea, and he hasn't
+- **[00:18:00.390]**: idea to another idea, and he hasn't
+- **[00:18:00.400]**: idea to another idea, and he hasn't found any traction. Why? He keeps
+- **[00:18:02.470]**: found any traction. Why? He keeps
+- **[00:18:02.480]**: found any traction. Why? He keeps resetting every time. Every 2 or 3
+- **[00:18:04.710]**: resetting every time. Every 2 or 3
+- **[00:18:04.720]**: resetting every time. Every 2 or 3 years, it's like, "Oh, that didn't work
+- **[00:18:06.150]**: years, it's like, "Oh, that didn't work
+- **[00:18:06.160]**: years, it's like, "Oh, that didn't work cuz of this. I'm going to do this now."
+- **[00:18:07.750]**: cuz of this. I'm going to do this now."
+- **[00:18:07.760]**: cuz of this. I'm going to do this now." Here's why. When you start from scratch,
+- **[00:18:10.230]**: Here's why. When you start from scratch,
+- **[00:18:10.240]**: Here's why. When you start from scratch, you can't be wrong. If you stick long
+- **[00:18:11.909]**: you can't be wrong. If you stick long
+- **[00:18:11.919]**: you can't be wrong. If you stick long enough with something it doesn't work,
+- **[00:18:13.350]**: enough with something it doesn't work,
+- **[00:18:13.360]**: enough with something it doesn't work, then it can feel demoralizing. But the
+- **[00:18:15.350]**: then it can feel demoralizing. But the
+- **[00:18:15.360]**: then it can feel demoralizing. But the real way to win is to stay in the game
+- **[00:18:17.430]**: real way to win is to stay in the game
+- **[00:18:17.440]**: real way to win is to stay in the game long enough to win. See, winners lose
+- **[00:18:19.750]**: long enough to win. See, winners lose
+- **[00:18:19.760]**: long enough to win. See, winners lose more than losers by definition of being
+- **[00:18:21.669]**: more than losers by definition of being
+- **[00:18:21.679]**: more than losers by definition of being a winner. I know it sounds crazy, but
+- **[00:18:23.590]**: a winner. I know it sounds crazy, but
+- **[00:18:23.600]**: a winner. I know it sounds crazy, but that's what it's going to take. So,
+- **[00:18:25.029]**: that's what it's going to take. So,
+- **[00:18:25.039]**: that's what it's going to take. So, don't get distracted. Focus. Follow one
+- **[00:18:28.390]**: don't get distracted. Focus. Follow one
+- **[00:18:28.400]**: don't get distracted. Focus. Follow one course until successful. Pick one of
+- **[00:18:30.789]**: course until successful. Pick one of
+- **[00:18:30.799]**: course until successful. Pick one of these options out of these buckets and
+- **[00:18:33.190]**: these options out of these buckets and
+- **[00:18:33.200]**: these options out of these buckets and execute. Just remember, you can do
+- **[00:18:35.430]**: execute. Just remember, you can do
+- **[00:18:35.440]**: execute. Just remember, you can do anything, just not everything. So,
+- **[00:18:37.590]**: anything, just not everything. So,
+- **[00:18:37.600]**: anything, just not everything. So, here's how you avoid the shiny object
+- **[00:18:39.590]**: here's how you avoid the shiny object
+- **[00:18:39.600]**: here's how you avoid the shiny object syndrome. One, commit to a,000 days of
+- **[00:18:42.870]**: syndrome. One, commit to a,000 days of
+- **[00:18:42.880]**: syndrome. One, commit to a,000 days of focus. Don't stop. Be consistent. Two,
+- **[00:18:46.950]**: focus. Don't stop. Be consistent. Two,
+- **[00:18:46.960]**: focus. Don't stop. Be consistent. Two, document [music] the journey. Put it in
+- **[00:18:48.870]**: document [music] the journey. Put it in
+- **[00:18:48.880]**: document [music] the journey. Put it in public. Build in public. It'll actually
+- **[00:18:51.190]**: public. Build in public. It'll actually
+- **[00:18:51.200]**: public. Build in public. It'll actually hold you accountable because everybody's
+- **[00:18:53.029]**: hold you accountable because everybody's
+- **[00:18:53.039]**: hold you accountable because everybody's going to be waiting to see what you're
+- **[00:18:54.230]**: going to be waiting to see what you're
+- **[00:18:54.240]**: going to be waiting to see what you're going to post next. If you just do these
+- **[00:18:56.230]**: going to post next. If you just do these
+- **[00:18:56.240]**: going to post next. If you just do these two things, it'll increase your
+- **[00:18:58.150]**: two things, it'll increase your
+- **[00:18:58.160]**: two things, it'll increase your probability of success more than
+- **[00:18:59.750]**: probability of success more than
+- **[00:18:59.760]**: probability of success more than anything else you could do. And the most
+- **[00:19:01.430]**: anything else you could do. And the most
+- **[00:19:01.440]**: anything else you could do. And the most important thing is that you commit.
+- **[00:19:03.750]**: important thing is that you commit.
+- **[00:19:03.760]**: important thing is that you commit. Don't just hear all of this and do
+- **[00:19:05.590]**: Don't just hear all of this and do
+- **[00:19:05.600]**: Don't just hear all of this and do nothing. The separator in 2026 is the
+- **[00:19:09.029]**: nothing. The separator in 2026 is the
+- **[00:19:09.039]**: nothing. The separator in 2026 is the people that show up and do. And those
+- **[00:19:11.190]**: people that show up and do. And those
+- **[00:19:11.200]**: people that show up and do. And those are the folks that make it this far. So,
+- **[00:19:12.870]**: are the folks that make it this far. So,
+- **[00:19:12.880]**: are the folks that make it this far. So, if that's you, I want a commitment. Type
+- **[00:19:14.950]**: if that's you, I want a commitment. Type
+- **[00:19:14.960]**: if that's you, I want a commitment. Type commitment below. Look me in the eyes
+- **[00:19:17.110]**: commitment below. Look me in the eyes
+- **[00:19:17.120]**: commitment below. Look me in the eyes and let me know you're one of the people
+- **[00:19:18.710]**: and let me know you're one of the people
+- **[00:19:18.720]**: and let me know you're one of the people that are different. You're the one
+- **[00:19:19.830]**: that are different. You're the one
+- **[00:19:19.840]**: that are different. You're the one that's not just going to do shelf help,
+- **[00:19:21.590]**: that's not just going to do shelf help,
+- **[00:19:21.600]**: that's not just going to do shelf help, listen to a lot of stuff, and put it up
+- **[00:19:22.950]**: listen to a lot of stuff, and put it up
+- **[00:19:22.960]**: listen to a lot of stuff, and put it up on a shelf, but you're actually going to
+- **[00:19:24.549]**: on a shelf, but you're actually going to
+- **[00:19:24.559]**: on a shelf, but you're actually going to focus until you get results. And
+- **[00:19:26.549]**: focus until you get results. And
+- **[00:19:26.559]**: focus until you get results. And remember, if any of you are
+- **[00:19:27.750]**: remember, if any of you are
+- **[00:19:27.760]**: remember, if any of you are entrepreneurs out there and you want my
+- **[00:19:29.270]**: entrepreneurs out there and you want my
+- **[00:19:29.280]**: entrepreneurs out there and you want my exact offer template to help you get
+- **[00:19:31.029]**: exact offer template to help you get
+- **[00:19:31.039]**: exact offer template to help you get clients, just DM me the word YouTube
+- **[00:19:32.950]**: clients, just DM me the word YouTube
+- **[00:19:32.960]**: clients, just DM me the word YouTube offer on Instagram or click the link
+- **[00:19:35.190]**: offer on Instagram or click the link
+- **[00:19:35.200]**: offer on Instagram or click the link below and I'll send it right over. And
+- **[00:19:37.029]**: below and I'll send it right over. And
+- **[00:19:37.039]**: below and I'll send it right over. And if you want to learn how to scale any
+- **[00:19:39.110]**: if you want to learn how to scale any
+- **[00:19:39.120]**: if you want to learn how to scale any business from absolutely very beginning
+- **[00:19:41.430]**: business from absolutely very beginning
+- **[00:19:41.440]**: business from absolutely very beginning to the end, click here and I'll see you
+- **[00:19:43.270]**: to the end, click here and I'll see you
+- **[00:19:43.280]**: to the end, click here and I'll see you on the other

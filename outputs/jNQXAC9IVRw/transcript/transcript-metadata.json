@@ -1,0 +1,14 @@
+{
+  "tier": "Tier 2 - Creator Captions",
+  "language": "en",
+  "is_machine_generated": false,
+  "caption_format": "vtt",
+  "method": "yt_dlp_creator",
+  "character_count": 245,
+  "estimated_word_count": 43,
+  "detected_segments": {
+    "intros": [],
+    "sponsorships": [],
+    "outros": []
+  }
+}

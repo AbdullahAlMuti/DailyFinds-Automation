@@ -1,0 +1,46 @@
+[
+  {
+    "file_path": "outputs/DhEMFeo_gL8/images/featured.jpg",
+    "placement": "featured",
+    "prompt": "Editorial photograph of a modern tech workspace setup with a laptop displaying business growth charts split into strategic tiers, clean notebook, warm natural morning light through a window, professional minimalist workspace. No text inside image, no words, no brand logos, no trademarks.",
+    "alt_text": "Modern technology workspace laptop showing strategic 4-bucket business growth analytics",
+    "caption": "Navigating the 2026 digital economy requires categorizing business models into actionable risk and income tiers.",
+    "suggested_filename": "ways-to-make-money-in-2026-featured.jpg",
+    "width": 1200,
+    "height": 675,
+    "is_ai_generated": true
+  },
+  {
+    "file_path": "outputs/DhEMFeo_gL8/images/inline1.jpg",
+    "placement": "inline",
+    "prompt": "Editorial photograph of a clean business office desk with open laptop showing AI workflow automation analytics and data charts, sleek glass notebook, warm natural lighting, professional minimalist aesthetic. No text inside image, no words, no brand logos, no trademarks.",
+    "alt_text": "Clean corporate desk displaying automated workflow data and short-form video production analytics",
+    "caption": "The Easy Bucket focuses on rapid 30-to-60 day execution using short-form video clipping and AI receptionists.",
+    "suggested_filename": "ways-to-make-money-in-2026-inline-1.jpg",
+    "width": 1200,
+    "height": 675,
+    "is_ai_generated": true
+  },
+  {
+    "file_path": "outputs/DhEMFeo_gL8/images/inline2.jpg",
+    "placement": "inline",
+    "prompt": "Editorial photograph of an executive meeting room with digital screen showing SaaS growth metrics and retainer business models, modern minimalist design, warm daylight. No text inside image, no words, no brand logos, no trademarks.",
+    "alt_text": "Executive strategy room displaying recurring monthly retainer metrics and Micro-SaaS growth trends",
+    "caption": "The Medium Bucket scales from $10k to $50k per month through outcome-based monthly retainers and Micro-SaaS tools.",
+    "suggested_filename": "ways-to-make-money-in-2026-inline-2.jpg",
+    "width": 1200,
+    "height": 675,
+    "is_ai_generated": true
+  },
+  {
+    "file_path": "outputs/DhEMFeo_gL8/images/inline3.jpg",
+    "placement": "inline",
+    "prompt": "Editorial photograph of a high-tech corporate office with dual monitors showing business acquisition dashboards, modern ambient lighting, clean aesthetic. No text inside image, no words, no brand logos, no trademarks.",
+    "alt_text": "High-tech corporate workspace monitors showing enterprise asset acquisitions and AI automation software scaling",
+    "caption": "The Hard Empire Bucket focuses on building long-term equity assets, AI angel investing, and traditional company acquisitions.",
+    "suggested_filename": "ways-to-make-money-in-2026-inline-3.jpg",
+    "width": 1200,
+    "height": 675,
+    "is_ai_generated": true
+  }
+]

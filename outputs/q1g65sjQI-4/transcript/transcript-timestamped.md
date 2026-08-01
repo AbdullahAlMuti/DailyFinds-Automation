@@ -1,0 +1,895 @@
+# Timestamped Transcript
+
+- **[00:00:00.000]**: Kind: captions Language: en Most people waste their entire life on
+- **[00:00:03.150]**: Most people waste their entire life on
+- **[00:00:03.160]**: Most people waste their entire life on side hustles that sound smart but yet
+- **[00:00:06.070]**: side hustles that sound smart but yet
+- **[00:00:06.080]**: side hustles that sound smart but yet magically make no money. They see AI
+- **[00:00:08.350]**: magically make no money. They see AI
+- **[00:00:08.360]**: magically make no money. They see AI plastered on something and suddenly
+- **[00:00:10.350]**: plastered on something and suddenly
+- **[00:00:10.360]**: plastered on something and suddenly think, well, here it is. This is the
+- **[00:00:12.070]**: think, well, here it is. This is the
+- **[00:00:12.080]**: think, well, here it is. This is the opportunity I've been waiting my whole
+- **[00:00:13.950]**: opportunity I've been waiting my whole
+- **[00:00:13.960]**: opportunity I've been waiting my whole life for. And honestly, I get it. AI has
+- **[00:00:16.950]**: life for. And honestly, I get it. AI has
+- **[00:00:16.960]**: life for. And honestly, I get it. AI has genuinely changed what's possible.
+- **[00:00:18.330]**: genuinely changed what's possible.
+- **[00:00:18.340]**: genuinely changed what's possible. [music] It has made it easier than ever
+- **[00:00:20.590]**: [music] It has made it easier than ever
+- **[00:00:20.600]**: [music] It has made it easier than ever to build a profitable side hustle, but
+- **[00:00:23.070]**: to build a profitable side hustle, but
+- **[00:00:23.080]**: to build a profitable side hustle, but it's also created a lot of noise. You
+- **[00:00:24.870]**: it's also created a lot of noise. You
+- **[00:00:24.880]**: it's also created a lot of noise. You see, most people have no idea how to
+- **[00:00:26.470]**: see, most people have no idea how to
+- **[00:00:26.480]**: see, most people have no idea how to tell the good side hustles from the bad.
+- **[00:00:28.950]**: tell the good side hustles from the bad.
+- **[00:00:28.960]**: tell the good side hustles from the bad. They are obsessed with what sounds
+- **[00:00:30.830]**: They are obsessed with what sounds
+- **[00:00:30.840]**: They are obsessed with what sounds futuristic, not what actually makes
+- **[00:00:33.110]**: futuristic, not what actually makes
+- **[00:00:33.120]**: futuristic, not what actually makes money. The problem is that they think
+- **[00:00:35.150]**: money. The problem is that they think
+- **[00:00:35.160]**: money. The problem is that they think the money is in [music] the AI itself.
+- **[00:00:37.470]**: the money is in [music] the AI itself.
+- **[00:00:37.480]**: the money is in [music] the AI itself. It's not. AI is just a tool. The money
+- **[00:00:40.550]**: It's not. AI is just a tool. The money
+- **[00:00:40.560]**: It's not. AI is just a tool. The money is in using AI to create something that
+- **[00:00:43.470]**: is in using AI to create something that
+- **[00:00:43.480]**: is in using AI to create something that people are already paying for and using
+- **[00:00:46.070]**: people are already paying for and using
+- **[00:00:46.080]**: people are already paying for and using it [music] to do it faster, cheaper, and
+- **[00:00:48.710]**: it [music] to do it faster, cheaper, and
+- **[00:00:48.720]**: it [music] to do it faster, cheaper, and at scale. Just like the internet, you
+- **[00:00:50.550]**: at scale. Just like the internet, you
+- **[00:00:50.560]**: at scale. Just like the internet, you don't make money with the internet. The
+- **[00:00:52.790]**: don't make money with the internet. The
+- **[00:00:52.800]**: don't make money with the internet. The internet is just the infrastructure. So,
+- **[00:00:55.950]**: internet is just the infrastructure. So,
+- **[00:00:55.960]**: internet is just the infrastructure. So, in today's video, I am ranking 17 side
+- **[00:00:58.910]**: in today's video, I am ranking 17 side
+- **[00:00:58.920]**: in today's video, I am ranking 17 side hustles from S tier to absolute dog
+- **[00:01:02.310]**: hustles from S tier to absolute dog
+- **[00:01:02.320]**: hustles from S tier to absolute dog So, that way you know which ones,
+- **[00:01:05.150]**: So, that way you know which ones,
+- **[00:01:05.160]**: So, that way you know which ones, quite frankly, are just a waste of your
+- **[00:01:07.070]**: quite frankly, are just a waste of your
+- **[00:01:07.080]**: quite frankly, are just a waste of your time. All right, so side hustle number
+- **[00:01:08.950]**: time. All right, so side hustle number
+- **[00:01:08.960]**: time. All right, so side hustle number one, AI trading bots. This is where
+- **[00:01:11.230]**: one, AI trading bots. This is where
+- **[00:01:11.240]**: one, AI trading bots. This is where people get sold the dream that a bot
+- **[00:01:13.550]**: people get sold the dream that a bot
+- **[00:01:13.560]**: people get sold the dream that a bot will magically do all of the hard work
+- **[00:01:16.110]**: will magically do all of the hard work
+- **[00:01:16.120]**: will magically do all of the hard work and generate money for them. It's the
+- **[00:01:17.710]**: and generate money for them. It's the
+- **[00:01:17.720]**: and generate money for them. It's the classic this bot will print money
+- **[00:01:19.750]**: classic this bot will print money
+- **[00:01:19.760]**: classic this bot will print money It is complete nonsense. Look,
+- **[00:01:22.270]**: It is complete nonsense. Look,
+- **[00:01:22.280]**: It is complete nonsense. Look, yeah, sure, it might sound good on paper
+- **[00:01:24.270]**: yeah, sure, it might sound good on paper
+- **[00:01:24.280]**: yeah, sure, it might sound good on paper to people who don't understand the risk.
+- **[00:01:26.190]**: to people who don't understand the risk.
+- **[00:01:26.200]**: to people who don't understand the risk. But look, quite frankly, it's just
+- **[00:01:28.230]**: But look, quite frankly, it's just
+- **[00:01:28.240]**: But look, quite frankly, it's just gambling with a little bit of branding
+- **[00:01:30.470]**: gambling with a little bit of branding
+- **[00:01:30.480]**: gambling with a little bit of branding on top. It's like putting lipstick on a
+- **[00:01:32.150]**: on top. It's like putting lipstick on a
+- **[00:01:32.160]**: on top. It's like putting lipstick on a pig. If you do not understand the
+- **[00:01:34.230]**: pig. If you do not understand the
+- **[00:01:34.240]**: pig. If you do not understand the market, the rules, the downside, well,
+- **[00:01:37.510]**: market, the rules, the downside, well,
+- **[00:01:37.520]**: market, the rules, the downside, well, then you're not building a side hustle.
+- **[00:01:39.550]**: then you're not building a side hustle.
+- **[00:01:39.560]**: then you're not building a side hustle. You're just burning money. So, if you
+- **[00:01:41.230]**: You're just burning money. So, if you
+- **[00:01:41.240]**: You're just burning money. So, if you want to throw your money down the drain,
+- **[00:01:43.190]**: want to throw your money down the drain,
+- **[00:01:43.200]**: want to throw your money down the drain, congratulations, do this one. The risk
+- **[00:01:45.310]**: congratulations, do this one. The risk
+- **[00:01:45.320]**: congratulations, do this one. The risk is very high with this one. This whole
+- **[00:01:47.470]**: is very high with this one. This whole
+- **[00:01:47.480]**: is very high with this one. This whole thing is just a trap for beginners. So,
+- **[00:01:49.430]**: thing is just a trap for beginners. So,
+- **[00:01:49.440]**: thing is just a trap for beginners. So, quite frankly, I'm putting this in F
+- **[00:01:51.996]**: quite frankly, I'm putting this in F
+- **[00:01:52.006]**: quite frankly, I'm putting this in F [music] tier. And that brings us onto
+- **[00:01:53.310]**: [music] tier. And that brings us onto
+- **[00:01:53.320]**: [music] tier. And that brings us onto side hustle number two, AI UGC. With
+- **[00:01:55.830]**: side hustle number two, AI UGC. With
+- **[00:01:55.840]**: side hustle number two, AI UGC. With this one, you're going to create content
+- **[00:01:57.510]**: this one, you're going to create content
+- **[00:01:57.520]**: this one, you're going to create content for brands using AI. Businesses pay for
+- **[00:02:00.070]**: for brands using AI. Businesses pay for
+- **[00:02:00.080]**: for brands using AI. Businesses pay for this because it's tied directly to
+- **[00:02:02.150]**: this because it's tied directly to
+- **[00:02:02.160]**: this because it's tied directly to performance. If the content helps them
+- **[00:02:03.870]**: performance. If the content helps them
+- **[00:02:03.880]**: performance. If the content helps them sell more, well, then they'll keep
+- **[00:02:05.150]**: sell more, well, then they'll keep
+- **[00:02:05.160]**: sell more, well, then they'll keep paying you to create this type of
+- **[00:02:06.430]**: paying you to create this type of
+- **[00:02:06.440]**: paying you to create this type of content for them. The problem is, if it
+- **[00:02:08.270]**: content for them. The problem is, if it
+- **[00:02:08.280]**: content for them. The problem is, if it doesn't feel authentic or if the content
+- **[00:02:10.389]**: doesn't feel authentic or if the content
+- **[00:02:10.399]**: doesn't feel authentic or if the content doesn't perform, well, then you have a
+- **[00:02:12.070]**: doesn't perform, well, then you have a
+- **[00:02:12.080]**: doesn't perform, well, then you have a problem on your hands. And with that
+- **[00:02:13.710]**: problem on your hands. And with that
+- **[00:02:13.720]**: problem on your hands. And with that problem, you're going to struggle to
+- **[00:02:15.190]**: problem, you're going to struggle to
+- **[00:02:15.200]**: problem, you're going to struggle to make money with this. Now, look, there
+- **[00:02:16.590]**: make money with this. Now, look, there
+- **[00:02:16.600]**: make money with this. Now, look, there is demand, but this whole thing lives or
+- **[00:02:18.510]**: is demand, but this whole thing lives or
+- **[00:02:18.520]**: is demand, but this whole thing lives or dies on the content and how authentic it
+- **[00:02:20.710]**: dies on the content and how authentic it
+- **[00:02:20.720]**: dies on the content and how authentic it feels as well as how it performs. So,
+- **[00:02:22.150]**: feels as well as how it performs. So,
+- **[00:02:22.160]**: feels as well as how it performs. So, because of that, I'm going to have to
+- **[00:02:23.670]**: because of that, I'm going to have to
+- **[00:02:23.680]**: because of that, I'm going to have to put it in C tier. Now, moving on, let's
+- **[00:02:25.590]**: put it in C tier. Now, moving on, let's
+- **[00:02:25.600]**: put it in C tier. Now, moving on, let's talk about AI clipping. This one I'm
+- **[00:02:27.550]**: talk about AI clipping. This one I'm
+- **[00:02:27.560]**: talk about AI clipping. This one I'm seeing everywhere. With this, you're
+- **[00:02:29.070]**: seeing everywhere. With this, you're
+- **[00:02:29.080]**: seeing everywhere. With this, you're going to turn long-form content into
+- **[00:02:31.110]**: going to turn long-form content into
+- **[00:02:31.120]**: going to turn long-form content into shorts, reels, and clips, and you're
+- **[00:02:33.550]**: shorts, reels, and clips, and you're
+- **[00:02:33.560]**: shorts, reels, and clips, and you're going to do that using AI. Now, I'll be
+- **[00:02:35.710]**: going to do that using AI. Now, I'll be
+- **[00:02:35.720]**: going to do that using AI. Now, I'll be honest, there's actually real demand
+- **[00:02:37.270]**: honest, there's actually real demand
+- **[00:02:37.280]**: honest, there's actually real demand here. It's easy to explain and it's easy
+- **[00:02:39.830]**: here. It's easy to explain and it's easy
+- **[00:02:39.840]**: here. It's easy to explain and it's easy to sell to creators and businesses who
+- **[00:02:42.310]**: to sell to creators and businesses who
+- **[00:02:42.320]**: to sell to creators and businesses who already know that they need more
+- **[00:02:43.510]**: already know that they need more
+- **[00:02:43.520]**: already know that they need more distribution. The only issue is everyone
+- **[00:02:46.030]**: distribution. The only issue is everyone
+- **[00:02:46.040]**: distribution. The only issue is everyone and their mom seems to be doing it,
+- **[00:02:47.670]**: and their mom seems to be doing it,
+- **[00:02:47.680]**: and their mom seems to be doing it, which means the market is getting
+- **[00:02:48.990]**: which means the market is getting
+- **[00:02:49.000]**: which means the market is getting crowded fast. And once again, if your
+- **[00:02:50.870]**: crowded fast. And once again, if your
+- **[00:02:50.880]**: crowded fast. And once again, if your clips don't perform, you become
+- **[00:02:52.230]**: clips don't perform, you become
+- **[00:02:52.240]**: clips don't perform, you become replaceable very, very quickly. Now,
+- **[00:02:54.030]**: replaceable very, very quickly. Now,
+- **[00:02:54.040]**: replaceable very, very quickly. Now, look, because there's clear demand, but
+- **[00:02:55.990]**: look, because there's clear demand, but
+- **[00:02:56.000]**: look, because there's clear demand, but very little differentiation, I'm going
+- **[00:02:57.870]**: very little differentiation, I'm going
+- **[00:02:57.880]**: very little differentiation, I'm going to go ahead and put this in B tier. So,
+- **[00:02:59.830]**: to go ahead and put this in B tier. So,
+- **[00:02:59.840]**: to go ahead and put this in B tier. So, just a quick note before we move on, if
+- **[00:03:01.590]**: just a quick note before we move on, if
+- **[00:03:01.600]**: just a quick note before we move on, if you didn't already know, I've been
+- **[00:03:02.990]**: you didn't already know, I've been
+- **[00:03:03.000]**: you didn't already know, I've been giving away a MacBook every video for
+- **[00:03:05.630]**: giving away a MacBook every video for
+- **[00:03:05.640]**: giving away a MacBook every video for the last few weeks. The winner from the
+- **[00:03:07.509]**: the last few weeks. The winner from the
+- **[00:03:07.519]**: the last few weeks. The winner from the last video is down [music] in the pinned
+- **[00:03:09.310]**: last video is down [music] in the pinned
+- **[00:03:09.320]**: last video is down [music] in the pinned comment below this video along with the
+- **[00:03:11.390]**: comment below this video along with the
+- **[00:03:11.400]**: comment below this video along with the instructions on how to claim it. And
+- **[00:03:13.430]**: instructions on how to claim it. And
+- **[00:03:13.440]**: instructions on how to claim it. And today, I'm giving away another MacBook,
+- **[00:03:15.270]**: today, I'm giving away another MacBook,
+- **[00:03:15.280]**: today, I'm giving away another MacBook, but this time the dynamic is a little
+- **[00:03:17.070]**: but this time the dynamic is a little
+- **[00:03:17.080]**: but this time the dynamic is a little different. I'm gathering some market
+- **[00:03:18.550]**: different. I'm gathering some market
+- **[00:03:18.560]**: different. I'm gathering some market research to understand what are some of
+- **[00:03:20.229]**: research to understand what are some of
+- **[00:03:20.239]**: research to understand what are some of the main reasons stopping you from
+- **[00:03:21.990]**: the main reasons stopping you from
+- **[00:03:22.000]**: the main reasons stopping you from starting a side hustle and how I can
+- **[00:03:23.790]**: starting a side hustle and how I can
+- **[00:03:23.800]**: starting a side hustle and how I can help you the most. But, instead of just
+- **[00:03:25.390]**: help you the most. But, instead of just
+- **[00:03:25.400]**: help you the most. But, instead of just guessing, I want to ask you directly.
+- **[00:03:27.350]**: guessing, I want to ask you directly.
+- **[00:03:27.360]**: guessing, I want to ask you directly. So, I've prepared a few questions for
+- **[00:03:28.710]**: So, I've prepared a few questions for
+- **[00:03:28.720]**: So, I've prepared a few questions for you that should take no longer than 2
+- **[00:03:30.190]**: you that should take no longer than 2
+- **[00:03:30.200]**: you that should take no longer than 2 minutes to answer. All you need to do to
+- **[00:03:31.750]**: minutes to answer. All you need to do to
+- **[00:03:31.760]**: minutes to answer. All you need to do to enter the MacBook giveaway is click the
+- **[00:03:33.390]**: enter the MacBook giveaway is click the
+- **[00:03:33.400]**: enter the MacBook giveaway is click the link in the description and answer these
+- **[00:03:34.910]**: link in the description and answer these
+- **[00:03:34.920]**: link in the description and answer these questions on WhatsApp. Then, come back
+- **[00:03:36.550]**: questions on WhatsApp. Then, come back
+- **[00:03:36.560]**: questions on WhatsApp. Then, come back here and comment on what you found most
+- **[00:03:38.270]**: here and comment on what you found most
+- **[00:03:38.280]**: here and comment on what you found most useful from today's video. The winner
+- **[00:03:39.949]**: useful from today's video. The winner
+- **[00:03:39.959]**: useful from today's video. The winner will be announced in my next video, as
+- **[00:03:41.430]**: will be announced in my next video, as
+- **[00:03:41.440]**: will be announced in my next video, as always, so come back here on the next
+- **[00:03:43.630]**: always, so come back here on the next
+- **[00:03:43.640]**: always, so come back here on the next one to check if you won. So, let's talk
+- **[00:03:45.110]**: one to check if you won. So, let's talk
+- **[00:03:45.120]**: one to check if you won. So, let's talk about AI drop shipping. You're going to
+- **[00:03:46.670]**: about AI drop shipping. You're going to
+- **[00:03:46.680]**: about AI drop shipping. You're going to use AI to help you source, research, and
+- **[00:03:48.949]**: use AI to help you source, research, and
+- **[00:03:48.959]**: use AI to help you source, research, and sell products. I mean, literally just
+- **[00:03:51.070]**: sell products. I mean, literally just
+- **[00:03:51.080]**: sell products. I mean, literally just drop shipping, but with AI layered on
+- **[00:03:52.830]**: drop shipping, but with AI layered on
+- **[00:03:52.840]**: drop shipping, but with AI layered on top to really speed up some of the
+- **[00:03:54.350]**: top to really speed up some of the
+- **[00:03:54.360]**: top to really speed up some of the process. The upside is the exact same as
+- **[00:03:56.430]**: process. The upside is the exact same as
+- **[00:03:56.440]**: process. The upside is the exact same as regular drop shipping. You have low
+- **[00:03:57.950]**: regular drop shipping. You have low
+- **[00:03:57.960]**: regular drop shipping. You have low inventory risk and it's relatively
+- **[00:04:00.110]**: inventory risk and it's relatively
+- **[00:04:00.120]**: inventory risk and it's relatively straightforward to test products without
+- **[00:04:02.110]**: straightforward to test products without
+- **[00:04:02.120]**: straightforward to test products without too much upfront commitment, but a lot
+- **[00:04:04.070]**: too much upfront commitment, but a lot
+- **[00:04:04.080]**: too much upfront commitment, but a lot of times you're going to have to spend
+- **[00:04:04.910]**: of times you're going to have to spend
+- **[00:04:04.920]**: of times you're going to have to spend money on ads, which is what gives me
+- **[00:04:06.430]**: money on ads, which is what gives me
+- **[00:04:06.440]**: money on ads, which is what gives me anxiety for beginners. And that's really
+- **[00:04:08.150]**: anxiety for beginners. And that's really
+- **[00:04:08.160]**: anxiety for beginners. And that's really why the core problems never change
+- **[00:04:09.710]**: why the core problems never change
+- **[00:04:09.720]**: why the core problems never change because drop shipping really is a race
+- **[00:04:11.270]**: because drop shipping really is a race
+- **[00:04:11.280]**: because drop shipping really is a race to the bottom. And AI still doesn't fix
+- **[00:04:13.550]**: to the bottom. And AI still doesn't fix
+- **[00:04:13.560]**: to the bottom. And AI still doesn't fix the problems with this model, [music]
+- **[00:04:15.070]**: the problems with this model, [music]
+- **[00:04:15.080]**: the problems with this model, [music] which is really bad margins and a lot of
+- **[00:04:17.110]**: which is really bad margins and a lot of
+- **[00:04:17.120]**: which is really bad margins and a lot of cost to actually test products. So look,
+- **[00:04:18.990]**: cost to actually test products. So look,
+- **[00:04:19.000]**: cost to actually test products. So look, because this is an actual legitimate
+- **[00:04:20.830]**: because this is an actual legitimate
+- **[00:04:20.840]**: because this is an actual legitimate business model, it's not a gimmick, but
+- **[00:04:22.590]**: business model, it's not a gimmick, but
+- **[00:04:22.600]**: business model, it's not a gimmick, but the cost of testing products is just too
+- **[00:04:24.510]**: the cost of testing products is just too
+- **[00:04:24.520]**: the cost of testing products is just too much and I've just seen way too many
+- **[00:04:25.909]**: much and I've just seen way too many
+- **[00:04:25.919]**: much and I've just seen way too many beginners get burned with this. I'm
+- **[00:04:27.670]**: beginners get burned with this. I'm
+- **[00:04:27.680]**: beginners get burned with this. I'm going to go ahead and put this in C
+- **[00:04:29.110]**: going to go ahead and put this in C
+- **[00:04:29.120]**: going to go ahead and put this in C tier. And that brings us on to side
+- **[00:04:30.510]**: tier. And that brings us on to side
+- **[00:04:30.520]**: tier. And that brings us on to side hustle number five, which is AI voice
+- **[00:04:32.830]**: hustle number five, which is AI voice
+- **[00:04:32.840]**: hustle number five, which is AI voice agents. You're actually going to go
+- **[00:04:33.909]**: agents. You're actually going to go
+- **[00:04:33.919]**: agents. You're actually going to go ahead and build AI phone agents that can
+- **[00:04:36.110]**: ahead and build AI phone agents that can
+- **[00:04:36.120]**: ahead and build AI phone agents that can actually handle calls and bookings for
+- **[00:04:37.990]**: actually handle calls and bookings for
+- **[00:04:38.000]**: actually handle calls and bookings for businesses. And you can imagine why this
+- **[00:04:39.950]**: businesses. And you can imagine why this
+- **[00:04:39.960]**: businesses. And you can imagine why this is valuable, right? Because it saves
+- **[00:04:41.430]**: is valuable, right? Because it saves
+- **[00:04:41.440]**: is valuable, right? Because it saves businesses time and quite frankly, time
+- **[00:04:43.470]**: businesses time and quite frankly, time
+- **[00:04:43.480]**: businesses time and quite frankly, time is money. If the agent can answer calls,
+- **[00:04:45.990]**: is money. If the agent can answer calls,
+- **[00:04:46.000]**: is money. If the agent can answer calls, book in appointments, as well as
+- **[00:04:47.470]**: book in appointments, as well as
+- **[00:04:47.480]**: book in appointments, as well as sometimes even go as far as to handle
+- **[00:04:49.270]**: sometimes even go as far as to handle
+- **[00:04:49.280]**: sometimes even go as far as to handle basic objections, well then of course
+- **[00:04:51.110]**: basic objections, well then of course
+- **[00:04:51.120]**: basic objections, well then of course that's something the businesses will pay
+- **[00:04:52.710]**: that's something the businesses will pay
+- **[00:04:52.720]**: that's something the businesses will pay for. The setup though is not easy and
+- **[00:04:55.550]**: for. The setup though is not easy and
+- **[00:04:55.560]**: for. The setup though is not easy and businesses get really impatient if it
+- **[00:04:57.909]**: businesses get really impatient if it
+- **[00:04:57.919]**: businesses get really impatient if it becomes clunky, robotic, or breaks their
+- **[00:05:00.830]**: becomes clunky, robotic, or breaks their
+- **[00:05:00.840]**: becomes clunky, robotic, or breaks their customer experience. Now, if I go ahead
+- **[00:05:02.790]**: customer experience. Now, if I go ahead
+- **[00:05:02.800]**: customer experience. Now, if I go ahead and summarize this entire side hustle,
+- **[00:05:04.950]**: and summarize this entire side hustle,
+- **[00:05:04.960]**: and summarize this entire side hustle, because the value is real but the
+- **[00:05:06.670]**: because the value is real but the
+- **[00:05:06.680]**: because the value is real but the execution is more complex than most
+- **[00:05:08.590]**: execution is more complex than most
+- **[00:05:08.600]**: execution is more complex than most people actually assume going into it,
+- **[00:05:10.750]**: people actually assume going into it,
+- **[00:05:10.760]**: people actually assume going into it, I'm going to go ahead and put this in B
+- **[00:05:12.310]**: I'm going to go ahead and put this in B
+- **[00:05:12.320]**: I'm going to go ahead and put this in B tier. All right, moving on number six,
+- **[00:05:14.310]**: tier. All right, moving on number six,
+- **[00:05:14.320]**: tier. All right, moving on number six, AI lead generation. Quite simply, this
+- **[00:05:16.310]**: AI lead generation. Quite simply, this
+- **[00:05:16.320]**: AI lead generation. Quite simply, this is where you're going to use AI to help
+- **[00:05:17.870]**: is where you're going to use AI to help
+- **[00:05:17.880]**: is where you're going to use AI to help businesses find and qualify leads. Let's
+- **[00:05:20.350]**: businesses find and qualify leads. Let's
+- **[00:05:20.360]**: businesses find and qualify leads. Let's talk about the big benefit here. This is
+- **[00:05:22.230]**: talk about the big benefit here. This is
+- **[00:05:22.240]**: talk about the big benefit here. This is directly tied to revenue and that's why
+- **[00:05:24.150]**: directly tied to revenue and that's why
+- **[00:05:24.160]**: directly tied to revenue and that's why businesses will always need this. So,
+- **[00:05:26.830]**: businesses will always need this. So,
+- **[00:05:26.840]**: businesses will always need this. So, the demand is there, okay? If you can
+- **[00:05:28.550]**: the demand is there, okay? If you can
+- **[00:05:28.560]**: the demand is there, okay? If you can put qualified prospects in front of a
+- **[00:05:30.310]**: put qualified prospects in front of a
+- **[00:05:30.320]**: put qualified prospects in front of a business, you can make money. It's plain
+- **[00:05:32.750]**: business, you can make money. It's plain
+- **[00:05:32.760]**: business, you can make money. It's plain and simple. With this one, you're not
+- **[00:05:34.230]**: and simple. With this one, you're not
+- **[00:05:34.240]**: and simple. With this one, you're not really selling a nice-to-have. You are
+- **[00:05:36.270]**: really selling a nice-to-have. You are
+- **[00:05:36.280]**: really selling a nice-to-have. You are selling something that businesses need,
+- **[00:05:38.150]**: selling something that businesses need,
+- **[00:05:38.160]**: selling something that businesses need, okay? Something that drives revenue. So,
+- **[00:05:40.270]**: okay? Something that drives revenue. So,
+- **[00:05:40.280]**: okay? Something that drives revenue. So, the value is there. The only downside is
+- **[00:05:42.710]**: the value is there. The only downside is
+- **[00:05:42.720]**: the value is there. The only downside is that if your data or targeting is bad,
+- **[00:05:44.790]**: that if your data or targeting is bad,
+- **[00:05:44.800]**: that if your data or targeting is bad, well then unfortunately that means your
+- **[00:05:45.990]**: well then unfortunately that means your
+- **[00:05:46.000]**: well then unfortunately that means your leads are going to be bad, and the whole
+- **[00:05:48.190]**: leads are going to be bad, and the whole
+- **[00:05:48.200]**: leads are going to be bad, and the whole thing falls apart. So, you are 100%
+- **[00:05:50.990]**: thing falls apart. So, you are 100%
+- **[00:05:51.000]**: thing falls apart. So, you are 100% dependent on that. So, if I had to score
+- **[00:05:52.910]**: dependent on that. So, if I had to score
+- **[00:05:52.920]**: dependent on that. So, if I had to score it, because it connects straight to
+- **[00:05:54.910]**: it, because it connects straight to
+- **[00:05:54.920]**: it, because it connects straight to revenue, and it solves a real business
+- **[00:05:57.270]**: revenue, and it solves a real business
+- **[00:05:57.280]**: revenue, and it solves a real business problem, I'm actually going to go ahead
+- **[00:05:58.670]**: problem, I'm actually going to go ahead
+- **[00:05:58.680]**: problem, I'm actually going to go ahead and put it in A tier. All right, let's
+- **[00:06:00.270]**: and put it in A tier. All right, let's
+- **[00:06:00.280]**: and put it in A tier. All right, let's talk about AI chatbots. With this one,
+- **[00:06:02.390]**: talk about AI chatbots. With this one,
+- **[00:06:02.400]**: talk about AI chatbots. With this one, you are going to go ahead and build
+- **[00:06:03.830]**: you are going to go ahead and build
+- **[00:06:03.840]**: you are going to go ahead and build support or sales bots for businesses.
+- **[00:06:06.670]**: support or sales bots for businesses.
+- **[00:06:06.680]**: support or sales bots for businesses. Once again, the appeal is very obvious
+- **[00:06:08.070]**: Once again, the appeal is very obvious
+- **[00:06:08.080]**: Once again, the appeal is very obvious with this one. It saves businesses time,
+- **[00:06:10.470]**: with this one. It saves businesses time,
+- **[00:06:10.480]**: with this one. It saves businesses time, it handles repetitive questions, and it
+- **[00:06:12.470]**: it handles repetitive questions, and it
+- **[00:06:12.480]**: it handles repetitive questions, and it can actually take a lot of pressure off
+- **[00:06:14.030]**: can actually take a lot of pressure off
+- **[00:06:14.040]**: can actually take a lot of pressure off of the team from a business point of
+- **[00:06:15.910]**: of the team from a business point of
+- **[00:06:15.920]**: of the team from a business point of perspective. But unfortunately, a lot of
+- **[00:06:17.670]**: perspective. But unfortunately, a lot of
+- **[00:06:17.680]**: perspective. But unfortunately, a lot of these chatbots are just very gimmicky,
+- **[00:06:19.909]**: these chatbots are just very gimmicky,
+- **[00:06:19.919]**: these chatbots are just very gimmicky, and it's pretending to be a business.
+- **[00:06:21.350]**: and it's pretending to be a business.
+- **[00:06:21.360]**: and it's pretending to be a business. So, to summarize, because there is
+- **[00:06:22.830]**: So, to summarize, because there is
+- **[00:06:22.840]**: So, to summarize, because there is utility, but unfortunately, a lot of it
+- **[00:06:24.670]**: utility, but unfortunately, a lot of it
+- **[00:06:24.680]**: utility, but unfortunately, a lot of it is overhyped and really easy to
+- **[00:06:26.350]**: is overhyped and really easy to
+- **[00:06:26.360]**: is overhyped and really easy to commoditize in today's day and age, and
+- **[00:06:28.390]**: commoditize in today's day and age, and
+- **[00:06:28.400]**: commoditize in today's day and age, and it doesn't have that same excitement
+- **[00:06:29.790]**: it doesn't have that same excitement
+- **[00:06:29.800]**: it doesn't have that same excitement factor as the voice agents, I'm actually
+- **[00:06:31.710]**: factor as the voice agents, I'm actually
+- **[00:06:31.720]**: factor as the voice agents, I'm actually going to go ahead and put this in C
+- **[00:06:32.990]**: going to go ahead and put this in C
+- **[00:06:33.000]**: going to go ahead and put this in C tier. Moving on, let's talk about an
+- **[00:06:34.790]**: tier. Moving on, let's talk about an
+- **[00:06:34.800]**: tier. Moving on, let's talk about an interesting one, and that's actually AI
+- **[00:06:36.510]**: interesting one, and that's actually AI
+- **[00:06:36.520]**: interesting one, and that's actually AI ghostwriting. With this, you're going to
+- **[00:06:37.990]**: ghostwriting. With this, you're going to
+- **[00:06:38.000]**: ghostwriting. With this, you're going to use AI to help founders, creators, and
+- **[00:06:40.390]**: use AI to help founders, creators, and
+- **[00:06:40.400]**: use AI to help founders, creators, and experts to write newsletters, posts,
+- **[00:06:42.830]**: experts to write newsletters, posts,
+- **[00:06:42.840]**: experts to write newsletters, posts, emails, scripts, you know, whatever it
+- **[00:06:44.310]**: emails, scripts, you know, whatever it
+- **[00:06:44.320]**: emails, scripts, you know, whatever it may be. And this can actually be highly
+- **[00:06:46.270]**: may be. And this can actually be highly
+- **[00:06:46.280]**: may be. And this can actually be highly valuable if you can match the founder's
+- **[00:06:48.470]**: valuable if you can match the founder's
+- **[00:06:48.480]**: valuable if you can match the founder's voice and strategy. Now, when you do
+- **[00:06:50.430]**: voice and strategy. Now, when you do
+- **[00:06:50.440]**: voice and strategy. Now, when you do this properly, it can actually turn into
+- **[00:06:51.950]**: this properly, it can actually turn into
+- **[00:06:51.960]**: this properly, it can actually turn into strong recurring revenue, because good
+- **[00:06:53.750]**: strong recurring revenue, because good
+- **[00:06:53.760]**: strong recurring revenue, because good operators don't want one-off content.
+- **[00:06:55.710]**: operators don't want one-off content.
+- **[00:06:55.720]**: operators don't want one-off content. They usually want to commit to this for
+- **[00:06:57.110]**: They usually want to commit to this for
+- **[00:06:57.120]**: They usually want to commit to this for a long period of time. But, you also
+- **[00:06:59.270]**: a long period of time. But, you also
+- **[00:06:59.280]**: a long period of time. But, you also need to be consistent with it to benefit
+- **[00:07:01.630]**: need to be consistent with it to benefit
+- **[00:07:01.640]**: need to be consistent with it to benefit from the recurring potential of this
+- **[00:07:03.590]**: from the recurring potential of this
+- **[00:07:03.600]**: from the recurring potential of this side hustle. Look, to be honest, if
+- **[00:07:05.030]**: side hustle. Look, to be honest, if
+- **[00:07:05.040]**: side hustle. Look, to be honest, if you're just churning out content with no
+- **[00:07:07.230]**: you're just churning out content with no
+- **[00:07:07.240]**: you're just churning out content with no thinking behind it, clients can smell
+- **[00:07:09.590]**: thinking behind it, clients can smell
+- **[00:07:09.600]**: thinking behind it, clients can smell that from a mile away. And the second
+- **[00:07:11.550]**: that from a mile away. And the second
+- **[00:07:11.560]**: that from a mile away. And the second they feel that, you become replaceable.
+- **[00:07:13.630]**: they feel that, you become replaceable.
+- **[00:07:13.640]**: they feel that, you become replaceable. I'm actually quite conflicted on this
+- **[00:07:14.990]**: I'm actually quite conflicted on this
+- **[00:07:15.000]**: I'm actually quite conflicted on this one, because it can go really well when
+- **[00:07:17.030]**: one, because it can go really well when
+- **[00:07:17.040]**: one, because it can go really well when you dial in the voice and the strategy,
+- **[00:07:19.270]**: you dial in the voice and the strategy,
+- **[00:07:19.280]**: you dial in the voice and the strategy, or it can go really bad when it just
+- **[00:07:20.909]**: or it can go really bad when it just
+- **[00:07:20.919]**: or it can go really bad when it just turns into AI slop. So, because of that,
+- **[00:07:22.990]**: turns into AI slop. So, because of that,
+- **[00:07:23.000]**: turns into AI slop. So, because of that, I'm actually going to go ahead and put
+- **[00:07:24.310]**: I'm actually going to go ahead and put
+- **[00:07:24.320]**: I'm actually going to go ahead and put it in B tier. All right, moving on to
+- **[00:07:25.909]**: it in B tier. All right, moving on to
+- **[00:07:25.919]**: it in B tier. All right, moving on to number nine, and that is AI websites.
+- **[00:07:28.150]**: number nine, and that is AI websites.
+- **[00:07:28.160]**: number nine, and that is AI websites. So, with this, it's pretty easy to
+- **[00:07:29.390]**: So, with this, it's pretty easy to
+- **[00:07:29.400]**: So, with this, it's pretty easy to understand. It just involves building
+- **[00:07:31.310]**: understand. It just involves building
+- **[00:07:31.320]**: understand. It just involves building websites faster for businesses that need
+- **[00:07:33.630]**: websites faster for businesses that need
+- **[00:07:33.640]**: websites faster for businesses that need an online presence. Now, the mistake
+- **[00:07:35.350]**: an online presence. Now, the mistake
+- **[00:07:35.360]**: an online presence. Now, the mistake that most people make is they sell
+- **[00:07:37.030]**: that most people make is they sell
+- **[00:07:37.040]**: that most people make is they sell pretty pages instead of outcomes, okay?
+- **[00:07:39.590]**: pretty pages instead of outcomes, okay?
+- **[00:07:39.600]**: pretty pages instead of outcomes, okay? And the second you just sell a
+- **[00:07:41.070]**: And the second you just sell a
+- **[00:07:41.080]**: And the second you just sell a nice-looking website instead of what
+- **[00:07:42.670]**: nice-looking website instead of what
+- **[00:07:42.680]**: nice-looking website instead of what that website can do for the business,
+- **[00:07:44.310]**: that website can do for the business,
+- **[00:07:44.320]**: that website can do for the business, well then you immediately become
+- **[00:07:45.510]**: well then you immediately become
+- **[00:07:45.520]**: well then you immediately become commoditized. I'm actually going to go
+- **[00:07:46.870]**: commoditized. I'm actually going to go
+- **[00:07:46.880]**: commoditized. I'm actually going to go ahead and put this in B tier. All right,
+- **[00:07:48.590]**: ahead and put this in B tier. All right,
+- **[00:07:48.600]**: ahead and put this in B tier. All right, and that brings us on to number 10, AI
+- **[00:07:50.790]**: and that brings us on to number 10, AI
+- **[00:07:50.800]**: and that brings us on to number 10, AI digital products. So, with this, very
+- **[00:07:52.710]**: digital products. So, with this, very
+- **[00:07:52.720]**: digital products. So, with this, very simple, you're going to use AI to create
+- **[00:07:54.470]**: simple, you're going to use AI to create
+- **[00:07:54.480]**: simple, you're going to use AI to create ebooks, templates, guides, or courses
+- **[00:07:57.390]**: ebooks, templates, guides, or courses
+- **[00:07:57.400]**: ebooks, templates, guides, or courses that help people solve real problems.
+- **[00:07:59.550]**: that help people solve real problems.
+- **[00:07:59.560]**: that help people solve real problems. This is high-leverage, it's scalable,
+- **[00:08:02.150]**: This is high-leverage, it's scalable,
+- **[00:08:02.160]**: This is high-leverage, it's scalable, and it can be done completely faceless.
+- **[00:08:04.070]**: and it can be done completely faceless.
+- **[00:08:04.080]**: and it can be done completely faceless. It's also very beginner-friendly, which
+- **[00:08:05.630]**: It's also very beginner-friendly, which
+- **[00:08:05.640]**: It's also very beginner-friendly, which is something I value highly. Now, when
+- **[00:08:07.390]**: is something I value highly. Now, when
+- **[00:08:07.400]**: is something I value highly. Now, when we talk about the flaws, the model only
+- **[00:08:09.430]**: we talk about the flaws, the model only
+- **[00:08:09.440]**: we talk about the flaws, the model only works if the problem that you're solving
+- **[00:08:11.590]**: works if the problem that you're solving
+- **[00:08:11.600]**: works if the problem that you're solving has enough demand. So, if the pain is
+- **[00:08:13.070]**: has enough demand. So, if the pain is
+- **[00:08:13.080]**: has enough demand. So, if the pain is small, the product revenue might also be
+- **[00:08:15.310]**: small, the product revenue might also be
+- **[00:08:15.320]**: small, the product revenue might also be small. But then again, I guess that's
+- **[00:08:16.510]**: small. But then again, I guess that's
+- **[00:08:16.520]**: small. But then again, I guess that's not really a model problem, that's just
+- **[00:08:18.270]**: not really a model problem, that's just
+- **[00:08:18.280]**: not really a model problem, that's just a general business problem. But what I
+- **[00:08:19.990]**: a general business problem. But what I
+- **[00:08:20.000]**: a general business problem. But what I love about this model is just like when
+- **[00:08:21.630]**: love about this model is just like when
+- **[00:08:21.640]**: love about this model is just like when you have a winner, how crazy and
+- **[00:08:23.870]**: you have a winner, how crazy and
+- **[00:08:23.880]**: you have a winner, how crazy and scalable the business becomes. Now, I
+- **[00:08:25.350]**: scalable the business becomes. Now, I
+- **[00:08:25.360]**: scalable the business becomes. Now, I also want to make it clear, I'm co-owner
+- **[00:08:26.990]**: also want to make it clear, I'm co-owner
+- **[00:08:27.000]**: also want to make it clear, I'm co-owner at a company called Warp, which is a
+- **[00:08:28.710]**: at a company called Warp, which is a
+- **[00:08:28.720]**: at a company called Warp, which is a digital product platform, and I've also
+- **[00:08:30.270]**: digital product platform, and I've also
+- **[00:08:30.280]**: digital product platform, and I've also been involved in the space for a decade,
+- **[00:08:31.710]**: been involved in the space for a decade,
+- **[00:08:31.720]**: been involved in the space for a decade, so I do want to say I have some bias
+- **[00:08:33.709]**: so I do want to say I have some bias
+- **[00:08:33.719]**: so I do want to say I have some bias towards this. But all in all, I've seen
+- **[00:08:35.390]**: towards this. But all in all, I've seen
+- **[00:08:35.400]**: towards this. But all in all, I've seen people make crazy money as a side hustle
+- **[00:08:37.350]**: people make crazy money as a side hustle
+- **[00:08:37.360]**: people make crazy money as a side hustle all the way into the millions and
+- **[00:08:38.469]**: all the way into the millions and
+- **[00:08:38.479]**: all the way into the millions and millions of dollars, which is why for
+- **[00:08:40.230]**: millions of dollars, which is why for
+- **[00:08:40.240]**: millions of dollars, which is why for me, because of the scalability of this
+- **[00:08:42.070]**: me, because of the scalability of this
+- **[00:08:42.080]**: me, because of the scalability of this business model, I'm going to go ahead
+- **[00:08:43.709]**: business model, I'm going to go ahead
+- **[00:08:43.719]**: business model, I'm going to go ahead and put it in S tier. All right, moving
+- **[00:08:45.430]**: and put it in S tier. All right, moving
+- **[00:08:45.440]**: and put it in S tier. All right, moving on, side hustle 11, AI apps. Now, with
+- **[00:08:48.070]**: on, side hustle 11, AI apps. Now, with
+- **[00:08:48.080]**: on, side hustle 11, AI apps. Now, with this side hustle, you're actually going
+- **[00:08:49.630]**: this side hustle, you're actually going
+- **[00:08:49.640]**: this side hustle, you're actually going to use AI to create software apps
+- **[00:08:51.710]**: to use AI to create software apps
+- **[00:08:51.720]**: to use AI to create software apps faster, and the way you're going to do
+- **[00:08:53.150]**: faster, and the way you're going to do
+- **[00:08:53.160]**: faster, and the way you're going to do that is by reducing coding and product
+- **[00:08:55.470]**: that is by reducing coding and product
+- **[00:08:55.480]**: that is by reducing coding and product building time. We live in a cool world
+- **[00:08:57.150]**: building time. We live in a cool world
+- **[00:08:57.160]**: building time. We live in a cool world where this actually possible, and
+- **[00:08:58.990]**: where this actually possible, and
+- **[00:08:59.000]**: where this actually possible, and there's actually good upside here if the
+- **[00:09:00.750]**: there's actually good upside here if the
+- **[00:09:00.760]**: there's actually good upside here if the app actually solves a real problem and
+- **[00:09:03.030]**: app actually solves a real problem and
+- **[00:09:03.040]**: app actually solves a real problem and people keep paying to use it. The issue
+- **[00:09:04.790]**: people keep paying to use it. The issue
+- **[00:09:04.800]**: people keep paying to use it. The issue is that most beginners confuse building
+- **[00:09:06.590]**: is that most beginners confuse building
+- **[00:09:06.600]**: is that most beginners confuse building an app with building a business, and
+- **[00:09:08.430]**: an app with building a business, and
+- **[00:09:08.440]**: an app with building a business, and that is a very expensive mistake. An app
+- **[00:09:10.829]**: that is a very expensive mistake. An app
+- **[00:09:10.839]**: that is a very expensive mistake. An app is just a product, the business is
+- **[00:09:12.790]**: is just a product, the business is
+- **[00:09:12.800]**: is just a product, the business is distribution, retention, and
+- **[00:09:14.590]**: distribution, retention, and
+- **[00:09:14.600]**: distribution, retention, and monetization. Now, because the upside is
+- **[00:09:16.550]**: monetization. Now, because the upside is
+- **[00:09:16.560]**: monetization. Now, because the upside is big, but the execution and then managing
+- **[00:09:18.790]**: big, but the execution and then managing
+- **[00:09:18.800]**: big, but the execution and then managing churn, and just the general business
+- **[00:09:20.230]**: churn, and just the general business
+- **[00:09:20.240]**: churn, and just the general business model is very tricky as someone who's in
+- **[00:09:22.070]**: model is very tricky as someone who's in
+- **[00:09:22.080]**: model is very tricky as someone who's in it myself, I'm going to go ahead and put
+- **[00:09:23.590]**: it myself, I'm going to go ahead and put
+- **[00:09:23.600]**: it myself, I'm going to go ahead and put this one in B tier. All right, moving
+- **[00:09:25.190]**: this one in B tier. All right, moving
+- **[00:09:25.200]**: this one in B tier. All right, moving on, this is actually a blast from the
+- **[00:09:26.550]**: on, this is actually a blast from the
+- **[00:09:26.560]**: on, this is actually a blast from the past for me. This is AI meme pages. So,
+- **[00:09:28.829]**: past for me. This is AI meme pages. So,
+- **[00:09:28.839]**: past for me. This is AI meme pages. So, what you're going to do here is you're
+- **[00:09:29.829]**: what you're going to do here is you're
+- **[00:09:29.839]**: what you're going to do here is you're going to grow meme pages using
+- **[00:09:31.510]**: going to grow meme pages using
+- **[00:09:31.520]**: going to grow meme pages using AI-generated or AI-assisted content, and
+- **[00:09:34.430]**: AI-generated or AI-assisted content, and
+- **[00:09:34.440]**: AI-generated or AI-assisted content, and then actually monetizing later through
+- **[00:09:36.390]**: then actually monetizing later through
+- **[00:09:36.400]**: then actually monetizing later through uh brand deals or paid shout-outs or
+- **[00:09:39.270]**: uh brand deals or paid shout-outs or
+- **[00:09:39.280]**: uh brand deals or paid shout-outs or even affiliate stuff like that. And the
+- **[00:09:40.910]**: even affiliate stuff like that. And the
+- **[00:09:40.920]**: even affiliate stuff like that. And the reason I say this a blast from the past
+- **[00:09:42.550]**: reason I say this a blast from the past
+- **[00:09:42.560]**: reason I say this a blast from the past is this is actually probably my first,
+- **[00:09:45.390]**: is this is actually probably my first,
+- **[00:09:45.400]**: is this is actually probably my first, if not one of my first side hustles.
+- **[00:09:47.110]**: if not one of my first side hustles.
+- **[00:09:47.120]**: if not one of my first side hustles. When I was 14 years old, I actually had
+- **[00:09:48.710]**: When I was 14 years old, I actually had
+- **[00:09:48.720]**: When I was 14 years old, I actually had my own Instagram accounts where I was
+- **[00:09:50.110]**: my own Instagram accounts where I was
+- **[00:09:50.120]**: my own Instagram accounts where I was doing this. Now, they weren't meme
+- **[00:09:51.390]**: doing this. Now, they weren't meme
+- **[00:09:51.400]**: doing this. Now, they weren't meme pages, they were branded pages, and they
+- **[00:09:53.190]**: pages, they were branded pages, and they
+- **[00:09:53.200]**: pages, they were branded pages, and they were all like sort of motivational
+- **[00:09:54.390]**: were all like sort of motivational
+- **[00:09:54.400]**: were all like sort of motivational luxury lifestyle pages. And back then, I
+- **[00:09:56.310]**: luxury lifestyle pages. And back then, I
+- **[00:09:56.320]**: luxury lifestyle pages. And back then, I also didn't have AI to help me, and that
+- **[00:09:58.350]**: also didn't have AI to help me, and that
+- **[00:09:58.360]**: also didn't have AI to help me, and that opens up a lot of opportunities, okay?
+- **[00:09:59.870]**: opens up a lot of opportunities, okay?
+- **[00:09:59.880]**: opens up a lot of opportunities, okay? Now, with AI, it is cheap to start, and
+- **[00:10:01.830]**: Now, with AI, it is cheap to start, and
+- **[00:10:01.840]**: Now, with AI, it is cheap to start, and if the content is genuinely good, it can
+- **[00:10:04.110]**: if the content is genuinely good, it can
+- **[00:10:04.120]**: if the content is genuinely good, it can grow. Attention is fickle, and the
+- **[00:10:05.710]**: grow. Attention is fickle, and the
+- **[00:10:05.720]**: grow. Attention is fickle, and the content being good is a big if, okay?
+- **[00:10:08.470]**: content being good is a big if, okay?
+- **[00:10:08.480]**: content being good is a big if, okay? Most pages never actually amount to any
+- **[00:10:10.590]**: Most pages never actually amount to any
+- **[00:10:10.600]**: Most pages never actually amount to any money. So, because it's easy to start,
+- **[00:10:12.510]**: money. So, because it's easy to start,
+- **[00:10:12.520]**: money. So, because it's easy to start, but also really difficult to turn into a
+- **[00:10:14.630]**: but also really difficult to turn into a
+- **[00:10:14.640]**: but also really difficult to turn into a serious business, I'm going to go ahead
+- **[00:10:16.070]**: serious business, I'm going to go ahead
+- **[00:10:16.080]**: serious business, I'm going to go ahead and put this in D tier. All right,
+- **[00:10:17.510]**: and put this in D tier. All right,
+- **[00:10:17.520]**: and put this in D tier. All right, moving on, AI faceless YouTube channels.
+- **[00:10:20.070]**: moving on, AI faceless YouTube channels.
+- **[00:10:20.080]**: moving on, AI faceless YouTube channels. With this, you're going to use AI to
+- **[00:10:21.590]**: With this, you're going to use AI to
+- **[00:10:21.600]**: With this, you're going to use AI to script, voice, and produce videos
+- **[00:10:24.470]**: script, voice, and produce videos
+- **[00:10:24.480]**: script, voice, and produce videos without ever showing your face. It's
+- **[00:10:25.950]**: without ever showing your face. It's
+- **[00:10:25.960]**: without ever showing your face. It's scalable, you don't need to show your
+- **[00:10:27.590]**: scalable, you don't need to show your
+- **[00:10:27.600]**: scalable, you don't need to show your face or build a personal brand, which of
+- **[00:10:29.710]**: face or build a personal brand, which of
+- **[00:10:29.720]**: face or build a personal brand, which of course makes it very appealing for
+- **[00:10:31.350]**: course makes it very appealing for
+- **[00:10:31.360]**: course makes it very appealing for people who want leverage without having
+- **[00:10:33.710]**: people who want leverage without having
+- **[00:10:33.720]**: people who want leverage without having to be the product. The problem with this
+- **[00:10:35.590]**: to be the product. The problem with this
+- **[00:10:35.600]**: to be the product. The problem with this is that it's very slow to monetize, and
+- **[00:10:38.150]**: is that it's very slow to monetize, and
+- **[00:10:38.160]**: is that it's very slow to monetize, and most people quit before they make any
+- **[00:10:40.430]**: most people quit before they make any
+- **[00:10:40.440]**: most people quit before they make any money here. The grind looks simple from
+- **[00:10:42.230]**: money here. The grind looks simple from
+- **[00:10:42.240]**: money here. The grind looks simple from the outside, but the patience
+- **[00:10:43.590]**: the outside, but the patience
+- **[00:10:43.600]**: the outside, but the patience requirements, most people unfortunately
+- **[00:10:45.990]**: requirements, most people unfortunately
+- **[00:10:46.000]**: requirements, most people unfortunately just can't handle it. So, if I had to
+- **[00:10:47.390]**: just can't handle it. So, if I had to
+- **[00:10:47.400]**: just can't handle it. So, if I had to summarize it, because the model has some
+- **[00:10:49.030]**: summarize it, because the model has some
+- **[00:10:49.040]**: summarize it, because the model has some leverage, but the timeline is just too
+- **[00:10:50.710]**: leverage, but the timeline is just too
+- **[00:10:50.720]**: leverage, but the timeline is just too long, and most people don't stay in it
+- **[00:10:52.790]**: long, and most people don't stay in it
+- **[00:10:52.800]**: long, and most people don't stay in it long enough to see results,
+- **[00:10:54.070]**: long enough to see results,
+- **[00:10:54.080]**: long enough to see results, unfortunately I'm going to have to go
+- **[00:10:54.910]**: unfortunately I'm going to have to go
+- **[00:10:54.920]**: unfortunately I'm going to have to go ahead and put this in C tier. All right,
+- **[00:10:56.510]**: ahead and put this in C tier. All right,
+- **[00:10:56.520]**: ahead and put this in C tier. All right, moving on, AI video editing. Very
+- **[00:10:58.470]**: moving on, AI video editing. Very
+- **[00:10:58.480]**: moving on, AI video editing. Very simple, you're going to use AI tools to
+- **[00:11:00.270]**: simple, you're going to use AI tools to
+- **[00:11:00.280]**: simple, you're going to use AI tools to cut, edit, and repurpose videos for
+- **[00:11:02.630]**: cut, edit, and repurpose videos for
+- **[00:11:02.640]**: cut, edit, and repurpose videos for creators and brands. The demand exists,
+- **[00:11:05.070]**: creators and brands. The demand exists,
+- **[00:11:05.080]**: creators and brands. The demand exists, it's fast to deliver, and it is
+- **[00:11:06.590]**: it's fast to deliver, and it is
+- **[00:11:06.600]**: it's fast to deliver, and it is relatively easy to productize if you're
+- **[00:11:08.510]**: relatively easy to productize if you're
+- **[00:11:08.520]**: relatively easy to productize if you're efficient and you can get moving
+- **[00:11:09.870]**: efficient and you can get moving
+- **[00:11:09.880]**: efficient and you can get moving quickly. Issue is the barrier to entry
+- **[00:11:12.030]**: quickly. Issue is the barrier to entry
+- **[00:11:12.040]**: quickly. Issue is the barrier to entry is very, very low. So, the market gets
+- **[00:11:13.990]**: is very, very low. So, the market gets
+- **[00:11:14.000]**: is very, very low. So, the market gets flooded with people offering the same
+- **[00:11:15.630]**: flooded with people offering the same
+- **[00:11:15.640]**: flooded with people offering the same copy-paste BS, and because of that,
+- **[00:11:17.750]**: copy-paste BS, and because of that,
+- **[00:11:17.760]**: copy-paste BS, and because of that, clients are always going to compare you
+- **[00:11:19.230]**: clients are always going to compare you
+- **[00:11:19.240]**: clients are always going to compare you based on price instead of value, and the
+- **[00:11:21.350]**: based on price instead of value, and the
+- **[00:11:21.360]**: based on price instead of value, and the issue with this is that it quickly
+- **[00:11:22.790]**: issue with this is that it quickly
+- **[00:11:22.800]**: issue with this is that it quickly becomes a race to the bottom. So,
+- **[00:11:24.910]**: becomes a race to the bottom. So,
+- **[00:11:24.920]**: becomes a race to the bottom. So, because it's easy to sell, but it's also
+- **[00:11:27.150]**: because it's easy to sell, but it's also
+- **[00:11:27.160]**: because it's easy to sell, but it's also easy to copy, I'm going to go ahead and
+- **[00:11:29.070]**: easy to copy, I'm going to go ahead and
+- **[00:11:29.080]**: easy to copy, I'm going to go ahead and have to put this in C tier. All right,
+- **[00:11:30.829]**: have to put this in C tier. All right,
+- **[00:11:30.839]**: have to put this in C tier. All right, number 15, AI print on demand. Very
+- **[00:11:33.550]**: number 15, AI print on demand. Very
+- **[00:11:33.560]**: number 15, AI print on demand. Very simple, you are going to use AI to
+- **[00:11:35.190]**: simple, you are going to use AI to
+- **[00:11:35.200]**: simple, you are going to use AI to generate designs and then you're going
+- **[00:11:36.950]**: generate designs and then you're going
+- **[00:11:36.960]**: generate designs and then you're going to sell them on shirts, on mugs, on
+- **[00:11:39.190]**: to sell them on shirts, on mugs, on
+- **[00:11:39.200]**: to sell them on shirts, on mugs, on posters, stuff like that. Once again,
+- **[00:11:41.230]**: posters, stuff like that. Once again,
+- **[00:11:41.240]**: posters, stuff like that. Once again, it's very low upfront cost and it is
+- **[00:11:43.070]**: it's very low upfront cost and it is
+- **[00:11:43.080]**: it's very low upfront cost and it is simple to test. So, it looks attractive
+- **[00:11:44.910]**: simple to test. So, it looks attractive
+- **[00:11:44.920]**: simple to test. So, it looks attractive to beginners who want to get started
+- **[00:11:46.750]**: to beginners who want to get started
+- **[00:11:46.760]**: to beginners who want to get started fast. The problem is with this one, you
+- **[00:11:49.150]**: fast. The problem is with this one, you
+- **[00:11:49.160]**: fast. The problem is with this one, you have no moat, the competition is brutal,
+- **[00:11:51.710]**: have no moat, the competition is brutal,
+- **[00:11:51.720]**: have no moat, the competition is brutal, and most stores die in the first few
+- **[00:11:53.870]**: and most stores die in the first few
+- **[00:11:53.880]**: and most stores die in the first few weeks or months. So, to summarize, it's
+- **[00:11:55.710]**: weeks or months. So, to summarize, it's
+- **[00:11:55.720]**: weeks or months. So, to summarize, it's easy to launch, but it's hard to build
+- **[00:11:57.870]**: easy to launch, but it's hard to build
+- **[00:11:57.880]**: easy to launch, but it's hard to build it into anything durable. I'd say really
+- **[00:11:59.750]**: it into anything durable. I'd say really
+- **[00:11:59.760]**: it into anything durable. I'd say really this one is more of a gimmick than
+- **[00:12:00.950]**: this one is more of a gimmick than
+- **[00:12:00.960]**: this one is more of a gimmick than anything. I will put it in F tier, don't
+- **[00:12:03.390]**: anything. I will put it in F tier, don't
+- **[00:12:03.400]**: anything. I will put it in F tier, don't waste your time. Now, let's move on to
+- **[00:12:04.790]**: waste your time. Now, let's move on to
+- **[00:12:04.800]**: waste your time. Now, let's move on to something that is not a gimmick, but
+- **[00:12:06.350]**: something that is not a gimmick, but
+- **[00:12:06.360]**: something that is not a gimmick, but also has some of its own downsides, I
+- **[00:12:08.230]**: also has some of its own downsides, I
+- **[00:12:08.240]**: also has some of its own downsides, I guess like every model, and that is AI
+- **[00:12:10.030]**: guess like every model, and that is AI
+- **[00:12:10.040]**: guess like every model, and that is AI automation agency. Simple concept, this
+- **[00:12:12.270]**: automation agency. Simple concept, this
+- **[00:12:12.280]**: automation agency. Simple concept, this is where you're going to build systems
+- **[00:12:13.790]**: is where you're going to build systems
+- **[00:12:13.800]**: is where you're going to build systems that replace boring, [music] repetitive
+- **[00:12:15.990]**: that replace boring, [music] repetitive
+- **[00:12:16.000]**: that replace boring, [music] repetitive work for businesses. Once again, the
+- **[00:12:18.070]**: work for businesses. Once again, the
+- **[00:12:18.080]**: work for businesses. Once again, the demand is there, okay? And there's a
+- **[00:12:19.990]**: demand is there, okay? And there's a
+- **[00:12:20.000]**: demand is there, okay? And there's a real high-ticket potential if you are
+- **[00:12:21.910]**: real high-ticket potential if you are
+- **[00:12:21.920]**: real high-ticket potential if you are solving problems that actually save
+- **[00:12:24.070]**: solving problems that actually save
+- **[00:12:24.080]**: solving problems that actually save time, make things more efficient, and
+- **[00:12:26.910]**: time, make things more efficient, and
+- **[00:12:26.920]**: time, make things more efficient, and reduce the need for businesses to hire
+- **[00:12:28.990]**: reduce the need for businesses to hire
+- **[00:12:29.000]**: reduce the need for businesses to hire more people. Where the downsides come in
+- **[00:12:31.070]**: more people. Where the downsides come in
+- **[00:12:31.080]**: more people. Where the downsides come in is the delivery can get messy, and you
+- **[00:12:33.190]**: is the delivery can get messy, and you
+- **[00:12:33.200]**: is the delivery can get messy, and you will need some operational skill because
+- **[00:12:35.030]**: will need some operational skill because
+- **[00:12:35.040]**: will need some operational skill because once you start playing with internal
+- **[00:12:36.510]**: once you start playing with internal
+- **[00:12:36.520]**: once you start playing with internal systems, things can get tricky. So, to
+- **[00:12:38.750]**: systems, things can get tricky. So, to
+- **[00:12:38.760]**: systems, things can get tricky. So, to summarize, the need is real and the
+- **[00:12:40.950]**: summarize, the need is real and the
+- **[00:12:40.960]**: summarize, the need is real and the upside is there, but the execution can
+- **[00:12:43.430]**: upside is there, but the execution can
+- **[00:12:43.440]**: upside is there, but the execution can get tricky at times. Nonetheless, I'm
+- **[00:12:45.310]**: get tricky at times. Nonetheless, I'm
+- **[00:12:45.320]**: get tricky at times. Nonetheless, I'm going to go ahead and put this in A
+- **[00:12:46.910]**: going to go ahead and put this in A
+- **[00:12:46.920]**: going to go ahead and put this in A tier. All right, and that brings us on
+- **[00:12:48.750]**: tier. All right, and that brings us on
+- **[00:12:48.760]**: tier. All right, and that brings us on to number 17, and this is AI prompts.
+- **[00:12:51.150]**: to number 17, and this is AI prompts.
+- **[00:12:51.160]**: to number 17, and this is AI prompts. Very simple, you're going to sell prompt
+- **[00:12:52.910]**: Very simple, you're going to sell prompt
+- **[00:12:52.920]**: Very simple, you're going to sell prompt bundles for different use cases. It's
+- **[00:12:55.390]**: bundles for different use cases. It's
+- **[00:12:55.400]**: bundles for different use cases. It's easy to create and it's easy to package.
+- **[00:12:57.310]**: easy to create and it's easy to package.
+- **[00:12:57.320]**: easy to create and it's easy to package. So, on the surface, it looks like a
+- **[00:12:58.790]**: So, on the surface, it looks like a
+- **[00:12:58.800]**: So, on the surface, it looks like a solid side hustle, but look, there's no
+- **[00:13:01.990]**: solid side hustle, but look, there's no
+- **[00:13:02.000]**: solid side hustle, but look, there's no moat, the perceived value is low, and
+- **[00:13:04.470]**: moat, the perceived value is low, and
+- **[00:13:04.480]**: moat, the perceived value is low, and most of it is just AI slop if we're
+- **[00:13:06.310]**: most of it is just AI slop if we're
+- **[00:13:06.320]**: most of it is just AI slop if we're being entirely honest. Anyone can make
+- **[00:13:08.110]**: being entirely honest. Anyone can make
+- **[00:13:08.120]**: being entirely honest. Anyone can make prompts, which means no one really cares
+- **[00:13:10.270]**: prompts, which means no one really cares
+- **[00:13:10.280]**: prompts, which means no one really cares about this too much. So, look, because
+- **[00:13:11.750]**: about this too much. So, look, because
+- **[00:13:11.760]**: about this too much. So, look, because it's easy to produce, but also very hard
+- **[00:13:14.030]**: it's easy to produce, but also very hard
+- **[00:13:14.040]**: it's easy to produce, but also very hard to make valuable, I'm going to go ahead
+- **[00:13:15.390]**: to make valuable, I'm going to go ahead
+- **[00:13:15.400]**: to make valuable, I'm going to go ahead and put this in D tier. All right, so
+- **[00:13:16.829]**: and put this in D tier. All right, so
+- **[00:13:16.839]**: and put this in D tier. All right, so there we have it, 17 side hustles ranked
+- **[00:13:19.470]**: there we have it, 17 side hustles ranked
+- **[00:13:19.480]**: there we have it, 17 side hustles ranked so that way you don't need to. The
+- **[00:13:21.110]**: so that way you don't need to. The
+- **[00:13:21.120]**: so that way you don't need to. The bottom line is this, AI is not the
+- **[00:13:23.190]**: bottom line is this, AI is not the
+- **[00:13:23.200]**: bottom line is this, AI is not the business. Get that through your head. It
+- **[00:13:25.110]**: business. Get that through your head. It
+- **[00:13:25.120]**: business. Get that through your head. It is simply leverage. So, whenever you see
+- **[00:13:27.430]**: is simply leverage. So, whenever you see
+- **[00:13:27.440]**: is simply leverage. So, whenever you see a new AI opportunity, stop asking, "Oh,
+- **[00:13:30.390]**: a new AI opportunity, stop asking, "Oh,
+- **[00:13:30.400]**: a new AI opportunity, stop asking, "Oh, is this cool?" And instead ask, "Can
+- **[00:13:32.470]**: is this cool?" And instead ask, "Can
+- **[00:13:32.480]**: is this cool?" And instead ask, "Can this solve a real problem people already
+- **[00:13:34.590]**: this solve a real problem people already
+- **[00:13:34.600]**: this solve a real problem people already have and make me money as a byproduct?"
+- **[00:13:36.790]**: have and make me money as a byproduct?"
+- **[00:13:36.800]**: have and make me money as a byproduct?" If the answer is yes, pay attention
+- **[00:13:38.749]**: If the answer is yes, pay attention
+- **[00:13:38.759]**: If the answer is yes, pay attention [music] to it. But of course, do your
+- **[00:13:40.510]**: [music] to it. But of course, do your
+- **[00:13:40.520]**: [music] to it. But of course, do your own research. If the answer is no, well
+- **[00:13:42.470]**: own research. If the answer is no, well
+- **[00:13:42.480]**: own research. If the answer is no, well then don't waste your time. As a general
+- **[00:13:44.150]**: then don't waste your time. As a general
+- **[00:13:44.160]**: then don't waste your time. As a general rule of thumb, anything that's make
+- **[00:13:45.670]**: rule of thumb, anything that's make
+- **[00:13:45.680]**: rule of thumb, anything that's make money with AI by selling AI or let the
+- **[00:13:48.550]**: money with AI by selling AI or let the
+- **[00:13:48.560]**: money with AI by selling AI or let the bot trade for you is usually
+- **[00:13:50.790]**: bot trade for you is usually
+- **[00:13:50.800]**: bot trade for you is usually The best side hustles are the ones where
+- **[00:13:52.750]**: The best side hustles are the ones where
+- **[00:13:52.760]**: The best side hustles are the ones where AI helps you save time, create assets,
+- **[00:13:55.310]**: AI helps you save time, create assets,
+- **[00:13:55.320]**: AI helps you save time, create assets, or deliver a real outcome to the buyer.
+- **[00:13:57.550]**: or deliver a real outcome to the buyer.
+- **[00:13:57.560]**: or deliver a real outcome to the buyer. It's generally business models that
+- **[00:13:59.030]**: It's generally business models that
+- **[00:13:59.040]**: It's generally business models that existed before AI, but now what AI
+- **[00:14:01.550]**: existed before AI, but now what AI
+- **[00:14:01.560]**: existed before AI, but now what AI allows you to do is do it faster,
+- **[00:14:03.790]**: allows you to do is do it faster,
+- **[00:14:03.800]**: allows you to do is do it faster, cheaper, quicker, or it allows people
+- **[00:14:05.830]**: cheaper, quicker, or it allows people
+- **[00:14:05.840]**: cheaper, quicker, or it allows people that historically were not able to get
+- **[00:14:07.710]**: that historically were not able to get
+- **[00:14:07.720]**: that historically were not able to get into the business model because the
+- **[00:14:09.430]**: into the business model because the
+- **[00:14:09.440]**: into the business model because the barrier to entry was too high, and now
+- **[00:14:11.470]**: barrier to entry was too high, and now
+- **[00:14:11.480]**: barrier to entry was too high, and now they're allowed to do so. And when you
+- **[00:14:12.910]**: they're allowed to do so. And when you
+- **[00:14:12.920]**: they're allowed to do so. And when you think about it like that, that is how
+- **[00:14:14.270]**: think about it like that, that is how
+- **[00:14:14.280]**: think about it like that, that is how you stop chasing shiny objects and start
+- **[00:14:17.190]**: you stop chasing shiny objects and start
+- **[00:14:17.200]**: you stop chasing shiny objects and start building a real profitable side hustle.
+- **[00:14:19.190]**: building a real profitable side hustle.
+- **[00:14:19.200]**: building a real profitable side hustle. And with all that being said, as always,
+- **[00:14:20.790]**: And with all that being said, as always,
+- **[00:14:20.800]**: And with all that being said, as always, I'm watching from afar and I'm rooting
+- **[00:14:22.750]**: I'm watching from afar and I'm rooting
+- **[00:14:22.760]**: I'm watching from afar and I'm rooting for you.

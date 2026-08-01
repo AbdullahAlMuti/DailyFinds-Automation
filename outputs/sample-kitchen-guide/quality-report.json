@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "blocking_failures": [],
+  "warnings": [],
+  "checks_performed": [
+    "transcript_presence",
+    "article_files",
+    "article_title_h1",
+    "placeholder_text",
+    "word_count",
+    "unsafe_html",
+    "featured_image",
+    "publication_safety",
+    "sensitive_topic_check"
+  ],
+  "word_count": 752
+}

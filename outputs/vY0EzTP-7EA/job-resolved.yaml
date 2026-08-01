@@ -1,0 +1,12 @@
+job_id: job_vY0EzTP-7EA
+youtube_url: https://www.youtube.com/watch?v=vY0EzTP-7EA
+target_category_id: 6
+minimum_words: 1800
+dry_run: false
+wordpress:
+  status: draft
+publishing:
+  duplicate_policy: stop
+images:
+  featured_image: true
+  inline_images: 2

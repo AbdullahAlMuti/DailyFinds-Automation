@@ -1,0 +1,9 @@
+job_id: job_jNQXAC9IVRw
+youtube_url: https://www.youtube.com/watch?v=jNQXAC9IVRw
+target_category_id: 6
+minimum_words: 100
+dry_run: false
+wordpress:
+  status: draft
+publishing:
+  duplicate_policy: stop

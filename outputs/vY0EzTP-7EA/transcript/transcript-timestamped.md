@@ -1,0 +1,703 @@
+# Timestamped Transcript
+
+- **[00:00:00.000]**: Kind: captions Language: en The way people make money with Claude is
+- **[00:00:01.630]**: The way people make money with Claude is
+- **[00:00:01.640]**: The way people make money with Claude is about to change. For the last couple
+- **[00:00:03.070]**: about to change. For the last couple
+- **[00:00:03.080]**: about to change. For the last couple years, the move was pretty simple. Start
+- **[00:00:04.750]**: years, the move was pretty simple. Start
+- **[00:00:04.760]**: years, the move was pretty simple. Start an AI agency, sell some automations, and
+- **[00:00:06.630]**: an AI agency, sell some automations, and
+- **[00:00:06.640]**: an AI agency, sell some automations, and build workflows for businesses. [music]
+- **[00:00:08.150]**: build workflows for businesses. [music]
+- **[00:00:08.160]**: build workflows for businesses. [music] And it worked, but now that window is
+- **[00:00:10.070]**: And it worked, but now that window is
+- **[00:00:10.080]**: And it worked, but now that window is closing fast. Every day, more people get
+- **[00:00:12.230]**: closing fast. Every day, more people get
+- **[00:00:12.240]**: closing fast. Every day, more people get into the market, and it's harder to make
+- **[00:00:13.710]**: into the market, and it's harder to make
+- **[00:00:13.720]**: into the market, and it's harder to make money now. But there is one way to make
+- **[00:00:15.350]**: money now. But there is one way to make
+- **[00:00:15.360]**: money now. But there is one way to make money with Claude that's actually
+- **[00:00:16.350]**: money with Claude that's actually
+- **[00:00:16.360]**: money with Claude that's actually getting easier. It's been flying under
+- **[00:00:17.790]**: getting easier. It's been flying under
+- **[00:00:17.800]**: getting easier. It's been flying under the radar for about a year now, and it's
+- **[00:00:19.590]**: the radar for about a year now, and it's
+- **[00:00:19.600]**: the radar for about a year now, and it's about to blow up because it solves a
+- **[00:00:21.350]**: about to blow up because it solves a
+- **[00:00:21.360]**: about to blow up because it solves a problem that every single business is
+- **[00:00:22.950]**: problem that every single business is
+- **[00:00:22.960]**: problem that every single business is running into right now. So, in this
+- **[00:00:24.390]**: running into right now. So, in this
+- **[00:00:24.400]**: running into right now. So, in this video, I'm going to tell you exactly
+- **[00:00:26.030]**: video, I'm going to tell you exactly
+- **[00:00:26.040]**: video, I'm going to tell you exactly what this new opportunity is and how to
+- **[00:00:27.430]**: what this new opportunity is and how to
+- **[00:00:27.440]**: what this new opportunity is and how to get started. So, let's get into it. So,
+- **[00:00:29.150]**: get started. So, let's get into it. So,
+- **[00:00:29.160]**: get started. So, let's get into it. So, the AI market has completely blown up
+- **[00:00:30.990]**: the AI market has completely blown up
+- **[00:00:31.000]**: the AI market has completely blown up over the last couple years, and there's
+- **[00:00:32.470]**: over the last couple years, and there's
+- **[00:00:32.480]**: over the last couple years, and there's more money pouring into the space than
+- **[00:00:34.110]**: more money pouring into the space than
+- **[00:00:34.120]**: more money pouring into the space than ever before. The big tech companies are
+- **[00:00:35.830]**: ever before. The big tech companies are
+- **[00:00:35.840]**: ever before. The big tech companies are spending tens of billions of dollars
+- **[00:00:37.550]**: spending tens of billions of dollars
+- **[00:00:37.560]**: spending tens of billions of dollars every single month on this stuff.
+- **[00:00:38.750]**: every single month on this stuff.
+- **[00:00:38.760]**: every single month on this stuff. Amazon, Microsoft, Google, and Meta,
+- **[00:00:40.910]**: Amazon, Microsoft, Google, and Meta,
+- **[00:00:40.920]**: Amazon, Microsoft, Google, and Meta, those four companies alone are on pace
+- **[00:00:42.550]**: those four companies alone are on pace
+- **[00:00:42.560]**: those four companies alone are on pace to spend around $725 billion combined in
+- **[00:00:45.630]**: to spend around $725 billion combined in
+- **[00:00:45.640]**: to spend around $725 billion combined in 2026. But up until now, if you wanted to
+- **[00:00:47.790]**: 2026. But up until now, if you wanted to
+- **[00:00:47.800]**: 2026. But up until now, if you wanted to actually make money off of your AI
+- **[00:00:49.150]**: actually make money off of your AI
+- **[00:00:49.160]**: actually make money off of your AI skills, there was really only one path
+- **[00:00:50.790]**: skills, there was really only one path
+- **[00:00:50.800]**: skills, there was really only one path being talked about, which was to start
+- **[00:00:52.470]**: being talked about, which was to start
+- **[00:00:52.480]**: being talked about, which was to start an AI agency. And the problem that I've
+- **[00:00:54.030]**: an AI agency. And the problem that I've
+- **[00:00:54.040]**: an AI agency. And the problem that I've been seeing is that maybe 95% of you
+- **[00:00:56.110]**: been seeing is that maybe 95% of you
+- **[00:00:56.120]**: been seeing is that maybe 95% of you guys watching don't want to start your
+- **[00:00:57.550]**: guys watching don't want to start your
+- **[00:00:57.560]**: guys watching don't want to start your own AI agency. Most of you are just
+- **[00:00:58.950]**: own AI agency. Most of you are just
+- **[00:00:58.960]**: own AI agency. Most of you are just learning AI so you don't get left
+- **[00:01:00.390]**: learning AI so you don't get left
+- **[00:01:00.400]**: learning AI so you don't get left behind, but you don't want to
+- **[00:01:01.590]**: behind, but you don't want to
+- **[00:01:01.600]**: behind, but you don't want to necessarily chase clients and run sales
+- **[00:01:03.310]**: necessarily chase clients and run sales
+- **[00:01:03.320]**: necessarily chase clients and run sales calls all day long. You just want to be
+- **[00:01:04.750]**: calls all day long. You just want to be
+- **[00:01:04.760]**: calls all day long. You just want to be really good at your job and get paid
+- **[00:01:06.390]**: really good at your job and get paid
+- **[00:01:06.400]**: really good at your job and get paid well for it. And if you would have asked
+- **[00:01:07.830]**: well for it. And if you would have asked
+- **[00:01:07.840]**: well for it. And if you would have asked me a year ago what the solution was for
+- **[00:01:09.750]**: me a year ago what the solution was for
+- **[00:01:09.760]**: me a year ago what the solution was for people like you, I really didn't have a
+- **[00:01:11.390]**: people like you, I really didn't have a
+- **[00:01:11.400]**: people like you, I really didn't have a great answer. But over the last few
+- **[00:01:12.750]**: great answer. But over the last few
+- **[00:01:12.760]**: great answer. But over the last few months, we've seen a shift where more
+- **[00:01:14.710]**: months, we've seen a shift where more
+- **[00:01:14.720]**: months, we've seen a shift where more and more companies are deciding to solve
+- **[00:01:16.830]**: and more companies are deciding to solve
+- **[00:01:16.840]**: and more companies are deciding to solve their AI problems in house. Because some
+- **[00:01:18.630]**: their AI problems in house. Because some
+- **[00:01:18.640]**: their AI problems in house. Because some companies went out and bought all these
+- **[00:01:20.030]**: companies went out and bought all these
+- **[00:01:20.040]**: companies went out and bought all these AI tools, they spun up all these little
+- **[00:01:21.470]**: AI tools, they spun up all these little
+- **[00:01:21.480]**: AI tools, they spun up all these little pilot projects, and most of it went
+- **[00:01:23.230]**: pilot projects, and most of it went
+- **[00:01:23.240]**: pilot projects, and most of it went absolutely nowhere. I'm sure you guys
+- **[00:01:24.510]**: absolutely nowhere. I'm sure you guys
+- **[00:01:24.520]**: absolutely nowhere. I'm sure you guys all heard about that MIT study that
+- **[00:01:25.990]**: all heard about that MIT study that
+- **[00:01:26.000]**: all heard about that MIT study that found that 95% of generative AI pilots
+- **[00:01:28.470]**: found that 95% of generative AI pilots
+- **[00:01:28.480]**: found that 95% of generative AI pilots inside companies had little measurable
+- **[00:01:30.590]**: inside companies had little measurable
+- **[00:01:30.600]**: inside companies had little measurable impact on the company's bottom line. So,
+- **[00:01:32.270]**: impact on the company's bottom line. So,
+- **[00:01:32.280]**: impact on the company's bottom line. So, they spent all this money, and they
+- **[00:01:33.350]**: they spent all this money, and they
+- **[00:01:33.360]**: they spent all this money, and they basically got nothing back. And that is
+- **[00:01:34.910]**: basically got nothing back. And that is
+- **[00:01:34.920]**: basically got nothing back. And that is a massive opportunity for people like
+- **[00:01:36.590]**: a massive opportunity for people like
+- **[00:01:36.600]**: a massive opportunity for people like you. Somebody has to get inside these
+- **[00:01:38.110]**: you. Somebody has to get inside these
+- **[00:01:38.120]**: you. Somebody has to get inside these companies and actually drive real
+- **[00:01:39.470]**: companies and actually drive real
+- **[00:01:39.480]**: companies and actually drive real results with AI. Somebody who's focused
+- **[00:01:41.230]**: results with AI. Somebody who's focused
+- **[00:01:41.240]**: results with AI. Somebody who's focused only on their business and their
+- **[00:01:42.710]**: only on their business and their
+- **[00:01:42.720]**: only on their business and their problems. AI consulting has absolutely
+- **[00:01:44.470]**: problems. AI consulting has absolutely
+- **[00:01:44.480]**: problems. AI consulting has absolutely taken off over the past year, and the
+- **[00:01:45.830]**: taken off over the past year, and the
+- **[00:01:45.840]**: taken off over the past year, and the people doing it are some of the best
+- **[00:01:47.310]**: people doing it are some of the best
+- **[00:01:47.320]**: people doing it are some of the best paid people in the entire space. So,
+- **[00:01:48.990]**: paid people in the entire space. So,
+- **[00:01:49.000]**: paid people in the entire space. So, while everyone else is racing to the
+- **[00:01:50.270]**: while everyone else is racing to the
+- **[00:01:50.280]**: while everyone else is racing to the bottom selling cheap automations, these
+- **[00:01:52.030]**: bottom selling cheap automations, these
+- **[00:01:52.040]**: bottom selling cheap automations, these people are getting paid for something
+- **[00:01:53.390]**: people are getting paid for something
+- **[00:01:53.400]**: people are getting paid for something completely different. And that's exactly
+- **[00:01:55.350]**: completely different. And that's exactly
+- **[00:01:55.360]**: completely different. And that's exactly what you want to become, a Claude AI
+- **[00:01:57.310]**: what you want to become, a Claude AI
+- **[00:01:57.320]**: what you want to become, a Claude AI consultant. So, what actually is that? A
+- **[00:01:59.030]**: consultant. So, what actually is that? A
+- **[00:01:59.040]**: consultant. So, what actually is that? A consultant is just the person who walks
+- **[00:02:00.670]**: consultant is just the person who walks
+- **[00:02:00.680]**: consultant is just the person who walks into a business, figures out where
+- **[00:02:02.430]**: into a business, figures out where
+- **[00:02:02.440]**: into a business, figures out where they're losing time and money, and then
+- **[00:02:03.750]**: they're losing time and money, and then
+- **[00:02:03.760]**: they're losing time and money, and then uses Claude to fix it. Think about it
+- **[00:02:05.310]**: uses Claude to fix it. Think about it
+- **[00:02:05.320]**: uses Claude to fix it. Think about it like Claude is the car, the company is
+- **[00:02:07.190]**: like Claude is the car, the company is
+- **[00:02:07.200]**: like Claude is the car, the company is the passenger, and you're the driver
+- **[00:02:08.630]**: the passenger, and you're the driver
+- **[00:02:08.640]**: the passenger, and you're the driver using Claude to get them to the
+- **[00:02:10.230]**: using Claude to get them to the
+- **[00:02:10.240]**: using Claude to get them to the destination that they want, which is
+- **[00:02:11.670]**: destination that they want, which is
+- **[00:02:11.680]**: destination that they want, which is just making more money and saving more
+- **[00:02:13.150]**: just making more money and saving more
+- **[00:02:13.160]**: just making more money and saving more time. So, you might be wondering why
+- **[00:02:14.550]**: time. So, you might be wondering why
+- **[00:02:14.560]**: time. So, you might be wondering why Claude specifically, and the answer to
+- **[00:02:16.030]**: Claude specifically, and the answer to
+- **[00:02:16.040]**: Claude specifically, and the answer to that is that Claude is just the leader
+- **[00:02:17.390]**: that is that Claude is just the leader
+- **[00:02:17.400]**: that is that Claude is just the leader right now. It's what I run my entire
+- **[00:02:18.910]**: right now. It's what I run my entire
+- **[00:02:18.920]**: right now. It's what I run my entire business on, and it's what I've built
+- **[00:02:20.070]**: business on, and it's what I've built
+- **[00:02:20.080]**: business on, and it's what I've built everything you guys have seen on this
+- **[00:02:21.510]**: everything you guys have seen on this
+- **[00:02:21.520]**: everything you guys have seen on this channel with. But, the real skill that
+- **[00:02:22.949]**: channel with. But, the real skill that
+- **[00:02:22.959]**: channel with. But, the real skill that you're building here is taking a messy
+- **[00:02:24.510]**: you're building here is taking a messy
+- **[00:02:24.520]**: you're building here is taking a messy business problem and getting AI to solve
+- **[00:02:26.430]**: business problem and getting AI to solve
+- **[00:02:26.440]**: business problem and getting AI to solve it reliably, and that skill transfers to
+- **[00:02:28.190]**: it reliably, and that skill transfers to
+- **[00:02:28.200]**: it reliably, and that skill transfers to whatever is the next tool that comes up.
+- **[00:02:30.230]**: whatever is the next tool that comes up.
+- **[00:02:30.240]**: whatever is the next tool that comes up. And that very well could be open-source
+- **[00:02:31.870]**: And that very well could be open-source
+- **[00:02:31.880]**: And that very well could be open-source AI models. So, as the space evolves,
+- **[00:02:33.949]**: AI models. So, as the space evolves,
+- **[00:02:33.959]**: AI models. So, as the space evolves, especially with these open-source models
+- **[00:02:35.550]**: especially with these open-source models
+- **[00:02:35.560]**: especially with these open-source models getting better and better, you're not
+- **[00:02:36.790]**: getting better and better, you're not
+- **[00:02:36.800]**: getting better and better, you're not locking yourself into one ecosystem.
+- **[00:02:38.710]**: locking yourself into one ecosystem.
+- **[00:02:38.720]**: locking yourself into one ecosystem. You're just starting with what I think
+- **[00:02:40.070]**: You're just starting with what I think
+- **[00:02:40.080]**: You're just starting with what I think is the best tool out there right now.
+- **[00:02:41.949]**: is the best tool out there right now.
+- **[00:02:41.959]**: is the best tool out there right now. And of course, the money flowing into
+- **[00:02:43.270]**: And of course, the money flowing into
+- **[00:02:43.280]**: And of course, the money flowing into the space is crazy. AI consulting is
+- **[00:02:45.190]**: the space is crazy. AI consulting is
+- **[00:02:45.200]**: the space is crazy. AI consulting is already a market worth billions of
+- **[00:02:46.550]**: already a market worth billions of
+- **[00:02:46.560]**: already a market worth billions of dollars, and depending on which research
+- **[00:02:48.150]**: dollars, and depending on which research
+- **[00:02:48.160]**: dollars, and depending on which research firm you ask, it's growing 20-plus
+- **[00:02:49.990]**: firm you ask, it's growing 20-plus
+- **[00:02:50.000]**: firm you ask, it's growing 20-plus percent every single year. BCG found
+- **[00:02:52.590]**: percent every single year. BCG found
+- **[00:02:52.600]**: percent every single year. BCG found that companies plan to basically double
+- **[00:02:54.190]**: that companies plan to basically double
+- **[00:02:54.200]**: that companies plan to basically double their AI spending in 2026 as a share of
+- **[00:02:56.390]**: their AI spending in 2026 as a share of
+- **[00:02:56.400]**: their AI spending in 2026 as a share of their revenue. And LinkedIn's 2026 list
+- **[00:02:58.390]**: their revenue. And LinkedIn's 2026 list
+- **[00:02:58.400]**: their revenue. And LinkedIn's 2026 list of the fastest-growing jobs in the US
+- **[00:03:00.070]**: of the fastest-growing jobs in the US
+- **[00:03:00.080]**: of the fastest-growing jobs in the US has AI consultant and strategist ranked
+- **[00:03:01.949]**: has AI consultant and strategist ranked
+- **[00:03:01.959]**: has AI consultant and strategist ranked number two, only behind, you guessed it,
+- **[00:03:04.229]**: number two, only behind, you guessed it,
+- **[00:03:04.239]**: number two, only behind, you guessed it, AI engineers. So, this opportunity is
+- **[00:03:06.310]**: AI engineers. So, this opportunity is
+- **[00:03:06.320]**: AI engineers. So, this opportunity is very real, but there are two completely
+- **[00:03:08.470]**: very real, but there are two completely
+- **[00:03:08.480]**: very real, but there are two completely different ways to become a Claude AI
+- **[00:03:10.310]**: different ways to become a Claude AI
+- **[00:03:10.320]**: different ways to become a Claude AI consultant, and they fit two completely
+- **[00:03:12.070]**: consultant, and they fit two completely
+- **[00:03:12.080]**: consultant, and they fit two completely different types of people. So, let me
+- **[00:03:13.150]**: different types of people. So, let me
+- **[00:03:13.160]**: different types of people. So, let me break down both so you can figure out
+- **[00:03:14.550]**: break down both so you can figure out
+- **[00:03:14.560]**: break down both so you can figure out which one is for you. Okay, so, the
+- **[00:03:16.430]**: which one is for you. Okay, so, the
+- **[00:03:16.440]**: which one is for you. Okay, so, the first type is the freelance consultant.
+- **[00:03:18.390]**: first type is the freelance consultant.
+- **[00:03:18.400]**: first type is the freelance consultant. You work for yourself, you go client to
+- **[00:03:20.070]**: You work for yourself, you go client to
+- **[00:03:20.080]**: You work for yourself, you go client to client, you find their problems, and you
+- **[00:03:21.630]**: client, you find their problems, and you
+- **[00:03:21.640]**: client, you find their problems, and you build the fix. And the upside here is
+- **[00:03:23.430]**: build the fix. And the upside here is
+- **[00:03:23.440]**: build the fix. And the upside here is freedom. You can set your own hours, you
+- **[00:03:24.790]**: freedom. You can set your own hours, you
+- **[00:03:24.800]**: freedom. You can set your own hours, you can work from anywhere, and there's
+- **[00:03:25.949]**: can work from anywhere, and there's
+- **[00:03:25.959]**: can work from anywhere, and there's really no ceiling on what you can make.
+- **[00:03:27.509]**: really no ceiling on what you can make.
+- **[00:03:27.519]**: really no ceiling on what you can make. And LinkedIn's data backs this path up,
+- **[00:03:28.910]**: And LinkedIn's data backs this path up,
+- **[00:03:28.920]**: And LinkedIn's data backs this path up, too. Independent consultants and
+- **[00:03:30.310]**: too. Independent consultants and
+- **[00:03:30.320]**: too. Independent consultants and strategic advisers just climbed into
+- **[00:03:31.990]**: strategic advisers just climbed into
+- **[00:03:32.000]**: strategic advisers just climbed into their top 10 fastest-growing roles in
+- **[00:03:33.990]**: their top 10 fastest-growing roles in
+- **[00:03:34.000]**: their top 10 fastest-growing roles in the US. But, it's of course got some
+- **[00:03:35.750]**: the US. But, it's of course got some
+- **[00:03:35.760]**: the US. But, it's of course got some real downsides as well. Some months,
+- **[00:03:37.430]**: real downsides as well. Some months,
+- **[00:03:37.440]**: real downsides as well. Some months, maybe you'll make great money, and then
+- **[00:03:38.870]**: maybe you'll make great money, and then
+- **[00:03:38.880]**: maybe you'll make great money, and then you can lose a client from one day to
+- **[00:03:40.190]**: you can lose a client from one day to
+- **[00:03:40.200]**: you can lose a client from one day to the next, and you have to do everything
+- **[00:03:41.670]**: the next, and you have to do everything
+- **[00:03:41.680]**: the next, and you have to do everything over again yourself. Finding the
+- **[00:03:43.110]**: over again yourself. Finding the
+- **[00:03:43.120]**: over again yourself. Finding the clients, closing the clients, and then
+- **[00:03:44.790]**: clients, closing the clients, and then
+- **[00:03:44.800]**: clients, closing the clients, and then actually doing the work. So, this option
+- **[00:03:46.270]**: actually doing the work. So, this option
+- **[00:03:46.280]**: actually doing the work. So, this option is for you if you care more about
+- **[00:03:47.590]**: is for you if you care more about
+- **[00:03:47.600]**: is for you if you care more about controlling your time than having a
+- **[00:03:48.910]**: controlling your time than having a
+- **[00:03:48.920]**: controlling your time than having a predictable paycheck, and you don't mind
+- **[00:03:50.870]**: predictable paycheck, and you don't mind
+- **[00:03:50.880]**: predictable paycheck, and you don't mind kind of the chaos of, you know, owning a
+- **[00:03:52.750]**: kind of the chaos of, you know, owning a
+- **[00:03:52.760]**: kind of the chaos of, you know, owning a business and doing things like sales
+- **[00:03:54.390]**: business and doing things like sales
+- **[00:03:54.400]**: business and doing things like sales calls. Okay, now the second type, and
+- **[00:03:56.590]**: calls. Okay, now the second type, and
+- **[00:03:56.600]**: calls. Okay, now the second type, and for a lot of you guys, I think this is
+- **[00:03:57.710]**: for a lot of you guys, I think this is
+- **[00:03:57.720]**: for a lot of you guys, I think this is the one that's the smarter play because
+- **[00:03:59.230]**: the one that's the smarter play because
+- **[00:03:59.240]**: the one that's the smarter play because almost every company is in the same spot
+- **[00:04:00.670]**: almost every company is in the same spot
+- **[00:04:00.680]**: almost every company is in the same spot right now. They know they need AI.
+- **[00:04:02.150]**: right now. They know they need AI.
+- **[00:04:02.160]**: right now. They know they need AI. They've already got the tools, but they
+- **[00:04:03.470]**: They've already got the tools, but they
+- **[00:04:03.480]**: They've already got the tools, but they have nobody inside who can actually make
+- **[00:04:05.390]**: have nobody inside who can actually make
+- **[00:04:05.400]**: have nobody inside who can actually make it work for their specific business.
+- **[00:04:06.910]**: it work for their specific business.
+- **[00:04:06.920]**: it work for their specific business. McKinsey found that 88% of companies now
+- **[00:04:08.990]**: McKinsey found that 88% of companies now
+- **[00:04:09.000]**: McKinsey found that 88% of companies now use AI in at least one part of their
+- **[00:04:10.470]**: use AI in at least one part of their
+- **[00:04:10.480]**: use AI in at least one part of their business, but only about a third of them
+- **[00:04:12.510]**: business, but only about a third of them
+- **[00:04:12.520]**: business, but only about a third of them have scaled it past a few test projects,
+- **[00:04:14.470]**: have scaled it past a few test projects,
+- **[00:04:14.480]**: have scaled it past a few test projects, and just 6% are what McKinsey calls high
+- **[00:04:16.710]**: and just 6% are what McKinsey calls high
+- **[00:04:16.720]**: and just 6% are what McKinsey calls high performers, meaning they're actually
+- **[00:04:18.710]**: performers, meaning they're actually
+- **[00:04:18.720]**: performers, meaning they're actually seeing a real measurable impact on their
+- **[00:04:20.470]**: seeing a real measurable impact on their
+- **[00:04:20.480]**: seeing a real measurable impact on their bottom line from AI. So, paying for AI
+- **[00:04:22.710]**: bottom line from AI. So, paying for AI
+- **[00:04:22.720]**: bottom line from AI. So, paying for AI turned out to be the easy part. Actually
+- **[00:04:24.190]**: turned out to be the easy part. Actually
+- **[00:04:24.200]**: turned out to be the easy part. Actually using it is, of course, the bottleneck.
+- **[00:04:26.110]**: using it is, of course, the bottleneck.
+- **[00:04:26.120]**: using it is, of course, the bottleneck. Accenture found that nearly two-thirds
+- **[00:04:27.630]**: Accenture found that nearly two-thirds
+- **[00:04:27.640]**: Accenture found that nearly two-thirds of executives say their AI plans are
+- **[00:04:29.390]**: of executives say their AI plans are
+- **[00:04:29.400]**: of executives say their AI plans are stuck because they don't have the skills
+- **[00:04:30.990]**: stuck because they don't have the skills
+- **[00:04:31.000]**: stuck because they don't have the skills in-house to pull them off. And companies
+- **[00:04:32.630]**: in-house to pull them off. And companies
+- **[00:04:32.640]**: in-house to pull them off. And companies are desperate to fix this. Manpower
+- **[00:04:34.310]**: are desperate to fix this. Manpower
+- **[00:04:34.320]**: are desperate to fix this. Manpower Group surveyed 39,000 employers across
+- **[00:04:36.390]**: Group surveyed 39,000 employers across
+- **[00:04:36.400]**: Group surveyed 39,000 employers across 41 countries and found that AI skills
+- **[00:04:38.030]**: 41 countries and found that AI skills
+- **[00:04:38.040]**: 41 countries and found that AI skills are now the hardest thing in the world
+- **[00:04:39.670]**: are now the hardest thing in the world
+- **[00:04:39.680]**: are now the hardest thing in the world for companies to hire for, harder than
+- **[00:04:41.270]**: for companies to hire for, harder than
+- **[00:04:41.280]**: for companies to hire for, harder than traditional IT and engineering for the
+- **[00:04:42.870]**: traditional IT and engineering for the
+- **[00:04:42.880]**: traditional IT and engineering for the first time ever. And because of this,
+- **[00:04:44.710]**: first time ever. And because of this,
+- **[00:04:44.720]**: first time ever. And because of this, the pay is climbing. PwC's latest AI
+- **[00:04:46.950]**: the pay is climbing. PwC's latest AI
+- **[00:04:46.960]**: the pay is climbing. PwC's latest AI Jobs Barometer found that workers with
+- **[00:04:48.710]**: Jobs Barometer found that workers with
+- **[00:04:48.720]**: Jobs Barometer found that workers with AI skills earn a 62% wage premium over
+- **[00:04:51.230]**: AI skills earn a 62% wage premium over
+- **[00:04:51.240]**: AI skills earn a 62% wage premium over people without them. And that premium
+- **[00:04:52.590]**: people without them. And that premium
+- **[00:04:52.600]**: people without them. And that premium has gone up every single year that
+- **[00:04:54.070]**: has gone up every single year that
+- **[00:04:54.080]**: has gone up every single year that they've measured it. So, the second type
+- **[00:04:55.430]**: they've measured it. So, the second type
+- **[00:04:55.440]**: they've measured it. So, the second type of consultant you can become is the
+- **[00:04:56.750]**: of consultant you can become is the
+- **[00:04:56.760]**: of consultant you can become is the in-house consultant inside the company
+- **[00:04:58.550]**: in-house consultant inside the company
+- **[00:04:58.560]**: in-house consultant inside the company that you already work for. You get a
+- **[00:04:59.710]**: that you already work for. You get a
+- **[00:04:59.720]**: that you already work for. You get a stable paycheck, plus an advantage no
+- **[00:05:01.510]**: stable paycheck, plus an advantage no
+- **[00:05:01.520]**: stable paycheck, plus an advantage no agency can ever touch because you
+- **[00:05:02.870]**: agency can ever touch because you
+- **[00:05:02.880]**: agency can ever touch because you actually understand the business
+- **[00:05:04.270]**: actually understand the business
+- **[00:05:04.280]**: actually understand the business already. You know the people, you know
+- **[00:05:05.430]**: already. You know the people, you know
+- **[00:05:05.440]**: already. You know the people, you know the systems, and you know exactly where
+- **[00:05:06.870]**: the systems, and you know exactly where
+- **[00:05:06.880]**: the systems, and you know exactly where the time's getting wasted. Now, of
+- **[00:05:08.070]**: the time's getting wasted. Now, of
+- **[00:05:08.080]**: the time's getting wasted. Now, of course, the catch here is you're maybe
+- **[00:05:09.830]**: course, the catch here is you're maybe
+- **[00:05:09.840]**: course, the catch here is you're maybe giving up some time and location
+- **[00:05:10.990]**: giving up some time and location
+- **[00:05:11.000]**: giving up some time and location freedom, but you don't have to wait for
+- **[00:05:12.110]**: freedom, but you don't have to wait for
+- **[00:05:12.120]**: freedom, but you don't have to wait for this position to open up somewhere. You
+- **[00:05:13.350]**: this position to open up somewhere. You
+- **[00:05:13.360]**: this position to open up somewhere. You can kind of come in and create this role
+- **[00:05:14.870]**: can kind of come in and create this role
+- **[00:05:14.880]**: can kind of come in and create this role for yourself. And if there's just one
+- **[00:05:16.270]**: for yourself. And if there's just one
+- **[00:05:16.280]**: for yourself. And if there's just one thing that you take away from this
+- **[00:05:17.150]**: thing that you take away from this
+- **[00:05:17.160]**: thing that you take away from this video, it should be this. Become the AI
+- **[00:05:19.550]**: video, it should be this. Become the AI
+- **[00:05:19.560]**: video, it should be this. Become the AI person. Whether you're being the
+- **[00:05:20.590]**: person. Whether you're being the
+- **[00:05:20.600]**: person. Whether you're being the freelancer or whether you're being the
+- **[00:05:21.909]**: freelancer or whether you're being the
+- **[00:05:21.919]**: freelancer or whether you're being the in-house consultant, become the AI
+- **[00:05:23.430]**: in-house consultant, become the AI
+- **[00:05:23.440]**: in-house consultant, become the AI person. This stuff is so new that nobody
+- **[00:05:25.350]**: person. This stuff is so new that nobody
+- **[00:05:25.360]**: person. This stuff is so new that nobody has, you know, a 10-year head start on
+- **[00:05:27.030]**: has, you know, a 10-year head start on
+- **[00:05:27.040]**: has, you know, a 10-year head start on you. Whether you graduated last month or
+- **[00:05:28.950]**: you. Whether you graduated last month or
+- **[00:05:28.960]**: you. Whether you graduated last month or whether you've been at your company for
+- **[00:05:30.070]**: whether you've been at your company for
+- **[00:05:30.080]**: whether you've been at your company for 15 years. Everyone is basically starting
+- **[00:05:32.110]**: 15 years. Everyone is basically starting
+- **[00:05:32.120]**: 15 years. Everyone is basically starting at the same line right now. So, learn
+- **[00:05:33.510]**: at the same line right now. So, learn
+- **[00:05:33.520]**: at the same line right now. So, learn this stuff deeply, figure out where it
+- **[00:05:34.909]**: this stuff deeply, figure out where it
+- **[00:05:34.919]**: this stuff deeply, figure out where it can actually help you, and become the AI
+- **[00:05:36.470]**: can actually help you, and become the AI
+- **[00:05:36.480]**: can actually help you, and become the AI person. Because if you're early to this,
+- **[00:05:38.070]**: person. Because if you're early to this,
+- **[00:05:38.080]**: person. Because if you're early to this, everything downstream, the clients, the
+- **[00:05:39.550]**: everything downstream, the clients, the
+- **[00:05:39.560]**: everything downstream, the clients, the promotions, the raises, it all comes
+- **[00:05:41.390]**: promotions, the raises, it all comes
+- **[00:05:41.400]**: promotions, the raises, it all comes looking for you. So, let me show you the
+- **[00:05:42.710]**: looking for you. So, let me show you the
+- **[00:05:42.720]**: looking for you. So, let me show you the four steps to become that person. Now,
+- **[00:05:44.630]**: four steps to become that person. Now,
+- **[00:05:44.640]**: four steps to become that person. Now, real quick, before we get into the how,
+- **[00:05:46.030]**: real quick, before we get into the how,
+- **[00:05:46.040]**: real quick, before we get into the how, I put together a file with these exact
+- **[00:05:47.550]**: I put together a file with these exact
+- **[00:05:47.560]**: I put together a file with these exact steps and everything that you need to do
+- **[00:05:49.030]**: steps and everything that you need to do
+- **[00:05:49.040]**: steps and everything that you need to do at each one. So, you can download it and
+- **[00:05:50.550]**: at each one. So, you can download it and
+- **[00:05:50.560]**: at each one. So, you can download it and just check things off as you go. You can
+- **[00:05:51.910]**: just check things off as you go. You can
+- **[00:05:51.920]**: just check things off as you go. You can find this inside of my free school
+- **[00:05:52.990]**: find this inside of my free school
+- **[00:05:53.000]**: find this inside of my free school community. The link's down in the
+- **[00:05:53.910]**: community. The link's down in the
+- **[00:05:53.920]**: community. The link's down in the description. But, let's get back to the
+- **[00:05:55.030]**: description. But, let's get back to the
+- **[00:05:55.040]**: description. But, let's get back to the video. Okay, step one is to pick one
+- **[00:05:57.190]**: video. Okay, step one is to pick one
+- **[00:05:57.200]**: video. Okay, step one is to pick one painful problem. Open a doc and list
+- **[00:05:59.190]**: painful problem. Open a doc and list
+- **[00:05:59.200]**: painful problem. Open a doc and list every manual task you or your team did
+- **[00:06:01.230]**: every manual task you or your team did
+- **[00:06:01.240]**: every manual task you or your team did last week. And then circle the one that
+- **[00:06:02.870]**: last week. And then circle the one that
+- **[00:06:02.880]**: last week. And then circle the one that eats the most hours. Say it's the report
+- **[00:06:04.750]**: eats the most hours. Say it's the report
+- **[00:06:04.760]**: eats the most hours. Say it's the report you build from scratch every Friday.
+- **[00:06:05.990]**: you build from scratch every Friday.
+- **[00:06:06.000]**: you build from scratch every Friday. Then, before you build anything, decide
+- **[00:06:08.070]**: Then, before you build anything, decide
+- **[00:06:08.080]**: Then, before you build anything, decide on the metric you're trying to move. And
+- **[00:06:09.710]**: on the metric you're trying to move. And
+- **[00:06:09.720]**: on the metric you're trying to move. And this is the whole consultant mindset.
+- **[00:06:11.470]**: this is the whole consultant mindset.
+- **[00:06:11.480]**: this is the whole consultant mindset. Most people build automations because
+- **[00:06:12.750]**: Most people build automations because
+- **[00:06:12.760]**: Most people build automations because they look cool or they've got a bunch of
+- **[00:06:14.150]**: they look cool or they've got a bunch of
+- **[00:06:14.160]**: they look cool or they've got a bunch of little sub-agents and it might look good
+- **[00:06:15.950]**: little sub-agents and it might look good
+- **[00:06:15.960]**: little sub-agents and it might look good as a LinkedIn post. But, a consultant
+- **[00:06:17.350]**: as a LinkedIn post. But, a consultant
+- **[00:06:17.360]**: as a LinkedIn post. But, a consultant finds the constraint and designs a fix
+- **[00:06:18.790]**: finds the constraint and designs a fix
+- **[00:06:18.800]**: finds the constraint and designs a fix that moves a specific number. So, let's
+- **[00:06:21.110]**: that moves a specific number. So, let's
+- **[00:06:21.120]**: that moves a specific number. So, let's take that Friday report example. The
+- **[00:06:22.430]**: take that Friday report example. The
+- **[00:06:22.440]**: take that Friday report example. The metric is the 4 hours it eats every
+- **[00:06:24.390]**: metric is the 4 hours it eats every
+- **[00:06:24.400]**: metric is the 4 hours it eats every week. Whatever your problem is, name the
+- **[00:06:26.030]**: week. Whatever your problem is, name the
+- **[00:06:26.040]**: week. Whatever your problem is, name the number before you touch anything.
+- **[00:06:27.390]**: number before you touch anything.
+- **[00:06:27.400]**: number before you touch anything. Because that number is what you're
+- **[00:06:28.550]**: Because that number is what you're
+- **[00:06:28.560]**: Because that number is what you're selling. You're selling the destination,
+- **[00:06:29.950]**: selling. You're selling the destination,
+- **[00:06:29.960]**: selling. You're selling the destination, you're not selling the journey. And the
+- **[00:06:31.150]**: you're not selling the journey. And the
+- **[00:06:31.160]**: you're not selling the journey. And the destination is always one of three
+- **[00:06:32.390]**: destination is always one of three
+- **[00:06:32.400]**: destination is always one of three things: time saved, mistakes cut, or
+- **[00:06:34.390]**: things: time saved, mistakes cut, or
+- **[00:06:34.400]**: things: time saved, mistakes cut, or money made. And real quick, just cuz I
+- **[00:06:35.830]**: money made. And real quick, just cuz I
+- **[00:06:35.840]**: money made. And real quick, just cuz I have to throw this out there, before you
+- **[00:06:36.870]**: have to throw this out there, before you
+- **[00:06:36.880]**: have to throw this out there, before you touch anything, only use AI tools that
+- **[00:06:38.510]**: touch anything, only use AI tools that
+- **[00:06:38.520]**: touch anything, only use AI tools that your company allows and never put
+- **[00:06:39.830]**: your company allows and never put
+- **[00:06:39.840]**: your company allows and never put company or customer data into something
+- **[00:06:41.470]**: company or customer data into something
+- **[00:06:41.480]**: company or customer data into something that isn't approved. So, just be smart.
+- **[00:06:43.430]**: that isn't approved. So, just be smart.
+- **[00:06:43.440]**: that isn't approved. So, just be smart. Anyways, now you've got one problem. And
+- **[00:06:45.270]**: Anyways, now you've got one problem. And
+- **[00:06:45.280]**: Anyways, now you've got one problem. And you've got the number that you're trying
+- **[00:06:46.430]**: you've got the number that you're trying
+- **[00:06:46.440]**: you've got the number that you're trying to move when you're solving this
+- **[00:06:47.510]**: to move when you're solving this
+- **[00:06:47.520]**: to move when you're solving this problem. Step two is to build the fix
+- **[00:06:49.390]**: problem. Step two is to build the fix
+- **[00:06:49.400]**: problem. Step two is to build the fix and then document it. And building the
+- **[00:06:50.710]**: and then document it. And building the
+- **[00:06:50.720]**: and then document it. And building the fix doesn't mean you have to write code.
+- **[00:06:52.030]**: fix doesn't mean you have to write code.
+- **[00:06:52.040]**: fix doesn't mean you have to write code. It means setting up Claude with the
+- **[00:06:53.310]**: It means setting up Claude with the
+- **[00:06:53.320]**: It means setting up Claude with the right instructions and the real
+- **[00:06:54.390]**: right instructions and the real
+- **[00:06:54.400]**: right instructions and the real documents behind the task. So, for this
+- **[00:06:56.630]**: documents behind the task. So, for this
+- **[00:06:56.640]**: documents behind the task. So, for this Friday report, you give Claude maybe the
+- **[00:06:58.270]**: Friday report, you give Claude maybe the
+- **[00:06:58.280]**: Friday report, you give Claude maybe the last few reports, those are some
+- **[00:06:59.510]**: last few reports, those are some
+- **[00:06:59.520]**: last few reports, those are some examples, you know, you give it the
+- **[00:07:00.990]**: examples, you know, you give it the
+- **[00:07:01.000]**: examples, you know, you give it the template, you give it a checklist of
+- **[00:07:02.350]**: template, you give it a checklist of
+- **[00:07:02.360]**: template, you give it a checklist of where the numbers come from, and you
+- **[00:07:03.550]**: where the numbers come from, and you
+- **[00:07:03.560]**: where the numbers come from, and you work with it until it nails the report
+- **[00:07:05.070]**: work with it until it nails the report
+- **[00:07:05.080]**: work with it until it nails the report every single time, and you build skills
+- **[00:07:06.670]**: every single time, and you build skills
+- **[00:07:06.680]**: every single time, and you build skills and instructions around this process. If
+- **[00:07:08.510]**: and instructions around this process. If
+- **[00:07:08.520]**: and instructions around this process. If you can get Claude to do one task
+- **[00:07:09.870]**: you can get Claude to do one task
+- **[00:07:09.880]**: you can get Claude to do one task reliably with real process docs, you're
+- **[00:07:11.710]**: reliably with real process docs, you're
+- **[00:07:11.720]**: reliably with real process docs, you're ready. If you can explain things
+- **[00:07:12.870]**: ready. If you can explain things
+- **[00:07:12.880]**: ready. If you can explain things clearly, if you can judge and critique
+- **[00:07:14.550]**: clearly, if you can judge and critique
+- **[00:07:14.560]**: clearly, if you can judge and critique things and then give Claude feedback,
+- **[00:07:16.270]**: things and then give Claude feedback,
+- **[00:07:16.280]**: things and then give Claude feedback, you're ready. Then, when you get
+- **[00:07:17.270]**: you're ready. Then, when you get
+- **[00:07:17.280]**: you're ready. Then, when you get something you're happy with, record a
+- **[00:07:18.430]**: something you're happy with, record a
+- **[00:07:18.440]**: something you're happy with, record a quick 2-minute before and after demo.
+- **[00:07:20.230]**: quick 2-minute before and after demo.
+- **[00:07:20.240]**: quick 2-minute before and after demo. You know, "Hey, this used to take me 4
+- **[00:07:21.550]**: You know, "Hey, this used to take me 4
+- **[00:07:21.560]**: You know, "Hey, this used to take me 4 hours, but just watch it happen when I
+- **[00:07:23.070]**: hours, but just watch it happen when I
+- **[00:07:23.080]**: hours, but just watch it happen when I run one command, and now it takes 10
+- **[00:07:24.750]**: run one command, and now it takes 10
+- **[00:07:24.760]**: run one command, and now it takes 10 minutes." Step three is to deliver it
+- **[00:07:26.590]**: minutes." Step three is to deliver it
+- **[00:07:26.600]**: minutes." Step three is to deliver it and prove that the number actually
+- **[00:07:27.870]**: and prove that the number actually
+- **[00:07:27.880]**: and prove that the number actually moved, the number that we picked before
+- **[00:07:29.430]**: moved, the number that we picked before
+- **[00:07:29.440]**: moved, the number that we picked before you started building. So, now you can
+- **[00:07:30.550]**: you started building. So, now you can
+- **[00:07:30.560]**: you started building. So, now you can say, "Hey, 4 hours down to just 20
+- **[00:07:32.350]**: say, "Hey, 4 hours down to just 20
+- **[00:07:32.360]**: say, "Hey, 4 hours down to just 20 minutes is 3 and 1/2 hours back every
+- **[00:07:34.590]**: minutes is 3 and 1/2 hours back every
+- **[00:07:34.600]**: minutes is 3 and 1/2 hours back every single week." And that's the destination
+- **[00:07:36.110]**: single week." And that's the destination
+- **[00:07:36.120]**: single week." And that's the destination that you had promised, and you actually
+- **[00:07:37.630]**: that you had promised, and you actually
+- **[00:07:37.640]**: that you had promised, and you actually delivered on it, too. So, show it. Bring
+- **[00:07:39.350]**: delivered on it, too. So, show it. Bring
+- **[00:07:39.360]**: delivered on it, too. So, show it. Bring it up in a team meeting or put it in
+- **[00:07:40.670]**: it up in a team meeting or put it in
+- **[00:07:40.680]**: it up in a team meeting or put it in front of the business owner and ask one
+- **[00:07:42.030]**: front of the business owner and ask one
+- **[00:07:42.040]**: front of the business owner and ask one question. Does anyone have a task they'd
+- **[00:07:43.830]**: question. Does anyone have a task they'd
+- **[00:07:43.840]**: question. Does anyone have a task they'd want me to look at and see how I could
+- **[00:07:45.070]**: want me to look at and see how I could
+- **[00:07:45.080]**: want me to look at and see how I could maybe automate it with AI. That question
+- **[00:07:46.670]**: maybe automate it with AI. That question
+- **[00:07:46.680]**: maybe automate it with AI. That question will do more for you than any pitch and
+- **[00:07:48.510]**: will do more for you than any pitch and
+- **[00:07:48.520]**: will do more for you than any pitch and every task you collect runs right back
+- **[00:07:50.110]**: every task you collect runs right back
+- **[00:07:50.120]**: every task you collect runs right back through that same loop. You find the
+- **[00:07:51.190]**: through that same loop. You find the
+- **[00:07:51.200]**: through that same loop. You find the constraint, you name the metric, you
+- **[00:07:52.670]**: constraint, you name the metric, you
+- **[00:07:52.680]**: constraint, you name the metric, you build the fix, and then you prove that
+- **[00:07:54.430]**: build the fix, and then you prove that
+- **[00:07:54.440]**: build the fix, and then you prove that the metric moved. Step four is where you
+- **[00:07:56.270]**: the metric moved. Step four is where you
+- **[00:07:56.280]**: the metric moved. Step four is where you turn this into money. Your results are
+- **[00:07:57.910]**: turn this into money. Your results are
+- **[00:07:57.920]**: turn this into money. Your results are now case study. If you're a freelancer,
+- **[00:07:59.830]**: now case study. If you're a freelancer,
+- **[00:07:59.840]**: now case study. If you're a freelancer, take it to people who already know you
+- **[00:08:01.070]**: take it to people who already know you
+- **[00:08:01.080]**: take it to people who already know you first and then cold outreach is the
+- **[00:08:02.430]**: first and then cold outreach is the
+- **[00:08:02.440]**: first and then cold outreach is the volume play. And the motion I ran in my
+- **[00:08:04.110]**: volume play. And the motion I ran in my
+- **[00:08:04.120]**: volume play. And the motion I ran in my own business was first build for free,
+- **[00:08:05.830]**: own business was first build for free,
+- **[00:08:05.840]**: own business was first build for free, then I would do paid audits, and then I
+- **[00:08:07.310]**: then I would do paid audits, and then I
+- **[00:08:07.320]**: then I would do paid audits, and then I would price the builds off that audit,
+- **[00:08:08.630]**: would price the builds off that audit,
+- **[00:08:08.640]**: would price the builds off that audit, and then try to get them on a monthly
+- **[00:08:09.750]**: and then try to get them on a monthly
+- **[00:08:09.760]**: and then try to get them on a monthly retainer, which is what fixes the income
+- **[00:08:11.630]**: retainer, which is what fixes the income
+- **[00:08:11.640]**: retainer, which is what fixes the income roller coaster. And if you're in-house,
+- **[00:08:12.830]**: roller coaster. And if you're in-house,
+- **[00:08:12.840]**: roller coaster. And if you're in-house, you take your stack of wins to your
+- **[00:08:13.990]**: you take your stack of wins to your
+- **[00:08:14.000]**: you take your stack of wins to your boss, you frame every win as your boss's
+- **[00:08:15.750]**: boss, you frame every win as your boss's
+- **[00:08:15.760]**: boss, you frame every win as your boss's win, and you make the role official.
+- **[00:08:17.470]**: win, and you make the role official.
+- **[00:08:17.480]**: win, and you make the role official. Now, this may not happen immediately,
+- **[00:08:18.830]**: Now, this may not happen immediately,
+- **[00:08:18.840]**: Now, this may not happen immediately, but when you do stuff like this, you are
+- **[00:08:20.750]**: but when you do stuff like this, you are
+- **[00:08:20.760]**: but when you do stuff like this, you are creating an association in your
+- **[00:08:22.710]**: creating an association in your
+- **[00:08:22.720]**: creating an association in your co-workers and in your boss's mind that
+- **[00:08:24.590]**: co-workers and in your boss's mind that
+- **[00:08:24.600]**: co-workers and in your boss's mind that you are the AI person. Inevitably, you
+- **[00:08:26.670]**: you are the AI person. Inevitably, you
+- **[00:08:26.680]**: you are the AI person. Inevitably, you will be in high demand. Companies are
+- **[00:08:28.230]**: will be in high demand. Companies are
+- **[00:08:28.240]**: will be in high demand. Companies are already posting jobs like this under
+- **[00:08:29.990]**: already posting jobs like this under
+- **[00:08:30.000]**: already posting jobs like this under titles like, you know, chief AI officer,
+- **[00:08:31.750]**: titles like, you know, chief AI officer,
+- **[00:08:31.760]**: titles like, you know, chief AI officer, AI enablement lead. You're just becoming
+- **[00:08:33.510]**: AI enablement lead. You're just becoming
+- **[00:08:33.520]**: AI enablement lead. You're just becoming that person before the posting even
+- **[00:08:34.830]**: that person before the posting even
+- **[00:08:34.840]**: that person before the posting even exists. And if you don't have a job
+- **[00:08:35.990]**: exists. And if you don't have a job
+- **[00:08:36.000]**: exists. And if you don't have a job right now, bring your one demo build
+- **[00:08:37.670]**: right now, bring your one demo build
+- **[00:08:37.680]**: right now, bring your one demo build into interviews and you are the AI hire
+- **[00:08:39.670]**: into interviews and you are the AI hire
+- **[00:08:39.680]**: into interviews and you are the AI hire that these companies can't find right
+- **[00:08:41.190]**: that these companies can't find right
+- **[00:08:41.200]**: that these companies can't find right from the jump. So, all these numbers,
+- **[00:08:42.510]**: from the jump. So, all these numbers,
+- **[00:08:42.520]**: from the jump. So, all these numbers, they're going to close deals or they're
+- **[00:08:43.750]**: they're going to close deals or they're
+- **[00:08:43.760]**: they're going to close deals or they're going to get you promotions. So, now you
+- **[00:08:45.190]**: going to get you promotions. So, now you
+- **[00:08:45.200]**: going to get you promotions. So, now you have a complete roadmap to becoming the
+- **[00:08:47.230]**: have a complete roadmap to becoming the
+- **[00:08:47.240]**: have a complete roadmap to becoming the AI person and making money with Claude
+- **[00:08:48.910]**: AI person and making money with Claude
+- **[00:08:48.920]**: AI person and making money with Claude in 2026. But, if you want to move
+- **[00:08:50.150]**: in 2026. But, if you want to move
+- **[00:08:50.160]**: in 2026. But, if you want to move faster, you need to know exactly what to
+- **[00:08:52.070]**: faster, you need to know exactly what to
+- **[00:08:52.080]**: faster, you need to know exactly what to learn because if you don't, you'll just
+- **[00:08:53.190]**: learn because if you don't, you'll just
+- **[00:08:53.200]**: learn because if you don't, you'll just end up consuming information forever.
+- **[00:08:54.590]**: end up consuming information forever.
+- **[00:08:54.600]**: end up consuming information forever. Inside my free community, you'll find
+- **[00:08:56.150]**: Inside my free community, you'll find
+- **[00:08:56.160]**: Inside my free community, you'll find complete courses on Claude and resources
+- **[00:08:57.870]**: complete courses on Claude and resources
+- **[00:08:57.880]**: complete courses on Claude and resources that'll help you skip weeks of learning.
+- **[00:08:59.310]**: that'll help you skip weeks of learning.
+- **[00:08:59.320]**: that'll help you skip weeks of learning. And if you want to go deeper, you can
+- **[00:09:00.470]**: And if you want to go deeper, you can
+- **[00:09:00.480]**: And if you want to go deeper, you can join my plus community where you'll get
+- **[00:09:01.990]**: join my plus community where you'll get
+- **[00:09:02.000]**: join my plus community where you'll get courses on building your portfolio,
+- **[00:09:03.550]**: courses on building your portfolio,
+- **[00:09:03.560]**: courses on building your portfolio, getting clients, and scaling your
+- **[00:09:04.790]**: getting clients, and scaling your
+- **[00:09:04.800]**: getting clients, and scaling your one-person AI automation agency. The
+- **[00:09:06.470]**: one-person AI automation agency. The
+- **[00:09:06.480]**: one-person AI automation agency. The link for both of these communities is
+- **[00:09:07.870]**: link for both of these communities is
+- **[00:09:07.880]**: link for both of these communities is down in the description. But, anyways,
+- **[00:09:09.390]**: down in the description. But, anyways,
+- **[00:09:09.400]**: down in the description. But, anyways, that is going to do it for this one. So,
+- **[00:09:10.590]**: that is going to do it for this one. So,
+- **[00:09:10.600]**: that is going to do it for this one. So, if you guys enjoyed or learned something
+- **[00:09:11.750]**: if you guys enjoyed or learned something
+- **[00:09:11.760]**: if you guys enjoyed or learned something new, please give it a like. That really
+- **[00:09:12.950]**: new, please give it a like. That really
+- **[00:09:12.960]**: new, please give it a like. That really helps me out a ton. And as always, I
+- **[00:09:14.110]**: helps me out a ton. And as always, I
+- **[00:09:14.120]**: helps me out a ton. And as always, I appreciate you guys making it to the end
+- **[00:09:15.190]**: appreciate you guys making it to the end
+- **[00:09:15.200]**: appreciate you guys making it to the end of the video, and I'll see you all in
+- **[00:09:16.470]**: of the video, and I'll see you all in
+- **[00:09:16.480]**: of the video, and I'll see you all in the next one.
+- **[00:09:17.590]**: the next one.
+- **[00:09:17.600]**: the next one. Thanks, everyone.
