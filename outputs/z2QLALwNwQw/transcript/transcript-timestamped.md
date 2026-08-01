@@ -1,0 +1,1045 @@
+# Timestamped Transcript
+
+- **[00:00:01.760]**: Kind: captions Language: en There are 101 ways to make money online.
+- **[00:00:04.870]**: There are 101 ways to make money online.
+- **[00:00:04.880]**: There are 101 ways to make money online. Now, most of them are fake, just
+- **[00:00:06.550]**: Now, most of them are fake, just
+- **[00:00:06.560]**: Now, most of them are fake, just promoted by gurus trying to sell you
+- **[00:00:07.909]**: promoted by gurus trying to sell you
+- **[00:00:07.919]**: promoted by gurus trying to sell you their courses. Which is why in today's
+- **[00:00:09.509]**: their courses. Which is why in today's
+- **[00:00:09.519]**: their courses. Which is why in today's video, I'm sharing seven online hal side
+- **[00:00:12.150]**: video, I'm sharing seven online hal side
+- **[00:00:12.160]**: video, I'm sharing seven online hal side hustles that you can start today to make
+- **[00:00:14.390]**: hustles that you can start today to make
+- **[00:00:14.400]**: hustles that you can start today to make $100 a day. And I'll show you step by
+- **[00:00:16.390]**: $100 a day. And I'll show you step by
+- **[00:00:16.400]**: $100 a day. And I'll show you step by step going from the easiest one to the
+- **[00:00:18.070]**: step going from the easiest one to the
+- **[00:00:18.080]**: step going from the easiest one to the one that can make you the most money.
+- **[00:00:19.269]**: one that can make you the most money.
+- **[00:00:19.279]**: one that can make you the most money. And to prove you that this works, I'll
+- **[00:00:20.710]**: And to prove you that this works, I'll
+- **[00:00:20.720]**: And to prove you that this works, I'll even share screenshots of proof of
+- **[00:00:22.550]**: even share screenshots of proof of
+- **[00:00:22.560]**: even share screenshots of proof of payments of me paying those people to do
+- **[00:00:24.950]**: payments of me paying those people to do
+- **[00:00:24.960]**: payments of me paying those people to do those side hustles for me. And trust me,
+- **[00:00:26.470]**: those side hustles for me. And trust me,
+- **[00:00:26.480]**: those side hustles for me. And trust me, they make a lot of money. Allah, let's
+- **[00:00:28.150]**: they make a lot of money. Allah, let's
+- **[00:00:28.160]**: they make a lot of money. Allah, let's get into it. Starting with the first
+- **[00:00:29.349]**: get into it. Starting with the first
+- **[00:00:29.359]**: get into it. Starting with the first one, copyrightiting. Copyrightiting is
+- **[00:00:31.589]**: one, copyrightiting. Copyrightiting is
+- **[00:00:31.599]**: one, copyrightiting. Copyrightiting is simple. Copyrightiting is basically
+- **[00:00:33.270]**: simple. Copyrightiting is basically
+- **[00:00:33.280]**: simple. Copyrightiting is basically writing in a way that makes people buy
+- **[00:00:35.590]**: writing in a way that makes people buy
+- **[00:00:35.600]**: writing in a way that makes people buy the stuff that you're writing about.
+- **[00:00:36.790]**: the stuff that you're writing about.
+- **[00:00:36.800]**: the stuff that you're writing about. That's it. You can write emails, ads,
+- **[00:00:38.869]**: That's it. You can write emails, ads,
+- **[00:00:38.879]**: That's it. You can write emails, ads, script videos, any type of thing that
+- **[00:00:40.790]**: script videos, any type of thing that
+- **[00:00:40.800]**: script videos, any type of thing that involves some sort of writing falls
+- **[00:00:42.709]**: involves some sort of writing falls
+- **[00:00:42.719]**: involves some sort of writing falls under copyrighting. And here's a twist.
+- **[00:00:44.470]**: under copyrighting. And here's a twist.
+- **[00:00:44.480]**: under copyrighting. And here's a twist. When 2025, we've got AI. So, we're not
+- **[00:00:46.630]**: When 2025, we've got AI. So, we're not
+- **[00:00:46.640]**: When 2025, we've got AI. So, we're not going to write the emails to add the
+- **[00:00:47.990]**: going to write the emails to add the
+- **[00:00:48.000]**: going to write the emails to add the scripts ourselves. We'll use AI to do
+- **[00:00:50.069]**: scripts ourselves. We'll use AI to do
+- **[00:00:50.079]**: scripts ourselves. We'll use AI to do so. And to show you, I'll switch over to
+- **[00:00:51.510]**: so. And to show you, I'll switch over to
+- **[00:00:51.520]**: so. And to show you, I'll switch over to my laptop. So, what you want to be doing
+- **[00:00:53.029]**: my laptop. So, what you want to be doing
+- **[00:00:53.039]**: my laptop. So, what you want to be doing is logging in to clude.ai. And it's
+- **[00:00:55.670]**: is logging in to clude.ai. And it's
+- **[00:00:55.680]**: is logging in to clude.ai. And it's amazing for writing. I'll show you
+- **[00:00:57.029]**: amazing for writing. I'll show you
+- **[00:00:57.039]**: amazing for writing. I'll show you specifically how to tweak it in a way
+- **[00:00:58.470]**: specifically how to tweak it in a way
+- **[00:00:58.480]**: specifically how to tweak it in a way that makes it right like crazy. What you
+- **[00:01:00.389]**: that makes it right like crazy. What you
+- **[00:01:00.399]**: that makes it right like crazy. What you need to do is head over to this little
+- **[00:01:02.310]**: need to do is head over to this little
+- **[00:01:02.320]**: need to do is head over to this little cross and create a new project. I'll
+- **[00:01:04.869]**: cross and create a new project. I'll
+- **[00:01:04.879]**: cross and create a new project. I'll call it Ebu Copyriter. And I want you to
+- **[00:01:08.149]**: call it Ebu Copyriter. And I want you to
+- **[00:01:08.159]**: call it Ebu Copyriter. And I want you to write emails in an amazing way to
+- **[00:01:11.590]**: write emails in an amazing way to
+- **[00:01:11.600]**: write emails in an amazing way to convert readers into customers. Create
+- **[00:01:14.710]**: convert readers into customers. Create
+- **[00:01:14.720]**: convert readers into customers. Create project for now. Let's try it out. I
+- **[00:01:16.789]**: project for now. Let's try it out. I
+- **[00:01:16.799]**: project for now. Let's try it out. I have a $20 ebook teaching people how to
+- **[00:01:21.510]**: have a $20 ebook teaching people how to
+- **[00:01:21.520]**: have a $20 ebook teaching people how to use Excel sheets and be very good with
+- **[00:01:25.510]**: use Excel sheets and be very good with
+- **[00:01:25.520]**: use Excel sheets and be very good with it. Also very important to precise that
+- **[00:01:27.830]**: it. Also very important to precise that
+- **[00:01:27.840]**: it. Also very important to precise that I don't want it to write like AI
+- **[00:01:29.590]**: I don't want it to write like AI
+- **[00:01:29.600]**: I don't want it to write like AI otherwise going to mess everything up.
+- **[00:01:31.190]**: otherwise going to mess everything up.
+- **[00:01:31.200]**: otherwise going to mess everything up. Don't write like AI use English below
+- **[00:01:35.670]**: Don't write like AI use English below
+- **[00:01:35.680]**: Don't write like AI use English below level four. And because Clude is my guy,
+- **[00:01:38.310]**: level four. And because Clude is my guy,
+- **[00:01:38.320]**: level four. And because Clude is my guy, I'm going to say, I trained AI live. It
+- **[00:01:41.350]**: I'm going to say, I trained AI live. It
+- **[00:01:41.360]**: I'm going to say, I trained AI live. It took me literally 3 minutes and it's
+- **[00:01:43.270]**: took me literally 3 minutes and it's
+- **[00:01:43.280]**: took me literally 3 minutes and it's printing an email off of two lines of
+- **[00:01:45.109]**: printing an email off of two lines of
+- **[00:01:45.119]**: printing an email off of two lines of context. Now, this was good, but it's
+- **[00:01:46.469]**: context. Now, this was good, but it's
+- **[00:01:46.479]**: context. Now, this was good, but it's just one email. So, how do we actually
+- **[00:01:47.830]**: just one email. So, how do we actually
+- **[00:01:47.840]**: just one email. So, how do we actually make money from it? You have three ways
+- **[00:01:49.270]**: make money from it? You have three ways
+- **[00:01:49.280]**: make money from it? You have three ways of doing it. Number one is selling
+- **[00:01:50.870]**: of doing it. Number one is selling
+- **[00:01:50.880]**: of doing it. Number one is selling packages. Basically, because you're not
+- **[00:01:52.310]**: packages. Basically, because you're not
+- **[00:01:52.320]**: packages. Basically, because you're not writing the email, you don't really care
+- **[00:01:53.590]**: writing the email, you don't really care
+- **[00:01:53.600]**: writing the email, you don't really care about how many emails you have to write.
+- **[00:01:55.030]**: about how many emails you have to write.
+- **[00:01:55.040]**: about how many emails you have to write. So, what you want to do is be
+- **[00:01:56.389]**: So, what you want to do is be
+- **[00:01:56.399]**: So, what you want to do is be competitive on pricing and send them
+- **[00:01:58.789]**: competitive on pricing and send them
+- **[00:01:58.799]**: competitive on pricing and send them bulk offers. Five emails for 100 bucks,
+- **[00:02:00.870]**: bulk offers. Five emails for 100 bucks,
+- **[00:02:00.880]**: bulk offers. Five emails for 100 bucks, 10 emails for 100 bucks, that's $10 an
+- **[00:02:02.789]**: 10 emails for 100 bucks, that's $10 an
+- **[00:02:02.799]**: 10 emails for 100 bucks, that's $10 an email. But if it takes you two hours to
+- **[00:02:04.630]**: email. But if it takes you two hours to
+- **[00:02:04.640]**: email. But if it takes you two hours to write those 10 emails, you basically
+- **[00:02:06.230]**: write those 10 emails, you basically
+- **[00:02:06.240]**: write those 10 emails, you basically made $50 an hour as a side hustle from
+- **[00:02:08.630]**: made $50 an hour as a side hustle from
+- **[00:02:08.640]**: made $50 an hour as a side hustle from an AI that you trained in 5 minutes.
+- **[00:02:11.350]**: an AI that you trained in 5 minutes.
+- **[00:02:11.360]**: an AI that you trained in 5 minutes. This is insane. Now, emails was just the
+- **[00:02:13.589]**: This is insane. Now, emails was just the
+- **[00:02:13.599]**: This is insane. Now, emails was just the start. You can actually use the same AI
+- **[00:02:15.910]**: start. You can actually use the same AI
+- **[00:02:15.920]**: start. You can actually use the same AI with a few tweaks to write a lot more
+- **[00:02:17.990]**: with a few tweaks to write a lot more
+- **[00:02:18.000]**: with a few tweaks to write a lot more than emails. For example, you can write
+- **[00:02:19.750]**: than emails. For example, you can write
+- **[00:02:19.760]**: than emails. For example, you can write scripts. You can write YouTube scripts
+- **[00:02:21.030]**: scripts. You can write YouTube scripts
+- **[00:02:21.040]**: scripts. You can write YouTube scripts or show scripts. You can feed the AI
+- **[00:02:22.949]**: or show scripts. You can feed the AI
+- **[00:02:22.959]**: or show scripts. You can feed the AI some Mr. beast videos and say how
+- **[00:02:24.869]**: some Mr. beast videos and say how
+- **[00:02:24.879]**: some Mr. beast videos and say how amazing he is at retention and all the
+- **[00:02:26.470]**: amazing he is at retention and all the
+- **[00:02:26.480]**: amazing he is at retention and all the tactics that he's using in his scripts
+- **[00:02:28.309]**: tactics that he's using in his scripts
+- **[00:02:28.319]**: tactics that he's using in his scripts and you can ask it to replicate those
+- **[00:02:29.990]**: and you can ask it to replicate those
+- **[00:02:30.000]**: and you can ask it to replicate those for a specific guy. Send him 10 video
+- **[00:02:31.990]**: for a specific guy. Send him 10 video
+- **[00:02:32.000]**: for a specific guy. Send him 10 video ideas and charge him 100 bucks. Same
+- **[00:02:33.830]**: ideas and charge him 100 bucks. Same
+- **[00:02:33.840]**: ideas and charge him 100 bucks. Same thing. It's going to take you two to
+- **[00:02:35.430]**: thing. It's going to take you two to
+- **[00:02:35.440]**: thing. It's going to take you two to five hours and you made 100 bucks in a
+- **[00:02:37.430]**: five hours and you made 100 bucks in a
+- **[00:02:37.440]**: five hours and you made 100 bucks in a single day. Now, if scripts are not your
+- **[00:02:38.869]**: single day. Now, if scripts are not your
+- **[00:02:38.879]**: single day. Now, if scripts are not your thing, you can do other things like ad.
+- **[00:02:40.949]**: thing, you can do other things like ad.
+- **[00:02:40.959]**: thing, you can do other things like ad. You can script Facebook ads, Google ads
+- **[00:02:42.869]**: You can script Facebook ads, Google ads
+- **[00:02:42.879]**: You can script Facebook ads, Google ads for people. Same thing. Look at great
+- **[00:02:44.790]**: for people. Same thing. Look at great
+- **[00:02:44.800]**: for people. Same thing. Look at great people who are doing it, feed it to the
+- **[00:02:46.390]**: people who are doing it, feed it to the
+- **[00:02:46.400]**: people who are doing it, feed it to the AI, give it the logic and replicate it
+- **[00:02:48.630]**: AI, give it the logic and replicate it
+- **[00:02:48.640]**: AI, give it the logic and replicate it for other people. You can make PDFs or
+- **[00:02:51.030]**: for other people. You can make PDFs or
+- **[00:02:51.040]**: for other people. You can make PDFs or guides for those people. Lastly, a thing
+- **[00:02:53.430]**: guides for those people. Lastly, a thing
+- **[00:02:53.440]**: guides for those people. Lastly, a thing that I myself use is websites. My
+- **[00:02:56.070]**: that I myself use is websites. My
+- **[00:02:56.080]**: that I myself use is websites. My websites, my funnels have copyrightiting
+- **[00:02:58.710]**: websites, my funnels have copyrightiting
+- **[00:02:58.720]**: websites, my funnels have copyrightiting all the way. The titles, the headlines,
+- **[00:03:01.270]**: all the way. The titles, the headlines,
+- **[00:03:01.280]**: all the way. The titles, the headlines, the sub headlines, how the customers are
+- **[00:03:02.949]**: the sub headlines, how the customers are
+- **[00:03:02.959]**: the sub headlines, how the customers are going to think, how the customer
+- **[00:03:04.070]**: going to think, how the customer
+- **[00:03:04.080]**: going to think, how the customer experience is going to be if we use this
+- **[00:03:05.670]**: experience is going to be if we use this
+- **[00:03:05.680]**: experience is going to be if we use this sentence instead of this one. Same
+- **[00:03:07.350]**: sentence instead of this one. Same
+- **[00:03:07.360]**: sentence instead of this one. Same thing. And lastly, once you close a few
+- **[00:03:09.350]**: thing. And lastly, once you close a few
+- **[00:03:09.360]**: thing. And lastly, once you close a few clients, you might want to turn this
+- **[00:03:10.710]**: clients, you might want to turn this
+- **[00:03:10.720]**: clients, you might want to turn this into a remote job. For example, when I
+- **[00:03:13.270]**: into a remote job. For example, when I
+- **[00:03:13.280]**: into a remote job. For example, when I hire copyriters, I start by making them
+- **[00:03:15.110]**: hire copyriters, I start by making them
+- **[00:03:15.120]**: hire copyriters, I start by making them write one to two simple emails. If
+- **[00:03:17.030]**: write one to two simple emails. If
+- **[00:03:17.040]**: write one to two simple emails. If they're good, I make them write a five
+- **[00:03:18.229]**: they're good, I make them write a five
+- **[00:03:18.239]**: they're good, I make them write a five to 10 email sequence. and if they're
+- **[00:03:19.750]**: to 10 email sequence. and if they're
+- **[00:03:19.760]**: to 10 email sequence. and if they're really good, I'd offer them a full-time
+- **[00:03:21.589]**: really good, I'd offer them a full-time
+- **[00:03:21.599]**: really good, I'd offer them a full-time job at my company. Now, to give you some
+- **[00:03:23.670]**: job at my company. Now, to give you some
+- **[00:03:23.680]**: job at my company. Now, to give you some actual numbers, an email on average,
+- **[00:03:26.149]**: actual numbers, an email on average,
+- **[00:03:26.159]**: actual numbers, an email on average, generally speaking, cost between $ 20
+- **[00:03:27.910]**: generally speaking, cost between $ 20
+- **[00:03:27.920]**: generally speaking, cost between $ 20 and $100. Now, if you're writing it with
+- **[00:03:29.990]**: and $100. Now, if you're writing it with
+- **[00:03:30.000]**: and $100. Now, if you're writing it with AI, you can compete so much on volume.
+- **[00:03:32.630]**: AI, you can compete so much on volume.
+- **[00:03:32.640]**: AI, you can compete so much on volume. And if you offer 10 emails for $150 and
+- **[00:03:35.270]**: And if you offer 10 emails for $150 and
+- **[00:03:35.280]**: And if you offer 10 emails for $150 and they are really good, I guarantee you
+- **[00:03:36.789]**: they are really good, I guarantee you
+- **[00:03:36.799]**: they are really good, I guarantee you you'll close clients. Now, in position
+- **[00:03:38.630]**: you'll close clients. Now, in position
+- **[00:03:38.640]**: you'll close clients. Now, in position number two, we have a side hustle that
+- **[00:03:40.390]**: number two, we have a side hustle that
+- **[00:03:40.400]**: number two, we have a side hustle that can make you a lot of money depending on
+- **[00:03:42.149]**: can make you a lot of money depending on
+- **[00:03:42.159]**: can make you a lot of money depending on how available you are, and that is high
+- **[00:03:44.470]**: how available you are, and that is high
+- **[00:03:44.480]**: how available you are, and that is high ticket sales. High ticket sales is
+- **[00:03:46.070]**: ticket sales. High ticket sales is
+- **[00:03:46.080]**: ticket sales. High ticket sales is basically you taking sales calls over
+- **[00:03:48.390]**: basically you taking sales calls over
+- **[00:03:48.400]**: basically you taking sales calls over the phone to sell people a certain
+- **[00:03:50.229]**: the phone to sell people a certain
+- **[00:03:50.239]**: the phone to sell people a certain solution. Usually you get paid about 10%
+- **[00:03:52.789]**: solution. Usually you get paid about 10%
+- **[00:03:52.799]**: solution. Usually you get paid about 10% of whatever you sell. You earn what you
+- **[00:03:54.710]**: of whatever you sell. You earn what you
+- **[00:03:54.720]**: of whatever you sell. You earn what you kill. The products are on average $1,500
+- **[00:03:57.350]**: kill. The products are on average $1,500
+- **[00:03:57.360]**: kill. The products are on average $1,500 to $10,000 and the average close rate is
+- **[00:04:00.869]**: to $10,000 and the average close rate is
+- **[00:04:00.879]**: to $10,000 and the average close rate is 20%. So let's say you're taking five
+- **[00:04:03.670]**: 20%. So let's say you're taking five
+- **[00:04:03.680]**: 20%. So let's say you're taking five calls per day to guarantee that you make
+- **[00:04:07.030]**: calls per day to guarantee that you make
+- **[00:04:07.040]**: calls per day to guarantee that you make at least one sale every single day.
+- **[00:04:09.270]**: at least one sale every single day.
+- **[00:04:09.280]**: at least one sale every single day. There are 1 hour calls. So that will
+- **[00:04:10.710]**: There are 1 hour calls. So that will
+- **[00:04:10.720]**: There are 1 hour calls. So that will take you five hours and you're
+- **[00:04:12.470]**: take you five hours and you're
+- **[00:04:12.480]**: take you five hours and you're guaranteed to make between 150 bucks and
+- **[00:04:15.429]**: guaranteed to make between 150 bucks and
+- **[00:04:15.439]**: guaranteed to make between 150 bucks and a,000 bucks. And mainly there are three
+- **[00:04:17.830]**: a,000 bucks. And mainly there are three
+- **[00:04:17.840]**: a,000 bucks. And mainly there are three requirements that you must have if you
+- **[00:04:19.270]**: requirements that you must have if you
+- **[00:04:19.280]**: requirements that you must have if you want to really succeed in high ticket
+- **[00:04:20.870]**: want to really succeed in high ticket
+- **[00:04:20.880]**: want to really succeed in high ticket sales. Specifically for these numbers
+- **[00:04:22.390]**: sales. Specifically for these numbers
+- **[00:04:22.400]**: sales. Specifically for these numbers that I gave you, they are for the US
+- **[00:04:24.070]**: that I gave you, they are for the US
+- **[00:04:24.080]**: that I gave you, they are for the US market. Don't worry, you can do high
+- **[00:04:25.590]**: market. Don't worry, you can do high
+- **[00:04:25.600]**: market. Don't worry, you can do high ticket sales anywhere in the world, but
+- **[00:04:27.350]**: ticket sales anywhere in the world, but
+- **[00:04:27.360]**: ticket sales anywhere in the world, but you would be selling to USA prospect,
+- **[00:04:29.830]**: you would be selling to USA prospect,
+- **[00:04:29.840]**: you would be selling to USA prospect, American guys. Now, for those three
+- **[00:04:31.350]**: American guys. Now, for those three
+- **[00:04:31.360]**: American guys. Now, for those three requirements, number one is being native
+- **[00:04:33.670]**: requirements, number one is being native
+- **[00:04:33.680]**: requirements, number one is being native English or really good at English to the
+- **[00:04:35.909]**: English or really good at English to the
+- **[00:04:35.919]**: English or really good at English to the point where we can't notice it because
+- **[00:04:37.189]**: point where we can't notice it because
+- **[00:04:37.199]**: point where we can't notice it because you'll be speaking to native English
+- **[00:04:39.350]**: you'll be speaking to native English
+- **[00:04:39.360]**: you'll be speaking to native English customers. They won't really like if you
+- **[00:04:40.790]**: customers. They won't really like if you
+- **[00:04:40.800]**: customers. They won't really like if you have a very thick accent. Number two,
+- **[00:04:42.310]**: have a very thick accent. Number two,
+- **[00:04:42.320]**: have a very thick accent. Number two, you need to be charismatic. I'm sorry,
+- **[00:04:44.230]**: you need to be charismatic. I'm sorry,
+- **[00:04:44.240]**: you need to be charismatic. I'm sorry, sales is a game of energy. If you're not
+- **[00:04:46.310]**: sales is a game of energy. If you're not
+- **[00:04:46.320]**: sales is a game of energy. If you're not slick, if you can't speak to people in a
+- **[00:04:47.990]**: slick, if you can't speak to people in a
+- **[00:04:48.000]**: slick, if you can't speak to people in a great way and you can, you know, crack
+- **[00:04:49.430]**: great way and you can, you know, crack
+- **[00:04:49.440]**: great way and you can, you know, crack some jokes and then get the mic in the
+- **[00:04:50.710]**: some jokes and then get the mic in the
+- **[00:04:50.720]**: some jokes and then get the mic in the sale, high ticket sales is maybe not for
+- **[00:04:52.790]**: sale, high ticket sales is maybe not for
+- **[00:04:52.800]**: sale, high ticket sales is maybe not for you. And lastly, you need to be super,
+- **[00:04:54.950]**: you. And lastly, you need to be super,
+- **[00:04:54.960]**: you. And lastly, you need to be super, super resilient. Sales is a numbers
+- **[00:04:57.350]**: super resilient. Sales is a numbers
+- **[00:04:57.360]**: super resilient. Sales is a numbers game. You need to be dialing the phone
+- **[00:04:59.030]**: game. You need to be dialing the phone
+- **[00:04:59.040]**: game. You need to be dialing the phone all day speaking to people all the time.
+- **[00:05:01.430]**: all day speaking to people all the time.
+- **[00:05:01.440]**: all day speaking to people all the time. And if you're not ready to have people
+- **[00:05:02.950]**: And if you're not ready to have people
+- **[00:05:02.960]**: And if you're not ready to have people saying, "No, I don't want to buy your
+- **[00:05:04.310]**: saying, "No, I don't want to buy your
+- **[00:05:04.320]**: saying, "No, I don't want to buy your thing. I hate you. Don't call me back."
+- **[00:05:05.990]**: thing. I hate you. Don't call me back."
+- **[00:05:06.000]**: thing. I hate you. Don't call me back." And then you pick up the phone again and
+- **[00:05:07.270]**: And then you pick up the phone again and
+- **[00:05:07.280]**: And then you pick up the phone again and you call someone else and you're super
+- **[00:05:08.710]**: you call someone else and you're super
+- **[00:05:08.720]**: you call someone else and you're super happy and excited, then high ticket
+- **[00:05:10.390]**: happy and excited, then high ticket
+- **[00:05:10.400]**: happy and excited, then high ticket sales again might not be for you. Now,
+- **[00:05:11.909]**: sales again might not be for you. Now,
+- **[00:05:11.919]**: sales again might not be for you. Now, if you have those requirements, you're
+- **[00:05:13.430]**: if you have those requirements, you're
+- **[00:05:13.440]**: if you have those requirements, you're going to make a lot of money with high
+- **[00:05:14.629]**: going to make a lot of money with high
+- **[00:05:14.639]**: going to make a lot of money with high ticket sales. Now, if you heard
+- **[00:05:15.670]**: ticket sales. Now, if you heard
+- **[00:05:15.680]**: ticket sales. Now, if you heard everything I mentioned about high ticket
+- **[00:05:16.870]**: everything I mentioned about high ticket
+- **[00:05:16.880]**: everything I mentioned about high ticket sales, you were hyped, but then you
+- **[00:05:18.150]**: sales, you were hyped, but then you
+- **[00:05:18.160]**: sales, you were hyped, but then you heard the requirements and you're like,
+- **[00:05:19.430]**: heard the requirements and you're like,
+- **[00:05:19.440]**: heard the requirements and you're like, "I don't have it. There's no way."
+- **[00:05:21.110]**: "I don't have it. There's no way."
+- **[00:05:21.120]**: "I don't have it. There's no way." Habibi, don't worry. I got you. You can
+- **[00:05:22.790]**: Habibi, don't worry. I got you. You can
+- **[00:05:22.800]**: Habibi, don't worry. I got you. You can do appointment setting. Appointment
+- **[00:05:24.150]**: do appointment setting. Appointment
+- **[00:05:24.160]**: do appointment setting. Appointment setting is basically high ticket sales
+- **[00:05:26.230]**: setting is basically high ticket sales
+- **[00:05:26.240]**: setting is basically high ticket sales that pays a little bit less but you
+- **[00:05:28.070]**: that pays a little bit less but you
+- **[00:05:28.080]**: that pays a little bit less but you don't need none of the requirements
+- **[00:05:29.670]**: don't need none of the requirements
+- **[00:05:29.680]**: don't need none of the requirements because you can do what's called DM
+- **[00:05:31.430]**: because you can do what's called DM
+- **[00:05:31.440]**: because you can do what's called DM setting. Basically you see those people
+- **[00:05:33.270]**: setting. Basically you see those people
+- **[00:05:33.280]**: setting. Basically you see those people that speak on the phone all day and sell
+- **[00:05:34.950]**: that speak on the phone all day and sell
+- **[00:05:34.960]**: that speak on the phone all day and sell to those people they are speaking to
+- **[00:05:36.390]**: to those people they are speaking to
+- **[00:05:36.400]**: to those people they are speaking to them because they have appointments
+- **[00:05:37.510]**: them because they have appointments
+- **[00:05:37.520]**: them because they have appointments because basically people agreed to speak
+- **[00:05:39.510]**: because basically people agreed to speak
+- **[00:05:39.520]**: because basically people agreed to speak with them over the phone. And who set
+- **[00:05:41.110]**: with them over the phone. And who set
+- **[00:05:41.120]**: with them over the phone. And who set those appointments? Appointment sellers.
+- **[00:05:42.790]**: those appointments? Appointment sellers.
+- **[00:05:42.800]**: those appointments? Appointment sellers. So your job would be converting leads
+- **[00:05:45.430]**: So your job would be converting leads
+- **[00:05:45.440]**: So your job would be converting leads people who are interested in a product
+- **[00:05:46.950]**: people who are interested in a product
+- **[00:05:46.960]**: people who are interested in a product to people who are speaking over the
+- **[00:05:49.029]**: to people who are speaking over the
+- **[00:05:49.039]**: to people who are speaking over the phone with your closers. And your job
+- **[00:05:51.270]**: phone with your closers. And your job
+- **[00:05:51.280]**: phone with your closers. And your job with appointment setting is just to set
+- **[00:05:53.270]**: with appointment setting is just to set
+- **[00:05:53.280]**: with appointment setting is just to set those leads that are interested in the
+- **[00:05:55.029]**: those leads that are interested in the
+- **[00:05:55.039]**: those leads that are interested in the solution into appointments. And to do
+- **[00:05:57.189]**: solution into appointments. And to do
+- **[00:05:57.199]**: solution into appointments. And to do so, you want to do three simple things.
+- **[00:05:59.590]**: so, you want to do three simple things.
+- **[00:05:59.600]**: so, you want to do three simple things. And it starts with the qualification
+- **[00:06:01.350]**: And it starts with the qualification
+- **[00:06:01.360]**: And it starts with the qualification part. You don't want to waste your
+- **[00:06:02.550]**: part. You don't want to waste your
+- **[00:06:02.560]**: part. You don't want to waste your closest time because their time is very
+- **[00:06:04.150]**: closest time because their time is very
+- **[00:06:04.160]**: closest time because their time is very valuable and they want to take as many
+- **[00:06:05.590]**: valuable and they want to take as many
+- **[00:06:05.600]**: valuable and they want to take as many calls as possible. And since they only
+- **[00:06:07.830]**: calls as possible. And since they only
+- **[00:06:07.840]**: calls as possible. And since they only eat what they kill, they get paid a
+- **[00:06:09.510]**: eat what they kill, they get paid a
+- **[00:06:09.520]**: eat what they kill, they get paid a percentage. Then you must send them
+- **[00:06:11.270]**: percentage. Then you must send them
+- **[00:06:11.280]**: percentage. Then you must send them qualified people. Otherwise, they're
+- **[00:06:13.029]**: qualified people. Otherwise, they're
+- **[00:06:13.039]**: qualified people. Otherwise, they're going to hate you. The second thing you
+- **[00:06:14.230]**: going to hate you. The second thing you
+- **[00:06:14.240]**: going to hate you. The second thing you want to do as an appointment setter
+- **[00:06:15.590]**: want to do as an appointment setter
+- **[00:06:15.600]**: want to do as an appointment setter while you're talking to the prospect is
+- **[00:06:17.189]**: while you're talking to the prospect is
+- **[00:06:17.199]**: while you're talking to the prospect is setting the expectations. It's basically
+- **[00:06:19.510]**: setting the expectations. It's basically
+- **[00:06:19.520]**: setting the expectations. It's basically preparing the sale for the guy, making
+- **[00:06:21.830]**: preparing the sale for the guy, making
+- **[00:06:21.840]**: preparing the sale for the guy, making it easier for your sales guy. You're
+- **[00:06:23.189]**: it easier for your sales guy. You're
+- **[00:06:23.199]**: it easier for your sales guy. You're basically telling them, hey, this is the
+- **[00:06:24.790]**: basically telling them, hey, this is the
+- **[00:06:24.800]**: basically telling them, hey, this is the solution. Here's how amazing it's going
+- **[00:06:26.150]**: solution. Here's how amazing it's going
+- **[00:06:26.160]**: solution. Here's how amazing it's going to be. You prepare the ground, make it
+- **[00:06:27.909]**: to be. You prepare the ground, make it
+- **[00:06:27.919]**: to be. You prepare the ground, make it easy for them, make sure they can afford
+- **[00:06:29.430]**: easy for them, make sure they can afford
+- **[00:06:29.440]**: easy for them, make sure they can afford it, they also understand it makes sense,
+- **[00:06:30.870]**: it, they also understand it makes sense,
+- **[00:06:30.880]**: it, they also understand it makes sense, everything's good, everything's ready.
+- **[00:06:32.150]**: everything's good, everything's ready.
+- **[00:06:32.160]**: everything's good, everything's ready. You set the expectation on this call.
+- **[00:06:33.830]**: You set the expectation on this call.
+- **[00:06:33.840]**: You set the expectation on this call. You're going to buy our product. And
+- **[00:06:35.510]**: You're going to buy our product. And
+- **[00:06:35.520]**: You're going to buy our product. And lastly, if they are qualified, they have
+- **[00:06:37.830]**: lastly, if they are qualified, they have
+- **[00:06:37.840]**: lastly, if they are qualified, they have the right expectation, they're ready to
+- **[00:06:39.350]**: the right expectation, they're ready to
+- **[00:06:39.360]**: the right expectation, they're ready to move forward, then set the call. You're
+- **[00:06:41.990]**: move forward, then set the call. You're
+- **[00:06:42.000]**: move forward, then set the call. You're simply going to send them a calendar
+- **[00:06:43.350]**: simply going to send them a calendar
+- **[00:06:43.360]**: simply going to send them a calendar link for them to book a call at a time
+- **[00:06:44.790]**: link for them to book a call at a time
+- **[00:06:44.800]**: link for them to book a call at a time that works for them so they can speak to
+- **[00:06:46.070]**: that works for them so they can speak to
+- **[00:06:46.080]**: that works for them so they can speak to a closer and buy the product. If they
+- **[00:06:47.830]**: a closer and buy the product. If they
+- **[00:06:47.840]**: a closer and buy the product. If they end up buying the product, you'll make
+- **[00:06:49.590]**: end up buying the product, you'll make
+- **[00:06:49.600]**: end up buying the product, you'll make 5% of the sale on average, which with
+- **[00:06:52.309]**: 5% of the sale on average, which with
+- **[00:06:52.319]**: 5% of the sale on average, which with the same numbers that we had before, you
+- **[00:06:53.990]**: the same numbers that we had before, you
+- **[00:06:54.000]**: the same numbers that we had before, you can make from $75 to $500 bucks per
+- **[00:06:57.830]**: can make from $75 to $500 bucks per
+- **[00:06:57.840]**: can make from $75 to $500 bucks per sale. For sellers, I have some
+- **[00:06:59.350]**: sale. For sellers, I have some
+- **[00:06:59.360]**: sale. For sellers, I have some appointment sellers on my team booking
+- **[00:07:00.790]**: appointment sellers on my team booking
+- **[00:07:00.800]**: appointment sellers on my team booking 11, 15 up to 20 calls per day. Imagine
+- **[00:07:03.830]**: 11, 15 up to 20 calls per day. Imagine
+- **[00:07:03.840]**: 11, 15 up to 20 calls per day. Imagine how much you can make if you make $75,
+- **[00:07:06.150]**: how much you can make if you make $75,
+- **[00:07:06.160]**: how much you can make if you make $75, which is the low end, $75 per call, and
+- **[00:07:08.870]**: which is the low end, $75 per call, and
+- **[00:07:08.880]**: which is the low end, $75 per call, and you book 20 calls. Let's say half of
+- **[00:07:11.270]**: you book 20 calls. Let's say half of
+- **[00:07:11.280]**: you book 20 calls. Let's say half of them end up closing. That's 750 bucks
+- **[00:07:13.909]**: them end up closing. That's 750 bucks
+- **[00:07:13.919]**: them end up closing. That's 750 bucks for one single day of work. I'm telling
+- **[00:07:15.909]**: for one single day of work. I'm telling
+- **[00:07:15.919]**: for one single day of work. I'm telling you, the side hustles are real. Do your
+- **[00:07:17.670]**: you, the side hustles are real. Do your
+- **[00:07:17.680]**: you, the side hustles are real. Do your research, but I'm telling you,
+- **[00:07:18.790]**: research, but I'm telling you,
+- **[00:07:18.800]**: research, but I'm telling you, appointment setting is the real game. I
+- **[00:07:20.390]**: appointment setting is the real game. I
+- **[00:07:20.400]**: appointment setting is the real game. I personally have appointment setters that
+- **[00:07:21.990]**: personally have appointment setters that
+- **[00:07:22.000]**: personally have appointment setters that work for me. And last month, I paid my
+- **[00:07:23.990]**: work for me. And last month, I paid my
+- **[00:07:24.000]**: work for me. And last month, I paid my top appointment setter $6,000 cash. A
+- **[00:07:26.950]**: top appointment setter $6,000 cash. A
+- **[00:07:26.960]**: top appointment setter $6,000 cash. A lot better. Now, enough talk about
+- **[00:07:28.550]**: lot better. Now, enough talk about
+- **[00:07:28.560]**: lot better. Now, enough talk about selling stuff and taking people's money
+- **[00:07:30.230]**: selling stuff and taking people's money
+- **[00:07:30.240]**: selling stuff and taking people's money and maybe you're more of a calm, chill
+- **[00:07:31.909]**: and maybe you're more of a calm, chill
+- **[00:07:31.919]**: and maybe you're more of a calm, chill guy that just has a bit of creativity,
+- **[00:07:33.909]**: guy that just has a bit of creativity,
+- **[00:07:33.919]**: guy that just has a bit of creativity, then video editing might be for you.
+- **[00:07:36.469]**: then video editing might be for you.
+- **[00:07:36.479]**: then video editing might be for you. Video editing is a bit harder to learn
+- **[00:07:38.550]**: Video editing is a bit harder to learn
+- **[00:07:38.560]**: Video editing is a bit harder to learn when you're a beginner. It takes some
+- **[00:07:39.909]**: when you're a beginner. It takes some
+- **[00:07:39.919]**: when you're a beginner. It takes some time. The AI tools so far are not really
+- **[00:07:41.990]**: time. The AI tools so far are not really
+- **[00:07:42.000]**: time. The AI tools so far are not really good for video editing. So you might
+- **[00:07:43.589]**: good for video editing. So you might
+- **[00:07:43.599]**: good for video editing. So you might need to learn the skill by yourself. I
+- **[00:07:45.589]**: need to learn the skill by yourself. I
+- **[00:07:45.599]**: need to learn the skill by yourself. I advise you to learn very very very
+- **[00:07:47.909]**: advise you to learn very very very
+- **[00:07:47.919]**: advise you to learn very very very specific styles of video editing that
+- **[00:07:50.070]**: specific styles of video editing that
+- **[00:07:50.080]**: specific styles of video editing that are in demand. And there are a few that
+- **[00:07:51.350]**: are in demand. And there are a few that
+- **[00:07:51.360]**: are in demand. And there are a few that I can name. Now most editors say that
+- **[00:07:53.350]**: I can name. Now most editors say that
+- **[00:07:53.360]**: I can name. Now most editors say that the market is saturated. But
+- **[00:07:54.550]**: the market is saturated. But
+- **[00:07:54.560]**: the market is saturated. But realistically no market is saturated.
+- **[00:07:56.469]**: realistically no market is saturated.
+- **[00:07:56.479]**: realistically no market is saturated. They're just saturated offers. And to
+- **[00:07:58.070]**: They're just saturated offers. And to
+- **[00:07:58.080]**: They're just saturated offers. And to name a few, for example, everyone is
+- **[00:07:59.670]**: name a few, for example, everyone is
+- **[00:07:59.680]**: name a few, for example, everyone is copying the Iman Gatsi style with fancy
+- **[00:08:02.070]**: copying the Iman Gatsi style with fancy
+- **[00:08:02.080]**: copying the Iman Gatsi style with fancy animations and a bunch of effects. And
+- **[00:08:03.909]**: animations and a bunch of effects. And
+- **[00:08:03.919]**: animations and a bunch of effects. And that's why you think video editing is
+- **[00:08:05.830]**: that's why you think video editing is
+- **[00:08:05.840]**: that's why you think video editing is saturated cuz you're just doing what
+- **[00:08:07.350]**: saturated cuz you're just doing what
+- **[00:08:07.360]**: saturated cuz you're just doing what everyone else is doing. Now, on the
+- **[00:08:08.710]**: everyone else is doing. Now, on the
+- **[00:08:08.720]**: everyone else is doing. Now, on the other hand, if you become really good
+- **[00:08:09.749]**: other hand, if you become really good
+- **[00:08:09.759]**: other hand, if you become really good at, for example, editing vlogs, of
+- **[00:08:11.830]**: at, for example, editing vlogs, of
+- **[00:08:11.840]**: at, for example, editing vlogs, of course, make sure you don't use music,
+- **[00:08:13.110]**: course, make sure you don't use music,
+- **[00:08:13.120]**: course, make sure you don't use music, but you can put find a great way to put
+- **[00:08:14.710]**: but you can put find a great way to put
+- **[00:08:14.720]**: but you can put find a great way to put a climp in a nice order, make it feel
+- **[00:08:16.710]**: a climp in a nice order, make it feel
+- **[00:08:16.720]**: a climp in a nice order, make it feel cinematic, etc. You're going to make a
+- **[00:08:18.469]**: cinematic, etc. You're going to make a
+- **[00:08:18.479]**: cinematic, etc. You're going to make a bunch of money. To give you an idea, a
+- **[00:08:20.230]**: bunch of money. To give you an idea, a
+- **[00:08:20.240]**: bunch of money. To give you an idea, a vlog cost between 200 and 500 bucks to
+- **[00:08:22.309]**: vlog cost between 200 and 500 bucks to
+- **[00:08:22.319]**: vlog cost between 200 and 500 bucks to edit, and you can edit a vlog in two to
+- **[00:08:24.150]**: edit, and you can edit a vlog in two to
+- **[00:08:24.160]**: edit, and you can edit a vlog in two to five days. So, again, making $100 a day.
+- **[00:08:26.390]**: five days. So, again, making $100 a day.
+- **[00:08:26.400]**: five days. So, again, making $100 a day. Now, if you don't really like vlogs and
+- **[00:08:27.830]**: Now, if you don't really like vlogs and
+- **[00:08:27.840]**: Now, if you don't really like vlogs and you're more of a chill guy, you like to
+- **[00:08:29.909]**: you're more of a chill guy, you like to
+- **[00:08:29.919]**: you're more of a chill guy, you like to learn things as well as your work, you
+- **[00:08:31.670]**: learn things as well as your work, you
+- **[00:08:31.680]**: learn things as well as your work, you might want to do documentaries, which is
+- **[00:08:33.589]**: might want to do documentaries, which is
+- **[00:08:33.599]**: might want to do documentaries, which is basically educational content. This
+- **[00:08:35.350]**: basically educational content. This
+- **[00:08:35.360]**: basically educational content. This video that you're watching right now
+- **[00:08:36.469]**: video that you're watching right now
+- **[00:08:36.479]**: video that you're watching right now could fall under the category of
+- **[00:08:37.909]**: could fall under the category of
+- **[00:08:37.919]**: could fall under the category of documentary content. It doesn't have any
+- **[00:08:39.589]**: documentary content. It doesn't have any
+- **[00:08:39.599]**: documentary content. It doesn't have any music. You don't have to make excuses
+- **[00:08:41.029]**: music. You don't have to make excuses
+- **[00:08:41.039]**: music. You don't have to make excuses and say, "Oh, my clients have music this
+- **[00:08:42.870]**: and say, "Oh, my clients have music this
+- **[00:08:42.880]**: and say, "Oh, my clients have music this and that." You can just find the right
+- **[00:08:44.070]**: and that." You can just find the right
+- **[00:08:44.080]**: and that." You can just find the right clients by either them being Muslim and
+- **[00:08:45.990]**: clients by either them being Muslim and
+- **[00:08:46.000]**: clients by either them being Muslim and not using music, or you can find people
+- **[00:08:47.829]**: not using music, or you can find people
+- **[00:08:47.839]**: not using music, or you can find people who just don't need music by default.
+- **[00:08:49.829]**: who just don't need music by default.
+- **[00:08:49.839]**: who just don't need music by default. And lastly, with video editing, you can
+- **[00:08:51.829]**: And lastly, with video editing, you can
+- **[00:08:51.839]**: And lastly, with video editing, you can do short form editing, specifically
+- **[00:08:54.630]**: do short form editing, specifically
+- **[00:08:54.640]**: do short form editing, specifically repurposing, which is basically you
+- **[00:08:56.470]**: repurposing, which is basically you
+- **[00:08:56.480]**: repurposing, which is basically you taking long- form YouTube videos from
+- **[00:08:58.470]**: taking long- form YouTube videos from
+- **[00:08:58.480]**: taking long- form YouTube videos from creators and editing them for them to
+- **[00:09:00.389]**: creators and editing them for them to
+- **[00:09:00.399]**: creators and editing them for them to post them on their social media, Tik
+- **[00:09:02.470]**: post them on their social media, Tik
+- **[00:09:02.480]**: post them on their social media, Tik Tok, Instagram, and YouTube Shorts. Now,
+- **[00:09:04.630]**: Tok, Instagram, and YouTube Shorts. Now,
+- **[00:09:04.640]**: Tok, Instagram, and YouTube Shorts. Now, for short form repurposing, there are so
+- **[00:09:06.710]**: for short form repurposing, there are so
+- **[00:09:06.720]**: for short form repurposing, there are so many people that are doing it already,
+- **[00:09:08.389]**: many people that are doing it already,
+- **[00:09:08.399]**: many people that are doing it already, but this market has so much money to be
+- **[00:09:10.310]**: but this market has so much money to be
+- **[00:09:10.320]**: but this market has so much money to be made, and I'll show you how. First, be
+- **[00:09:12.150]**: made, and I'll show you how. First, be
+- **[00:09:12.160]**: made, and I'll show you how. First, be really good at it and specifically at
+- **[00:09:14.070]**: really good at it and specifically at
+- **[00:09:14.080]**: really good at it and specifically at retention on shorts because short form
+- **[00:09:16.150]**: retention on shorts because short form
+- **[00:09:16.160]**: retention on shorts because short form is going to be on short form platforms
+- **[00:09:17.750]**: is going to be on short form platforms
+- **[00:09:17.760]**: is going to be on short form platforms and people have a fried brain. So, if
+- **[00:09:19.190]**: and people have a fried brain. So, if
+- **[00:09:19.200]**: and people have a fried brain. So, if you're not really good at making
+- **[00:09:20.630]**: you're not really good at making
+- **[00:09:20.640]**: you're not really good at making retention edits, then you shouldn't do
+- **[00:09:22.630]**: retention edits, then you shouldn't do
+- **[00:09:22.640]**: retention edits, then you shouldn't do short form. Now, how you can learn short
+- **[00:09:24.310]**: short form. Now, how you can learn short
+- **[00:09:24.320]**: short form. Now, how you can learn short form retention is by watching on
+- **[00:09:25.990]**: form retention is by watching on
+- **[00:09:26.000]**: form retention is by watching on YouTube. Again, plenty of tutorials.
+- **[00:09:27.590]**: YouTube. Again, plenty of tutorials.
+- **[00:09:27.600]**: YouTube. Again, plenty of tutorials. There are people who are expert at
+- **[00:09:29.030]**: There are people who are expert at
+- **[00:09:29.040]**: There are people who are expert at retention and you can learn how that
+- **[00:09:30.550]**: retention and you can learn how that
+- **[00:09:30.560]**: retention and you can learn how that works. Now, once that you know how
+- **[00:09:31.910]**: works. Now, once that you know how
+- **[00:09:31.920]**: works. Now, once that you know how retention works, you can go to YouTubers
+- **[00:09:34.630]**: retention works, you can go to YouTubers
+- **[00:09:34.640]**: retention works, you can go to YouTubers and offer to repurpose their content on
+- **[00:09:37.509]**: and offer to repurpose their content on
+- **[00:09:37.519]**: and offer to repurpose their content on other platforms. Also, if you want to go
+- **[00:09:39.670]**: other platforms. Also, if you want to go
+- **[00:09:39.680]**: other platforms. Also, if you want to go further and really make an offer that's
+- **[00:09:41.590]**: further and really make an offer that's
+- **[00:09:41.600]**: further and really make an offer that's really good, you can ask the clients to
+- **[00:09:43.990]**: really good, you can ask the clients to
+- **[00:09:44.000]**: really good, you can ask the clients to add you to their YouTube studio.
+- **[00:09:45.430]**: add you to their YouTube studio.
+- **[00:09:45.440]**: add you to their YouTube studio. Basically, this will allow you to check
+- **[00:09:47.190]**: Basically, this will allow you to check
+- **[00:09:47.200]**: Basically, this will allow you to check the retention chart of the initial video
+- **[00:09:49.430]**: the retention chart of the initial video
+- **[00:09:49.440]**: the retention chart of the initial video and you can see the spikes and where
+- **[00:09:50.949]**: and you can see the spikes and where
+- **[00:09:50.959]**: and you can see the spikes and where people specifically put a like or where
+- **[00:09:52.949]**: people specifically put a like or where
+- **[00:09:52.959]**: people specifically put a like or where people specifically watch a lot of the
+- **[00:09:54.790]**: people specifically watch a lot of the
+- **[00:09:54.800]**: people specifically watch a lot of the video or put a comment on it or you can
+- **[00:09:56.550]**: video or put a comment on it or you can
+- **[00:09:56.560]**: video or put a comment on it or you can go to the comment section and see when
+- **[00:09:58.150]**: go to the comment section and see when
+- **[00:09:58.160]**: go to the comment section and see when people you know when they put the
+- **[00:09:59.110]**: people you know when they put the
+- **[00:09:59.120]**: people you know when they put the timestamps and they say, "Oh, 4 minute
+- **[00:10:00.949]**: timestamps and they say, "Oh, 4 minute
+- **[00:10:00.959]**: timestamps and they say, "Oh, 4 minute 55 amazing advice." Then you take this
+- **[00:10:03.030]**: 55 amazing advice." Then you take this
+- **[00:10:03.040]**: 55 amazing advice." Then you take this clip at 4 minute 55. You edit it in a
+- **[00:10:05.509]**: clip at 4 minute 55. You edit it in a
+- **[00:10:05.519]**: clip at 4 minute 55. You edit it in a nice way where people can get the whole
+- **[00:10:06.710]**: nice way where people can get the whole
+- **[00:10:06.720]**: nice way where people can get the whole context and repurpose that on other
+- **[00:10:08.550]**: context and repurpose that on other
+- **[00:10:08.560]**: context and repurpose that on other social media. That would be an amazing
+- **[00:10:10.790]**: social media. That would be an amazing
+- **[00:10:10.800]**: social media. That would be an amazing offer and I can tell you no one is doing
+- **[00:10:12.790]**: offer and I can tell you no one is doing
+- **[00:10:12.800]**: offer and I can tell you no one is doing this. Now the fifth side hustle is
+- **[00:10:15.110]**: this. Now the fifth side hustle is
+- **[00:10:15.120]**: this. Now the fifth side hustle is creating websites for people. Similarly,
+- **[00:10:17.430]**: creating websites for people. Similarly,
+- **[00:10:17.440]**: creating websites for people. Similarly, we're in 2025. You can use AI to create
+- **[00:10:19.670]**: we're in 2025. You can use AI to create
+- **[00:10:19.680]**: we're in 2025. You can use AI to create the websites. You don't need to code.
+- **[00:10:21.350]**: the websites. You don't need to code.
+- **[00:10:21.360]**: the websites. You don't need to code. You don't need to do none of that. What
+- **[00:10:22.710]**: You don't need to do none of that. What
+- **[00:10:22.720]**: You don't need to do none of that. What you want to do is make a special offer.
+- **[00:10:24.949]**: you want to do is make a special offer.
+- **[00:10:24.959]**: you want to do is make a special offer. You don't always with a special. So,
+- **[00:10:27.030]**: You don't always with a special. So,
+- **[00:10:27.040]**: You don't always with a special. So, what you want to be doing is you listing
+- **[00:10:29.350]**: what you want to be doing is you listing
+- **[00:10:29.360]**: what you want to be doing is you listing the top 10, top 20 websites in a
+- **[00:10:31.670]**: the top 10, top 20 websites in a
+- **[00:10:31.680]**: the top 10, top 20 websites in a specific industry and then you analyze
+- **[00:10:33.590]**: specific industry and then you analyze
+- **[00:10:33.600]**: specific industry and then you analyze everything. You put all your research in
+- **[00:10:35.509]**: everything. You put all your research in
+- **[00:10:35.519]**: everything. You put all your research in a Google doc and then you can go to
+- **[00:10:37.190]**: a Google doc and then you can go to
+- **[00:10:37.200]**: a Google doc and then you can go to other people in this industry who have a
+- **[00:10:39.110]**: other people in this industry who have a
+- **[00:10:39.120]**: other people in this industry who have a very bad website and offer to either
+- **[00:10:41.030]**: very bad website and offer to either
+- **[00:10:41.040]**: very bad website and offer to either give them this doc and they pay you for
+- **[00:10:42.389]**: give them this doc and they pay you for
+- **[00:10:42.399]**: give them this doc and they pay you for it which is most likely not the case.
+- **[00:10:44.230]**: it which is most likely not the case.
+- **[00:10:44.240]**: it which is most likely not the case. People are going to be lazy. They want
+- **[00:10:45.269]**: People are going to be lazy. They want
+- **[00:10:45.279]**: People are going to be lazy. They want you to do everything. So you can offer
+- **[00:10:47.509]**: you to do everything. So you can offer
+- **[00:10:47.519]**: you to do everything. So you can offer to go and do the website for them. Now
+- **[00:10:50.230]**: to go and do the website for them. Now
+- **[00:10:50.240]**: to go and do the website for them. Now specifically to make the website you
+- **[00:10:52.069]**: specifically to make the website you
+- **[00:10:52.079]**: specifically to make the website you have two main ways. Number one is
+- **[00:10:53.990]**: have two main ways. Number one is
+- **[00:10:54.000]**: have two main ways. Number one is finding someone on a freelancing website
+- **[00:10:55.750]**: finding someone on a freelancing website
+- **[00:10:55.760]**: finding someone on a freelancing website like Upwork for example. You can pay
+- **[00:10:57.509]**: like Upwork for example. You can pay
+- **[00:10:57.519]**: like Upwork for example. You can pay them 50 to 100 bucks for them to make
+- **[00:10:59.269]**: them 50 to 100 bucks for them to make
+- **[00:10:59.279]**: them 50 to 100 bucks for them to make the website. Of course, once you find a
+- **[00:11:00.949]**: the website. Of course, once you find a
+- **[00:11:00.959]**: the website. Of course, once you find a client, and the good thing about this is
+- **[00:11:02.470]**: client, and the good thing about this is
+- **[00:11:02.480]**: client, and the good thing about this is that you'll be guaranteed a good quality
+- **[00:11:04.630]**: that you'll be guaranteed a good quality
+- **[00:11:04.640]**: that you'll be guaranteed a good quality because you'll be getting someone that's
+- **[00:11:06.069]**: because you'll be getting someone that's
+- **[00:11:06.079]**: because you'll be getting someone that's full-time's job is to make websites. So,
+- **[00:11:07.829]**: full-time's job is to make websites. So,
+- **[00:11:07.839]**: full-time's job is to make websites. So, he'll be really good at making websites.
+- **[00:11:09.350]**: he'll be really good at making websites.
+- **[00:11:09.360]**: he'll be really good at making websites. And also, you don't need experience in
+- **[00:11:11.190]**: And also, you don't need experience in
+- **[00:11:11.200]**: And also, you don't need experience in design or any of that cuz he'll be
+- **[00:11:12.550]**: design or any of that cuz he'll be
+- **[00:11:12.560]**: design or any of that cuz he'll be handling everything. You just need to
+- **[00:11:13.590]**: handling everything. You just need to
+- **[00:11:13.600]**: handling everything. You just need to make the sales and broker the deals.
+- **[00:11:15.030]**: make the sales and broker the deals.
+- **[00:11:15.040]**: make the sales and broker the deals. Now, the second option you have is
+- **[00:11:16.550]**: Now, the second option you have is
+- **[00:11:16.560]**: Now, the second option you have is making the website yourself using AI.
+- **[00:11:19.030]**: making the website yourself using AI.
+- **[00:11:19.040]**: making the website yourself using AI. This one is great because there's low
+- **[00:11:20.790]**: This one is great because there's low
+- **[00:11:20.800]**: This one is great because there's low upfront cost. You don't really have to
+- **[00:11:22.310]**: upfront cost. You don't really have to
+- **[00:11:22.320]**: upfront cost. You don't really have to pay for anything else than the software
+- **[00:11:23.910]**: pay for anything else than the software
+- **[00:11:23.920]**: pay for anything else than the software that you're building the website on. You
+- **[00:11:25.509]**: that you're building the website on. You
+- **[00:11:25.519]**: that you're building the website on. You can play the volume game and have a
+- **[00:11:27.269]**: can play the volume game and have a
+- **[00:11:27.279]**: can play the volume game and have a bunch of websites made very quickly and
+- **[00:11:29.190]**: bunch of websites made very quickly and
+- **[00:11:29.200]**: bunch of websites made very quickly and fulfill a lot of clients and have
+- **[00:11:30.550]**: fulfill a lot of clients and have
+- **[00:11:30.560]**: fulfill a lot of clients and have cheaper prices and you also will have
+- **[00:11:33.110]**: cheaper prices and you also will have
+- **[00:11:33.120]**: cheaper prices and you also will have fast delivery. Personally, if I start, I
+- **[00:11:35.670]**: fast delivery. Personally, if I start, I
+- **[00:11:35.680]**: fast delivery. Personally, if I start, I might find someone else to do the
+- **[00:11:37.030]**: might find someone else to do the
+- **[00:11:37.040]**: might find someone else to do the websites until I understand really well
+- **[00:11:38.630]**: websites until I understand really well
+- **[00:11:38.640]**: websites until I understand really well how everything works. I get a reputation
+- **[00:11:40.069]**: how everything works. I get a reputation
+- **[00:11:40.079]**: how everything works. I get a reputation built by having great websites. I can
+- **[00:11:41.590]**: built by having great websites. I can
+- **[00:11:41.600]**: built by having great websites. I can sell the websites for three or 400
+- **[00:11:42.949]**: sell the websites for three or 400
+- **[00:11:42.959]**: sell the websites for three or 400 bucks. I'm not going to charge a lot of
+- **[00:11:44.069]**: bucks. I'm not going to charge a lot of
+- **[00:11:44.079]**: bucks. I'm not going to charge a lot of money for this. I'll make sure the
+- **[00:11:45.110]**: money for this. I'll make sure the
+- **[00:11:45.120]**: money for this. I'll make sure the websites are welld designigned, etc. And
+- **[00:11:47.190]**: websites are welld designigned, etc. And
+- **[00:11:47.200]**: websites are welld designigned, etc. And then later on I can learn how to make
+- **[00:11:48.710]**: then later on I can learn how to make
+- **[00:11:48.720]**: then later on I can learn how to make the websites myself if I want to save a
+- **[00:11:50.949]**: the websites myself if I want to save a
+- **[00:11:50.959]**: the websites myself if I want to save a little bit of money. Or I can learn to
+- **[00:11:53.110]**: little bit of money. Or I can learn to
+- **[00:11:53.120]**: little bit of money. Or I can learn to scale this specifically and start a web
+- **[00:11:54.870]**: scale this specifically and start a web
+- **[00:11:54.880]**: scale this specifically and start a web design agency where I hire multiple
+- **[00:11:56.630]**: design agency where I hire multiple
+- **[00:11:56.640]**: design agency where I hire multiple people to build websites for me and that
+- **[00:11:58.470]**: people to build websites for me and that
+- **[00:11:58.480]**: people to build websites for me and that turns it into a full-time business. All
+- **[00:11:59.990]**: turns it into a full-time business. All
+- **[00:12:00.000]**: turns it into a full-time business. All in all, if you sell a website for 300
+- **[00:12:01.990]**: in all, if you sell a website for 300
+- **[00:12:02.000]**: in all, if you sell a website for 300 bucks and you can sell five of them
+- **[00:12:03.750]**: bucks and you can sell five of them
+- **[00:12:03.760]**: bucks and you can sell five of them every month, you make 1,500 bucks for
+- **[00:12:05.829]**: every month, you make 1,500 bucks for
+- **[00:12:05.839]**: every month, you make 1,500 bucks for little side hustles where you're not
+- **[00:12:07.030]**: little side hustles where you're not
+- **[00:12:07.040]**: little side hustles where you're not even doing the work. That's pretty good.
+- **[00:12:08.470]**: even doing the work. That's pretty good.
+- **[00:12:08.480]**: even doing the work. That's pretty good. Side hustle number six is building
+- **[00:12:10.550]**: Side hustle number six is building
+- **[00:12:10.560]**: Side hustle number six is building automations for businesses. Big
+- **[00:12:12.470]**: automations for businesses. Big
+- **[00:12:12.480]**: automations for businesses. Big companies that have hundreds of
+- **[00:12:13.829]**: companies that have hundreds of
+- **[00:12:13.839]**: companies that have hundreds of employees and hundreds of customers
+- **[00:12:15.750]**: employees and hundreds of customers
+- **[00:12:15.760]**: employees and hundreds of customers cannot manage everything that they do
+- **[00:12:17.590]**: cannot manage everything that they do
+- **[00:12:17.600]**: cannot manage everything that they do manually. They need automations for
+- **[00:12:19.670]**: manually. They need automations for
+- **[00:12:19.680]**: manually. They need automations for things to be done automatically. For
+- **[00:12:21.190]**: things to be done automatically. For
+- **[00:12:21.200]**: things to be done automatically. For example, an email to be sent when a new
+- **[00:12:23.269]**: example, an email to be sent when a new
+- **[00:12:23.279]**: example, an email to be sent when a new customer comes in, a notification to be
+- **[00:12:25.110]**: customer comes in, a notification to be
+- **[00:12:25.120]**: customer comes in, a notification to be received when a customer has a specific
+- **[00:12:26.870]**: received when a customer has a specific
+- **[00:12:26.880]**: received when a customer has a specific request and needs a specific help. All
+- **[00:12:28.949]**: request and needs a specific help. All
+- **[00:12:28.959]**: request and needs a specific help. All these little automations will save them
+- **[00:12:31.190]**: these little automations will save them
+- **[00:12:31.200]**: these little automations will save them time and eventually save them money.
+- **[00:12:33.509]**: time and eventually save them money.
+- **[00:12:33.519]**: time and eventually save them money. Zapier is a huge software for
+- **[00:12:36.069]**: Zapier is a huge software for
+- **[00:12:36.079]**: Zapier is a huge software for automations. It basically interconnects
+- **[00:12:38.230]**: automations. It basically interconnects
+- **[00:12:38.240]**: automations. It basically interconnects a bunch of softwares like Google Sheets,
+- **[00:12:40.629]**: a bunch of softwares like Google Sheets,
+- **[00:12:40.639]**: a bunch of softwares like Google Sheets, Slack, Discord, emails, all these kind
+- **[00:12:42.949]**: Slack, Discord, emails, all these kind
+- **[00:12:42.959]**: Slack, Discord, emails, all these kind of softwares and you can create what's
+- **[00:12:44.870]**: of softwares and you can create what's
+- **[00:12:44.880]**: of softwares and you can create what's called zaps. A zap is basically a list
+- **[00:12:47.430]**: called zaps. A zap is basically a list
+- **[00:12:47.440]**: called zaps. A zap is basically a list of actions that's going to be happening
+- **[00:12:49.750]**: of actions that's going to be happening
+- **[00:12:49.760]**: of actions that's going to be happening once something triggers them. For
+- **[00:12:51.269]**: once something triggers them. For
+- **[00:12:51.279]**: once something triggers them. For example, if you receive an email, then
+- **[00:12:53.590]**: example, if you receive an email, then
+- **[00:12:53.600]**: example, if you receive an email, then send this message to one of the
+- **[00:12:55.110]**: send this message to one of the
+- **[00:12:55.120]**: send this message to one of the employees and also start this other
+- **[00:12:57.190]**: employees and also start this other
+- **[00:12:57.200]**: employees and also start this other sequence on the side. This can be very
+- **[00:12:59.110]**: sequence on the side. This can be very
+- **[00:12:59.120]**: sequence on the side. This can be very timeconuming if someone is doing it
+- **[00:13:00.870]**: timeconuming if someone is doing it
+- **[00:13:00.880]**: timeconuming if someone is doing it manually. So it can be automated with
+- **[00:13:03.269]**: manually. So it can be automated with
+- **[00:13:03.279]**: manually. So it can be automated with Zapier. And your job as an automation
+- **[00:13:05.269]**: Zapier. And your job as an automation
+- **[00:13:05.279]**: Zapier. And your job as an automation builder is to find time- conssuming
+- **[00:13:07.750]**: builder is to find time- conssuming
+- **[00:13:07.760]**: builder is to find time- conssuming tasks and automate them with Zapier. For
+- **[00:13:10.230]**: tasks and automate them with Zapier. For
+- **[00:13:10.240]**: tasks and automate them with Zapier. For example, remember what we spoke about
+- **[00:13:12.150]**: example, remember what we spoke about
+- **[00:13:12.160]**: example, remember what we spoke about appointment setting when you want to set
+- **[00:13:13.750]**: appointment setting when you want to set
+- **[00:13:13.760]**: appointment setting when you want to set the expectation, make sure people are
+- **[00:13:15.509]**: the expectation, make sure people are
+- **[00:13:15.519]**: the expectation, make sure people are coming on board, knowing what they need
+- **[00:13:16.790]**: coming on board, knowing what they need
+- **[00:13:16.800]**: coming on board, knowing what they need to buy, etc. Starting the sale before
+- **[00:13:18.870]**: to buy, etc. Starting the sale before
+- **[00:13:18.880]**: to buy, etc. Starting the sale before you come in. Those things can be
+- **[00:13:20.710]**: you come in. Those things can be
+- **[00:13:20.720]**: you come in. Those things can be automated to a certain degree. There are
+- **[00:13:22.710]**: automated to a certain degree. There are
+- **[00:13:22.720]**: automated to a certain degree. There are plenty of tutorials on Zapier. There are
+- **[00:13:24.870]**: plenty of tutorials on Zapier. There are
+- **[00:13:24.880]**: plenty of tutorials on Zapier. There are other softwares like make.com that can
+- **[00:13:27.110]**: other softwares like make.com that can
+- **[00:13:27.120]**: other softwares like make.com that can also help you make those automations.
+- **[00:13:29.110]**: also help you make those automations.
+- **[00:13:29.120]**: also help you make those automations. What you want to do here is play the
+- **[00:13:30.790]**: What you want to do here is play the
+- **[00:13:30.800]**: What you want to do here is play the long-term game. You want to be really
+- **[00:13:32.389]**: long-term game. You want to be really
+- **[00:13:32.399]**: long-term game. You want to be really good at automations. Start small with
+- **[00:13:34.470]**: good at automations. Start small with
+- **[00:13:34.480]**: good at automations. Start small with $50, $100 automations and work your way
+- **[00:13:36.710]**: $50, $100 automations and work your way
+- **[00:13:36.720]**: $50, $100 automations and work your way up until you can build really big stock
+- **[00:13:38.790]**: up until you can build really big stock
+- **[00:13:38.800]**: up until you can build really big stock of automations and charge a lot for it.
+- **[00:13:40.389]**: of automations and charge a lot for it.
+- **[00:13:40.399]**: of automations and charge a lot for it. Now, for the final and last side hustle,
+- **[00:13:42.230]**: Now, for the final and last side hustle,
+- **[00:13:42.240]**: Now, for the final and last side hustle, I kept the best for the end. It is
+- **[00:13:44.230]**: I kept the best for the end. It is
+- **[00:13:44.240]**: I kept the best for the end. It is influencer marketing. It's the one that
+- **[00:13:45.750]**: influencer marketing. It's the one that
+- **[00:13:45.760]**: influencer marketing. It's the one that alle personally used myself and I made
+- **[00:13:48.389]**: alle personally used myself and I made
+- **[00:13:48.399]**: alle personally used myself and I made most of my money from when I was a
+- **[00:13:50.230]**: most of my money from when I was a
+- **[00:13:50.240]**: most of my money from when I was a beginner. Now, influencer marketing is
+- **[00:13:51.750]**: beginner. Now, influencer marketing is
+- **[00:13:51.760]**: beginner. Now, influencer marketing is simple. You basically want to have
+- **[00:13:53.110]**: simple. You basically want to have
+- **[00:13:53.120]**: simple. You basically want to have influencers get brand deals and you take
+- **[00:13:55.590]**: influencers get brand deals and you take
+- **[00:13:55.600]**: influencers get brand deals and you take a commission on the deal. That's it. Now
+- **[00:13:57.910]**: a commission on the deal. That's it. Now
+- **[00:13:57.920]**: a commission on the deal. That's it. Now disclaimer, you don't want to work with
+- **[00:13:59.430]**: disclaimer, you don't want to work with
+- **[00:13:59.440]**: disclaimer, you don't want to work with any haram influencers. So anyone that
+- **[00:14:01.030]**: any haram influencers. So anyone that
+- **[00:14:01.040]**: any haram influencers. So anyone that uses music, anyone that has like fitness
+- **[00:14:03.110]**: uses music, anyone that has like fitness
+- **[00:14:03.120]**: uses music, anyone that has like fitness and shows his or some finances has a
+- **[00:14:05.990]**: and shows his or some finances has a
+- **[00:14:06.000]**: and shows his or some finances has a clear nogo. Now the next thing once you
+- **[00:14:07.829]**: clear nogo. Now the next thing once you
+- **[00:14:07.839]**: clear nogo. Now the next thing once you found a few influencers that you can
+- **[00:14:09.030]**: found a few influencers that you can
+- **[00:14:09.040]**: found a few influencers that you can work with, you want to make sure they
+- **[00:14:10.550]**: work with, you want to make sure they
+- **[00:14:10.560]**: work with, you want to make sure they have the right amount of followers so
+- **[00:14:12.069]**: have the right amount of followers so
+- **[00:14:12.079]**: have the right amount of followers so that you can actually make money because
+- **[00:14:13.590]**: that you can actually make money because
+- **[00:14:13.600]**: that you can actually make money because if they're not big enough for companies
+- **[00:14:15.269]**: if they're not big enough for companies
+- **[00:14:15.279]**: if they're not big enough for companies to pay them, you're not going to make
+- **[00:14:16.389]**: to pay them, you're not going to make
+- **[00:14:16.399]**: to pay them, you're not going to make any money. So you want to find people
+- **[00:14:17.670]**: any money. So you want to find people
+- **[00:14:17.680]**: any money. So you want to find people between 200k and 500k followers. It's
+- **[00:14:21.189]**: between 200k and 500k followers. It's
+- **[00:14:21.199]**: between 200k and 500k followers. It's very important because if the influencer
+- **[00:14:22.710]**: very important because if the influencer
+- **[00:14:22.720]**: very important because if the influencer is too small, companies most of the time
+- **[00:14:24.629]**: is too small, companies most of the time
+- **[00:14:24.639]**: is too small, companies most of the time won't really want to pay him. Now, on
+- **[00:14:26.389]**: won't really want to pay him. Now, on
+- **[00:14:26.399]**: won't really want to pay him. Now, on average, the commission you can start
+- **[00:14:27.910]**: average, the commission you can start
+- **[00:14:27.920]**: average, the commission you can start taking when you're a beginner are
+- **[00:14:29.590]**: taking when you're a beginner are
+- **[00:14:29.600]**: taking when you're a beginner are between 15 and 20%, you don't want to
+- **[00:14:31.590]**: between 15 and 20%, you don't want to
+- **[00:14:31.600]**: between 15 and 20%, you don't want to get greedy. You just want to start
+- **[00:14:32.870]**: get greedy. You just want to start
+- **[00:14:32.880]**: get greedy. You just want to start making a little bit of money. Now, if
+- **[00:14:34.470]**: making a little bit of money. Now, if
+- **[00:14:34.480]**: making a little bit of money. Now, if you agree with the influencer that any
+- **[00:14:36.230]**: you agree with the influencer that any
+- **[00:14:36.240]**: you agree with the influencer that any deal you bring his way, he'll pay you a
+- **[00:14:37.829]**: deal you bring his way, he'll pay you a
+- **[00:14:37.839]**: deal you bring his way, he'll pay you a cut of it 15 20%, then you can start
+- **[00:14:40.389]**: cut of it 15 20%, then you can start
+- **[00:14:40.399]**: cut of it 15 20%, then you can start reaching out to companies, showing them
+- **[00:14:42.150]**: reaching out to companies, showing them
+- **[00:14:42.160]**: reaching out to companies, showing them exactly why this influencer is amazing,
+- **[00:14:44.069]**: exactly why this influencer is amazing,
+- **[00:14:44.079]**: exactly why this influencer is amazing, how amazing he is, and how he can gain
+- **[00:14:45.910]**: how amazing he is, and how he can gain
+- **[00:14:45.920]**: how amazing he is, and how he can gain them a bunch more sales. Once they
+- **[00:14:47.590]**: them a bunch more sales. Once they
+- **[00:14:47.600]**: them a bunch more sales. Once they accept, broker the deal, sign a contract
+- **[00:14:49.750]**: accept, broker the deal, sign a contract
+- **[00:14:49.760]**: accept, broker the deal, sign a contract between the influencer and you, and sign
+- **[00:14:51.829]**: between the influencer and you, and sign
+- **[00:14:51.839]**: between the influencer and you, and sign another contract between the brand and
+- **[00:14:53.750]**: another contract between the brand and
+- **[00:14:53.760]**: another contract between the brand and you. Make sure they never get in touch
+- **[00:14:55.509]**: you. Make sure they never get in touch
+- **[00:14:55.519]**: you. Make sure they never get in touch otherwise they'll just cut you off the
+- **[00:14:56.790]**: otherwise they'll just cut you off the
+- **[00:14:56.800]**: otherwise they'll just cut you off the deal. And if you don't know how to
+- **[00:14:58.069]**: deal. And if you don't know how to
+- **[00:14:58.079]**: deal. And if you don't know how to create a contract you can simply use a
+- **[00:14:59.910]**: create a contract you can simply use a
+- **[00:14:59.920]**: create a contract you can simply use a software like docuign pendoc and create
+- **[00:15:02.949]**: software like docuign pendoc and create
+- **[00:15:02.959]**: software like docuign pendoc and create an online contract between you and him.
+- **[00:15:05.750]**: an online contract between you and him.
+- **[00:15:05.760]**: an online contract between you and him. You can ask about the legislations in
+- **[00:15:08.470]**: You can ask about the legislations in
+- **[00:15:08.480]**: You can ask about the legislations in your country to make sure you're
+- **[00:15:09.750]**: your country to make sure you're
+- **[00:15:09.760]**: your country to make sure you're respecting all the rules. Ask it also to
+- **[00:15:12.230]**: respecting all the rules. Ask it also to
+- **[00:15:12.240]**: respecting all the rules. Ask it also to write up the contract. Get both people
+- **[00:15:13.670]**: write up the contract. Get both people
+- **[00:15:13.680]**: write up the contract. Get both people to sign it and then you can go ahead
+- **[00:15:15.350]**: to sign it and then you can go ahead
+- **[00:15:15.360]**: to sign it and then you can go ahead with the deal. Once the deal is done you
+- **[00:15:17.110]**: with the deal. Once the deal is done you
+- **[00:15:17.120]**: with the deal. Once the deal is done you can get paid. When you're starting out,
+- **[00:15:18.550]**: can get paid. When you're starting out,
+- **[00:15:18.560]**: can get paid. When you're starting out, you can expect to make a,000, 2,000
+- **[00:15:20.470]**: you can expect to make a,000, 2,000
+- **[00:15:20.480]**: you can expect to make a,000, 2,000 bucks a month working, you know, about
+- **[00:15:22.389]**: bucks a month working, you know, about
+- **[00:15:22.399]**: bucks a month working, you know, about 20 hours a week on the model. And you
+- **[00:15:24.470]**: 20 hours a week on the model. And you
+- **[00:15:24.480]**: 20 hours a week on the model. And you can also scale it. If you have bigger
+- **[00:15:26.069]**: can also scale it. If you have bigger
+- **[00:15:26.079]**: can also scale it. If you have bigger influencers, you can charge bigger
+- **[00:15:27.350]**: influencers, you can charge bigger
+- **[00:15:27.360]**: influencers, you can charge bigger commissions, etc., etc. I actually have
+- **[00:15:29.350]**: commissions, etc., etc. I actually have
+- **[00:15:29.360]**: commissions, etc., etc. I actually have data to show you how you can make
+- **[00:15:30.710]**: data to show you how you can make
+- **[00:15:30.720]**: data to show you how you can make because I ran this model myself and I
+- **[00:15:32.389]**: because I ran this model myself and I
+- **[00:15:32.399]**: because I ran this model myself and I coached a few guys on how to do this as
+- **[00:15:34.069]**: coached a few guys on how to do this as
+- **[00:15:34.079]**: coached a few guys on how to do this as well. Now, you can see this brotheric
+- **[00:15:35.750]**: well. Now, you can see this brotheric
+- **[00:15:35.760]**: well. Now, you can see this brotheric closed the deal for 12K, made about 3K
+- **[00:15:37.990]**: closed the deal for 12K, made about 3K
+- **[00:15:38.000]**: closed the deal for 12K, made about 3K profitabic, which is about 25% of the
+- **[00:15:40.790]**: profitabic, which is about 25% of the
+- **[00:15:40.800]**: profitabic, which is about 25% of the deal, and that is just through one deal.
+- **[00:15:43.350]**: deal, and that is just through one deal.
+- **[00:15:43.360]**: deal, and that is just through one deal. Now, you have big people who close way
+- **[00:15:44.949]**: Now, you have big people who close way
+- **[00:15:44.959]**: Now, you have big people who close way bigger deals, etc. But when you start
+- **[00:15:46.629]**: bigger deals, etc. But when you start
+- **[00:15:46.639]**: bigger deals, etc. But when you start out, usually you're going to close
+- **[00:15:47.829]**: out, usually you're going to close
+- **[00:15:47.839]**: out, usually you're going to close smaller deals like $1,200 on $400
+- **[00:15:50.550]**: smaller deals like $1,200 on $400
+- **[00:15:50.560]**: smaller deals like $1,200 on $400 profit, 3K deal with 1k profit, $1,200
+- **[00:15:53.509]**: profit, 3K deal with 1k profit, $1,200
+- **[00:15:53.519]**: profit, 3K deal with 1k profit, $1,200 with $800 profit. But these are very
+- **[00:15:56.069]**: with $800 profit. But these are very
+- **[00:15:56.079]**: with $800 profit. But these are very small deals with very, very small
+- **[00:15:57.910]**: small deals with very, very small
+- **[00:15:57.920]**: small deals with very, very small influences. Of course, later on you can
+- **[00:16:00.069]**: influences. Of course, later on you can
+- **[00:16:00.079]**: influences. Of course, later on you can close some bigger deals, have some
+- **[00:16:01.590]**: close some bigger deals, have some
+- **[00:16:01.600]**: close some bigger deals, have some madness. You can have some people that
+- **[00:16:02.870]**: madness. You can have some people that
+- **[00:16:02.880]**: madness. You can have some people that are making up to 100k a month, etc.
+- **[00:16:04.629]**: are making up to 100k a month, etc.
+- **[00:16:04.639]**: are making up to 100k a month, etc. That's way later down the line once you
+- **[00:16:06.389]**: That's way later down the line once you
+- **[00:16:06.399]**: That's way later down the line once you have established your agency properly,
+- **[00:16:08.550]**: have established your agency properly,
+- **[00:16:08.560]**: have established your agency properly, etc. If you want to start, simply be an
+- **[00:16:10.790]**: etc. If you want to start, simply be an
+- **[00:16:10.800]**: etc. If you want to start, simply be an influencer agent. Find one or two
+- **[00:16:12.310]**: influencer agent. Find one or two
+- **[00:16:12.320]**: influencer agent. Find one or two influencers that you actually want to
+- **[00:16:13.749]**: influencers that you actually want to
+- **[00:16:13.759]**: influencers that you actually want to work with. help them find the right
+- **[00:16:15.189]**: work with. help them find the right
+- **[00:16:15.199]**: work with. help them find the right brands and they'll help you make money
+- **[00:16:17.590]**: brands and they'll help you make money
+- **[00:16:17.600]**: brands and they'll help you make money as well. So now that I showed you the
+- **[00:16:19.030]**: as well. So now that I showed you the
+- **[00:16:19.040]**: as well. So now that I showed you the seven side hustles, you might ask me,
+- **[00:16:20.870]**: seven side hustles, you might ask me,
+- **[00:16:20.880]**: seven side hustles, you might ask me, "But how am I going to close clients?"
+- **[00:16:22.389]**: "But how am I going to close clients?"
+- **[00:16:22.399]**: "But how am I going to close clients?" Well, habibi, watch this next video. I
+- **[00:16:24.550]**: Well, habibi, watch this next video. I
+- **[00:16:24.560]**: Well, habibi, watch this next video. I break down everything. Michael.

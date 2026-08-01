@@ -1,0 +1,14 @@
+{
+  "tier": "Tier 3 - Automatic Captions",
+  "language": "en",
+  "is_machine_generated": true,
+  "caption_format": "vtt",
+  "method": "yt_dlp_auto",
+  "character_count": 60002,
+  "estimated_word_count": 11255,
+  "detected_segments": {
+    "intros": [],
+    "sponsorships": [],
+    "outros": []
+  }
+}
