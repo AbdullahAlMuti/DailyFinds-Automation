@@ -1,18 +1,46 @@
 youtube_url: "https://www.youtube.com/watch?v=DhEMFeo_gL8"
-video_url: "https://www.youtube.com/watch?v=DhEMFeo_gL8"
-
-publishing:
-  mode: "draft"
-  dry_run: false
-  duplicate_policy: "stop"
-
-wordpress:
-  category: "Gadgets"
-  tags: ["DailyFindz", "AI Tools", "Productivity"]
-  status: "draft"
 
 content:
-  minimum_words: 3000
-  maximum_words: 4500
-  brand_tone: "professional, natural, knowledgeable and practical"
-  require_pros_cons: true
+  target_language: "English"
+  audience: "Beginners interested in practical home and tech solutions"
+  target_market: "US"
+  tone: "Honest, practical, friendly expert"
+  minimum_words: 1800
+  maximum_words: 2400
+  include_faq: true
+  include_key_takeaways: true
+  include_table_of_contents: true
+  include_video_embed: true
+
+transcription:
+  preferred_language: "en"
+  accept_creator_captions: true
+  accept_auto_captions: true
+  permit_audio_download: false
+  permit_local_transcription: false
+  whisper_model: "small"
+  timestamps: true
+
+images:
+  featured_image: true
+  supporting_images: 2
+  featured_ratio: "16:9"
+  supporting_ratio: "16:9"
+  style: "Editorial, professional, realistic"
+  include_text_inside_images: false
+  avoid_logos: true
+  avoid_trademarks: true
+  avoid_celebrity_likeness: true
+
+wordpress:
+  status: "draft"
+  category: "Business & AI"
+  tags: ["Business", "Automation", "DailyFindz"]
+  author_id: 1
+  comments: "closed"
+  seo_plugin: "none"
+
+publishing:
+  duplicate_policy: "stop"
+  require_quality_pass: true
+  require_human_review_for_sensitive_topics: true
