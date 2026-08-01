@@ -67,7 +67,7 @@ Output files created in `outputs/<VIDEO_ID>/`:
    - Aspect ratio: `16:9`
    - Prompt: Realistic, professional editorial photography. No text inside image, no brand logos.
    - Save to `outputs/<VIDEO_ID>/images/primary-keyword-featured-image.webp`.
-4. Call `generate_image` tool for **inline supporting images** — generate a **minimum of 3, up to 9** (total 4–10 images including featured):
+4. Call `generate_image` tool for **inline supporting images** — generate a **minimum of 4, up to 9** (total **5–10** images including featured). This is required for AdSense approval:
    - Each image must represent a distinct section/concept of the article.
    - Distribute evenly: aim for one image per every 2 H2 sections.
    - Aspect ratio: `16:9` for each.

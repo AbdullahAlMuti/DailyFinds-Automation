@@ -4,7 +4,7 @@ All images must be generated using Antigravity's native `generate_image` tool.
 
 ## Technical Specifications
 - **Featured Image**: 1 image, 16:9 aspect ratio, high resolution (compressed to ≤1200px width WEBP/JPEG, <150KB for upload).
-- **Supporting/Inline Images**: **Minimum 3, maximum 9** supporting images per article (total 4–10 including featured). Each 16:9 aspect ratio.
+- **Supporting/Inline Images**: **Minimum 4, maximum 9** supporting images per article (total **5–10** including featured). Each 16:9 aspect ratio. This meets the AdSense image-richness standard.
 - **NO YouTube or video embeds**: Do NOT include any YouTube iframes, WordPress `wp:embed`, oEmbed blocks, or `<iframe>` tags inside the article. Replace all video content with generated images.
 - **Filenames**: Hyphenated, descriptive, lower-case (`primary-keyword-featured.webp`, `topic-step-one.webp`).
 

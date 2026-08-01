@@ -1,7 +1,12 @@
 """
 Quality Checker & Safety Gate Engine.
 Evaluates content packages against blocking and non-blocking quality criteria.
-Enforces Google AdSense Readiness & $2,000-$3,000/month Professional Quality Standards.
+Enforces Google AdSense Approval Standards:
+  - Minimum 3,500 words per article (thin-content protection)
+  - Minimum 5 images per article (1 featured + 4 inline)
+  - No raw video speech markers
+  - No placeholder text
+  - Featured image with alt text required
 Generates quality-report.json and quality-report.md.
 """
 
@@ -78,12 +83,16 @@ def evaluate_quality(package_dir: str, job_config: Dict[str, Any]) -> Dict[str, 
             if re.search(p, article_md_text, re.IGNORECASE) or re.search(p, article_html_text, re.IGNORECASE):
                 blocking_failures.append(f"Placeholder text detected: matches pattern '{p}'")
 
-        # Professional Word Count Check (AdSense Standard: 3,000 - 3,500 words)
+        # Professional Word Count Check (AdSense Approval Standard: 3,500+ words)
         checks_performed.append("word_count")
-        min_words = job_config.get("content", {}).get("minimum_words", 3000)
+        min_words = job_config.get("content", {}).get("minimum_words", 3500)
         word_count = len(article_md_text.split())
         if word_count < min_words:
-            blocking_failures.append(f"Word count below professional minimum: {word_count} words (configured minimum: {min_words}).")
+            blocking_failures.append(
+                f"Word count below AdSense minimum: {word_count} words "
+                f"(required: {min_words}). Articles under {min_words} words "
+                f"are classified as thin content and will be rejected by AdSense."
+            )
 
 
         # Raw Transcript Speech Marker Check (AdSense Thin Content Prevention)
@@ -108,10 +117,12 @@ def evaluate_quality(package_dir: str, job_config: Dict[str, Any]) -> Dict[str, 
         if "<script" in article_html_text.lower() or "onclick" in article_html_text.lower():
             blocking_failures.append("Unsafe HTML detected: script tag or inline event handler present.")
 
-    # 3. Image Checks
+    # 3. Image Checks (AdSense: minimum 5 images total — 1 featured + 4 inline)
     img_manifest_path = os.path.join(images_dir, "image-manifest.json")
     checks_performed.append("featured_image")
+    checks_performed.append("image_count")
     req_featured = job_config.get("images", {}).get("featured_image", True)
+    min_images = job_config.get("images", {}).get("minimum_images", 5)
 
     if req_featured:
         if not os.path.exists(img_manifest_path):
@@ -119,6 +130,8 @@ def evaluate_quality(package_dir: str, job_config: Dict[str, Any]) -> Dict[str, 
         else:
             with open(img_manifest_path, "r", encoding="utf-8") as f:
                 manifest = json.load(f)
+
+            # --- Featured image check ---
             featured_entry = next((img for img in manifest if img.get("placement") == "featured"), None)
             if not featured_entry:
                 blocking_failures.append("Featured image entry missing from image-manifest.json.")
@@ -128,6 +141,15 @@ def evaluate_quality(package_dir: str, job_config: Dict[str, Any]) -> Dict[str, 
                     blocking_failures.append(f"Featured image file missing on disk: {img_path}")
                 if not featured_entry.get("alt_text"):
                     blocking_failures.append("Featured image missing required alt text.")
+
+            # --- Total image count check (AdSense approval threshold) ---
+            total_images = len(manifest)
+            if total_images < min_images:
+                blocking_failures.append(
+                    f"Insufficient images for AdSense approval: {total_images} image(s) found, "
+                    f"minimum {min_images} required (1 featured + at least {min_images - 1} inline). "
+                    f"Add more generated images to reach the {min_images}-image threshold."
+                )
 
     # 4. Schema JSON Check
     schema_path = os.path.join(seo_dir, "schema.json")
