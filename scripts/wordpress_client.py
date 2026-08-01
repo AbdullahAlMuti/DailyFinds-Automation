@@ -6,6 +6,7 @@ post creation/updating, duplicate protection, read-back verification, and public
 
 import os
 import json
+import re
 import sys
 from typing import Dict, Any, List, Optional, Tuple
 import requests
@@ -263,6 +264,25 @@ class WordPressClient:
         logger.info(f"Media '{filename}' uploaded successfully (Media ID: {media_id})")
         return media_data
 
+    # ------------------------------------------------------------------
+    # YouTube / video embed stripping
+    # ------------------------------------------------------------------
+
+    _YOUTUBE_EMBED_PATTERNS = [
+        re.compile(r'<!-- wp:embed.*?<!-- /wp:embed -->', re.DOTALL),
+        re.compile(r'<iframe[^>]*(?:youtube|youtu\.be|vimeo|video)[^>]*>.*?</iframe>', re.DOTALL | re.IGNORECASE),
+        re.compile(r'<iframe[^>]*>.*?</iframe>', re.DOTALL | re.IGNORECASE),
+        re.compile(r'\[embed\].*?\[/embed\]', re.DOTALL | re.IGNORECASE),
+        re.compile(r'(?m)^https?://(?:www\.)?(?:youtube\.com|youtu\.be)/\S+\s*$'),
+    ]
+
+    def _strip_video_embeds(self, html: str) -> str:
+        """Remove YouTube iframes, oEmbed blocks, and bare video URLs from HTML."""
+        for pattern in self._YOUTUBE_EMBED_PATTERNS:
+            html = pattern.sub('', html)
+        html = re.sub(r'\n{3,}', '\n\n', html)
+        return html
+
     def create_post(
         self,
         title: str,
@@ -278,7 +298,10 @@ class WordPressClient:
     ) -> Dict[str, Any]:
         """
         Creates or updates a WordPress post enforcing safety tri-locks.
+        Automatically strips YouTube embeds and iframes before upload.
         """
+        # Strip any YouTube / video embeds before posting
+        content_html = self._strip_video_embeds(content_html)
         # Determine status via tri-lock
         env_allow_pub = os.getenv("WP_ALLOW_PUBLICATION", "false").lower() == "true"
         final_status = "draft"

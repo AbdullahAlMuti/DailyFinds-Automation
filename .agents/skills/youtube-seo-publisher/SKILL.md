@@ -62,12 +62,17 @@ Output files created in `outputs/<VIDEO_ID>/`:
 
 ### Step 5: Native Image Generation
 1. Formulate prompts in `outputs/<VIDEO_ID>/images/image-prompts.md` using `.agents/skills/youtube-seo-publisher/resources/image-rules.md`.
-2. Call `generate_image` tool for featured image:
+2. **MANDATORY**: Do NOT embed YouTube videos, iframes, or oEmbed blocks anywhere in the article. Replace all video references with generated images.
+3. Call `generate_image` tool for the **featured image** (1 image):
    - Aspect ratio: `16:9`
    - Prompt: Realistic, professional editorial photography. No text inside image, no brand logos.
-   - Save output image file to `outputs/<VIDEO_ID>/images/primary-keyword-featured-image.webp`.
-3. Call `generate_image` tool for supporting images (1 to 2 images).
-4. Save metadata into `outputs/<VIDEO_ID>/images/image-manifest.json`.
+   - Save to `outputs/<VIDEO_ID>/images/primary-keyword-featured-image.webp`.
+4. Call `generate_image` tool for **inline supporting images** — generate a **minimum of 3, up to 9** (total 4–10 images including featured):
+   - Each image must represent a distinct section/concept of the article.
+   - Distribute evenly: aim for one image per every 2 H2 sections.
+   - Aspect ratio: `16:9` for each.
+   - Name sequentially: `inline-1.webp`, `inline-2.webp`, … `inline-9.webp`.
+5. Save all metadata into `outputs/<VIDEO_ID>/images/image-manifest.json` with placement keys `featured`, `inline-1` through `inline-9`.
 
 ### Resource Files
 - [.agents/skills/youtube-seo-publisher/resources/dailyfindz-brand-rules.md](file:///d:/eBay%20Software/DailyFindz/.agents/skills/youtube-seo-publisher/resources/dailyfindz-brand-rules.md): Brand colors, voice, author guidelines, and paused affiliate rules.

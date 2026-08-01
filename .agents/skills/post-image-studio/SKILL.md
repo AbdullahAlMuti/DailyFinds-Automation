@@ -16,7 +16,8 @@ An end-to-end image production and optimization studio for blog articles and Wor
    - Enforce clean, modern, realistic photography without heavy text overlays or brand logos.
 2. **Native Image Generation**:
    - Generate 1 Featured Image (16:9).
-   - Generate up to 3 Supporting/Inline Images (16:9).
+   - Generate **minimum 3, up to 9** Supporting/Inline Images (16:9) — total 4–10 images per article.
+   - **NEVER** embed YouTube iframes, oEmbed blocks, or video shortcodes. Use generated images only.
 3. **Resizing & Cropping (`scripts/resize_images.py`)**:
    - Process images with Pillow (`PIL`) into defined size profiles (Featured, Inline, Social).
 4. **Optimization (`scripts/optimize_images.py`)**:
