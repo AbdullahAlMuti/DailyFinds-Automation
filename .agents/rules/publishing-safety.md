@@ -48,4 +48,10 @@ If an article touches on sensitive or high-impact topics, it MUST be forced to `
 - **Media Quality**: All post images must be generated natively via `post-image-studio`, optimized (<150KB WebP/JPEG), packaged with `image-manifest.json`, and uploaded directly into WordPress post content.
 - **Rich Schema**: Include validated `BlogPosting` and `FAQPage` JSON-LD schema on every post package.
 
+## 6. No Video Embeds Rule
+
+- **NO YouTube Video Embeds**: Do NOT embed YouTube videos (`<iframe ...>`, video player embeds, or video links) inside the published HTML or Markdown article content.
+- **ALWAYS Generate Original Educational Images**: Every article MUST generate and use 4 custom, high-quality visual images (1 Featured Hero Image + 3 Inline Educational Visual Diagrams) created natively via `generate_image` and processed through `post-image-studio`.
+
+
 
